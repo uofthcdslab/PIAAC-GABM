@@ -1,0 +1,257 @@
+[
+  {
+    "id": "6f453809-84d3-4d37-9a30-242c5bee6b5a",
+    "name": "Potential in Canada",
+    "prompt": "Does the text suggest that the policy has the potential to enhance AI literacy specifically in Canada?",
+    "example_ids": [
+      "PIAAC-4201",
+      "PIAAC-2102-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "6f453809-84d3-4d37-9a30-242c5bee6b5a"
+  },
+  {
+    "id": "2d794147-313d-4d2a-867f-08c18fb9b979",
+    "name": "Postsecondary Focus",
+    "prompt": "Does the text indicate that the policy aims to improve AI literacy specifically for postsecondary students?",
+    "example_ids": [
+      "PIAAC-441-3",
+      "PIAAC-7431"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "2d794147-313d-4d2a-867f-08c18fb9b979"
+  },
+  {
+    "id": "0fc17b97-4a9b-4f1e-8130-38d3b976031e",
+    "name": "Moderate Effectiveness",
+    "prompt": "Does the text describe the policy as having moderate effectiveness in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-5921",
+      "PIAAC-7060"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "0fc17b97-4a9b-4f1e-8130-38d3b976031e"
+  },
+  {
+    "id": "18ff233b-a71f-47ce-a3a6-5b062db3c12c",
+    "name": "Ambitious Student Goal",
+    "prompt": "Does the text mention an ambitious goal related to educating or reaching one million students?",
+    "example_ids": [
+      "PIAAC-9941-3",
+      "PIAAC-8479"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "18ff233b-a71f-47ce-a3a6-5b062db3c12c"
+  },
+  {
+    "id": "b2af3bd1-42ac-4cd4-ac81-e4ee0e45d5f7",
+    "name": "Significant Student Benefit",
+    "prompt": "Does the text suggest that one million students will benefit significantly from the policy?",
+    "example_ids": [
+      "PIAAC-8110",
+      "PIAAC-7098"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "b2af3bd1-42ac-4cd4-ac81-e4ee0e45d5f7"
+  },
+  {
+    "id": "0128e67a-d665-43e8-873d-806e502e7dec",
+    "name": "Access Barriers",
+    "prompt": "Does the text mention any barriers related to access to technology or resources that might hinder AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-968",
+      "PIAAC-4558"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "0128e67a-d665-43e8-873d-806e502e7dec"
+  },
+  {
+    "id": "5890963a-7903-4b90-9d65-58bcce5d834c",
+    "name": "Ethical Concerns",
+    "prompt": "Does the text highlight any ethical concerns or implications that could affect the adoption of AI?",
+    "example_ids": [
+      "PIAAC-5500",
+      "PIAAC-7975"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "5890963a-7903-4b90-9d65-58bcce5d834c"
+  },
+  {
+    "id": "e60a8464-5595-49da-b71c-05465aacd2ab",
+    "name": "Training Needs",
+    "prompt": "Does the text discuss the need for training or support to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11173",
+      "PIAAC-6181"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "e60a8464-5595-49da-b71c-05465aacd2ab"
+  },
+  {
+    "id": "0f805d83-57a4-401d-85a4-b83593fea2b3",
+    "name": "Trust Issues",
+    "prompt": "Does the text mention trust issues that might impact the effectiveness of AI adoption?",
+    "example_ids": [
+      "PIAAC-5376",
+      "PIAAC-7023"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "0f805d83-57a4-401d-85a4-b83593fea2b3"
+  },
+  {
+    "id": "48521af2-604a-403d-ad2b-54d262c5d6c3",
+    "name": "Diverse Needs",
+    "prompt": "Does the text address the importance of catering to diverse needs or backgrounds to enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10497",
+      "PIAAC-4992-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "48521af2-604a-403d-ad2b-54d262c5d6c3"
+  },
+  {
+    "id": "25f98c1b-a7bd-4cc3-b023-78995a07fba8",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text express concerns about the overall effectiveness of the policy in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8747-2",
+      "PIAAC-11551"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "25f98c1b-a7bd-4cc3-b023-78995a07fba8"
+  },
+  {
+    "id": "d8affbb5-54f1-4f5c-b8f0-1203bf577eda",
+    "name": "Government Commitment",
+    "prompt": "Does the text mention government commitment as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10127-2",
+      "PIAAC-3814"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "d8affbb5-54f1-4f5c-b8f0-1203bf577eda"
+  },
+  {
+    "id": "545819f8-7315-46da-9186-f0edef631d06",
+    "name": "Access to Trusted AI",
+    "prompt": "Does the text highlight access to trusted AI agents or resources as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11605",
+      "PIAAC-5993"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "545819f8-7315-46da-9186-f0edef631d06"
+  },
+  {
+    "id": "6247011a-e758-4f8b-9308-508c2b56d91c",
+    "name": "Enhancing Learning",
+    "prompt": "Does the text suggest that AI literacy and adoption will improve due to enhanced learning opportunities?",
+    "example_ids": [
+      "PIAAC-10556",
+      "PIAAC-2049"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "6247011a-e758-4f8b-9308-508c2b56d91c"
+  },
+  {
+    "id": "1973348b-1420-4b58-8b19-070050fbe8b1",
+    "name": "Job Market Readiness",
+    "prompt": "Does the text indicate that AI literacy and adoption will improve due to better preparation for the job market?",
+    "example_ids": [
+      "PIAAC-9807",
+      "PIAAC-305"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "1973348b-1420-4b58-8b19-070050fbe8b1"
+  },
+  {
+    "id": "4dbb29c4-a35c-4a65-860c-d404798dcbbc",
+    "name": "Bridging Knowledge Gaps",
+    "prompt": "Does the text mention bridging knowledge gaps as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9641",
+      "PIAAC-7078-4"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "4dbb29c4-a35c-4a65-860c-d404798dcbbc"
+  },
+  {
+    "id": "69785193-ba42-4e1b-92bf-c2877dd87922",
+    "name": "Ethical and Responsible Use",
+    "prompt": "Does the text emphasize ethical and responsible use of AI as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4280-4",
+      "PIAAC-3724"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Rationale",
+    "concept_id": "69785193-ba42-4e1b-92bf-c2877dd87922"
+  }
+]

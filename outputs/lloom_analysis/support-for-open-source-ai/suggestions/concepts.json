@@ -1,0 +1,436 @@
+[
+  {
+    "id": "1a2c5a7b-fb00-436a-970e-08dbf1e472dc",
+    "name": "Language Support",
+    "prompt": "Does the text example suggest providing language support to accommodate diverse audiences?",
+    "example_ids": [
+      "PIAAC-8218",
+      "PIAAC-6853"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "1a2c5a7b-fb00-436a-970e-08dbf1e472dc"
+  },
+  {
+    "id": "f6f8dba8-a3c1-47d0-88c4-9f2b6f745677",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing resources in multiple languages to enhance engagement or inclusivity?",
+    "example_ids": [
+      "PIAAC-4045",
+      "PIAAC-9151"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "f6f8dba8-a3c1-47d0-88c4-9f2b6f745677"
+  },
+  {
+    "id": "2ec5f201-a1a6-464f-b8ba-81a9a9964733",
+    "name": "Multilingual Accessibility",
+    "prompt": "Does the text example emphasize ensuring accessibility through multilingual options?",
+    "example_ids": [
+      "PIAAC-7892",
+      "PIAAC-10216-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "2ec5f201-a1a6-464f-b8ba-81a9a9964733"
+  },
+  {
+    "id": "bf6ff113-5120-4cad-9cc4-343ccb4db8a5",
+    "name": "Multilingual Guides",
+    "prompt": "Does the text example propose creating multilingual guides or support platforms?",
+    "example_ids": [
+      "PIAAC-7336",
+      "PIAAC-6410"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "bf6ff113-5120-4cad-9cc4-343ccb4db8a5"
+  },
+  {
+    "id": "e44c6801-77b8-4428-9fe7-5f3dace25fda",
+    "name": "User-Friendly Tools",
+    "prompt": "Does the text example suggest providing user-friendly, multilingual tools?",
+    "example_ids": [
+      "PIAAC-1517"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "e44c6801-77b8-4428-9fe7-5f3dace25fda"
+  },
+  {
+    "id": "0799bb14-cab4-4bc0-a6a9-ba9681bc3f69",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example suggest implementing AI literacy training programs for various groups?",
+    "example_ids": [
+      "PIAAC-9032",
+      "PIAAC-2112"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "0799bb14-cab4-4bc0-a6a9-ba9681bc3f69"
+  },
+  {
+    "id": "8056bf8c-ef6f-4ce5-8cec-41f5ab2e6124",
+    "name": "Targeted AI Training",
+    "prompt": "Does the text example propose targeted AI training programs for specific audiences or industries?",
+    "example_ids": [
+      "PIAAC-5496",
+      "PIAAC-6082"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "8056bf8c-ef6f-4ce5-8cec-41f5ab2e6124"
+  },
+  {
+    "id": "145f1ab5-6d50-4a6e-8364-84bcdd4befce",
+    "name": "Hands-on Workshops",
+    "prompt": "Does the text example recommend implementing hands-on workshops or practical training for AI?",
+    "example_ids": [
+      "PIAAC-1579-2",
+      "PIAAC-10137"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "145f1ab5-6d50-4a6e-8364-84bcdd4befce"
+  },
+  {
+    "id": "b4213507-5a4e-4882-ac4b-f3692cb43f1a",
+    "name": "Comprehensive AI Training",
+    "prompt": "Does the text example advocate for comprehensive AI training programs?",
+    "example_ids": [
+      "PIAAC-1265",
+      "PIAAC-9204"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "b4213507-5a4e-4882-ac4b-f3692cb43f1a"
+  },
+  {
+    "id": "9d8a8cbb-4c85-488a-b1c7-406cf075807d",
+    "name": "AI Training for Non-Tech",
+    "prompt": "Does the text example suggest AI training programs specifically for non-technical users?",
+    "example_ids": [
+      "PIAAC-1354",
+      "PIAAC-8873"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "9d8a8cbb-4c85-488a-b1c7-406cf075807d"
+  },
+  {
+    "id": "1108a2d6-92cc-479b-8bb9-c675a87d8507",
+    "name": "Tailored AI Programs",
+    "prompt": "Does the text example propose developing tailored AI training programs?",
+    "example_ids": [
+      "PIAAC-5299",
+      "PIAAC-2703"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "1108a2d6-92cc-479b-8bb9-c675a87d8507"
+  },
+  {
+    "id": "48666b94-96cb-48ec-b633-f0d37ed498fb",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text recommend establishing ethical guidelines for AI usage?",
+    "example_ids": [
+      "PIAAC-1599",
+      "PIAAC-5016"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "48666b94-96cb-48ec-b633-f0d37ed498fb"
+  },
+  {
+    "id": "db3cef06-24a7-48d1-80bd-981ec42ac005",
+    "name": "AI Ethics Training",
+    "prompt": "Does the text suggest implementing training programs focused on AI ethics?",
+    "example_ids": [
+      "PIAAC-10418",
+      "PIAAC-8967"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "db3cef06-24a7-48d1-80bd-981ec42ac005"
+  },
+  {
+    "id": "9edaf9bc-c5a2-435d-994a-64ce449bf545",
+    "name": "Data Privacy Safeguards",
+    "prompt": "Does the text propose implementing safeguards for data privacy in AI?",
+    "example_ids": [
+      "PIAAC-6082",
+      "PIAAC-2696"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "9edaf9bc-c5a2-435d-994a-64ce449bf545"
+  },
+  {
+    "id": "96c23ae0-2620-43c4-b5c8-9838f07897b6",
+    "name": "Transparency and Fairness",
+    "prompt": "Does the text emphasize the importance of transparency and fairness in AI?",
+    "example_ids": [
+      "PIAAC-2164",
+      "PIAAC-6498"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "96c23ae0-2620-43c4-b5c8-9838f07897b6"
+  },
+  {
+    "id": "dbcd4bbb-e32c-4857-a94c-6949389b2ccf",
+    "name": "Responsible AI Use",
+    "prompt": "Does the text recommend establishing guidelines for responsible AI usage?",
+    "example_ids": [
+      "PIAAC-8631",
+      "PIAAC-7642-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "dbcd4bbb-e32c-4857-a94c-6949389b2ccf"
+  },
+  {
+    "id": "f9d06ef0-bbb3-49a4-b934-dadfae1a80dc",
+    "name": "AI Risk Communication",
+    "prompt": "Does the text suggest communicating AI risks and benefits clearly?",
+    "example_ids": [
+      "PIAAC-6592",
+      "PIAAC-7805"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "f9d06ef0-bbb3-49a4-b934-dadfae1a80dc"
+  },
+  {
+    "id": "fd93789c-5172-482f-807c-f392efe63e88",
+    "name": "Tailored Training Programs",
+    "prompt": "Does the text example describe implementing training programs that are customized or tailored for specific groups or needs?",
+    "example_ids": [
+      "PIAAC-1304",
+      "PIAAC-2013"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "fd93789c-5172-482f-807c-f392efe63e88"
+  },
+  {
+    "id": "7b009db0-c55e-4b51-a516-80b994e13998",
+    "name": "Targeted Training Initiatives",
+    "prompt": "Does the text example mention implementing training programs that are specifically targeted at certain demographics or sectors?",
+    "example_ids": [
+      "PIAAC-11618",
+      "PIAAC-2362"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "7b009db0-c55e-4b51-a516-80b994e13998"
+  },
+  {
+    "id": "ef7d9b2d-b63d-4195-b80c-01470bfcaccc",
+    "name": "Comprehensive Training Programs",
+    "prompt": "Does the text example refer to implementing training programs that are described as comprehensive or covering a wide range of topics?",
+    "example_ids": [
+      "PIAAC-11322",
+      "PIAAC-6659"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "ef7d9b2d-b63d-4195-b80c-01470bfcaccc"
+  },
+  {
+    "id": "05e1c4db-4031-45de-ac79-6e85890f1549",
+    "name": "Hands-on Workshops",
+    "prompt": "Does the text example include the implementation of hands-on workshops or practical training sessions?",
+    "example_ids": [
+      "PIAAC-7135-2",
+      "PIAAC-1565"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "05e1c4db-4031-45de-ac79-6e85890f1549"
+  },
+  {
+    "id": "1cb3c154-d93f-44c2-ace1-0f5de5fd8f44",
+    "name": "Community-Based Training",
+    "prompt": "Does the text example involve implementing training programs that are community-based or involve community engagement?",
+    "example_ids": [
+      "PIAAC-1339",
+      "PIAAC-6853"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "1cb3c154-d93f-44c2-ace1-0f5de5fd8f44"
+  },
+  {
+    "id": "3e2959cc-538a-4e2c-8a88-9adbe9f3d167",
+    "name": "Partnerships for Training",
+    "prompt": "Does the text example discuss establishing partnerships to enhance or support training programs?",
+    "example_ids": [
+      "PIAAC-7077",
+      "PIAAC-10216"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "3e2959cc-538a-4e2c-8a88-9adbe9f3d167"
+  },
+  {
+    "id": "92f646e5-abd6-4500-b264-9d4403e4178f",
+    "name": "Mentorship Networks",
+    "prompt": "Does the text suggest establishing or creating mentorship networks for support or guidance?",
+    "example_ids": [
+      "PIAAC-2362",
+      "PIAAC-1164"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "92f646e5-abd6-4500-b264-9d4403e4178f"
+  },
+  {
+    "id": "38df4b0c-d798-4b93-ad81-b8ad92ef6554",
+    "name": "User Feedback Mechanisms",
+    "prompt": "Does the text propose establishing user feedback mechanisms or loops for improvement?",
+    "example_ids": [
+      "PIAAC-9204-3",
+      "PIAAC-10389-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "38df4b0c-d798-4b93-ad81-b8ad92ef6554"
+  },
+  {
+    "id": "933a08f7-d3fb-48f0-8fc5-8bcedfa22fae",
+    "name": "Support Networks",
+    "prompt": "Does the text recommend creating or establishing support networks for users or organizations?",
+    "example_ids": [
+      "PIAAC-9131",
+      "PIAAC-5707"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "933a08f7-d3fb-48f0-8fc5-8bcedfa22fae"
+  },
+  {
+    "id": "fecad9d6-a826-467d-bbfb-03856cf06bfa",
+    "name": "Community Hubs",
+    "prompt": "Does the text suggest creating community hubs or forums for interaction or knowledge sharing?",
+    "example_ids": [
+      "PIAAC-1084",
+      "PIAAC-11320"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "fecad9d6-a826-467d-bbfb-03856cf06bfa"
+  },
+  {
+    "id": "f67123ad-62b1-473f-9615-30d6e28be096",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text propose implementing or establishing mentorship programs for specific groups like AI users or beginners?",
+    "example_ids": [
+      "PIAAC-10467-3",
+      "PIAAC-3676"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "f67123ad-62b1-473f-9615-30d6e28be096"
+  },
+  {
+    "id": "85db060a-0022-4eec-948d-0f44b8beb3f1",
+    "name": "Support Lines",
+    "prompt": "Does the text recommend establishing support lines or channels for user assistance?",
+    "example_ids": [
+      "PIAAC-9170",
+      "PIAAC-6981"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for open-source AI",
+    "field": "Suggestions",
+    "concept_id": "85db060a-0022-4eec-948d-0f44b8beb3f1"
+  }
+]

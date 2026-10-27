@@ -1,0 +1,242 @@
+[
+  {
+    "policy": "Consumer privacy reform",
+    "rows": 2183,
+    "unique_agent_ids": 2183,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2183,
+    "suggestions_present": 2183
+  },
+  {
+    "policy": "Online safety legislation",
+    "rows": 2185,
+    "unique_agent_ids": 2185,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2185,
+    "suggestions_present": 2185
+  },
+  {
+    "policy": "AI safety evaluation and certif",
+    "rows": 2188,
+    "unique_agent_ids": 2188,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2188,
+    "suggestions_present": 2188
+  },
+  {
+    "policy": "Identifying AI systems and gene",
+    "rows": 2183,
+    "unique_agent_ids": 2183,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2183,
+    "suggestions_present": 2183
+  },
+  {
+    "policy": "Free introductory AI education",
+    "rows": 2189,
+    "unique_agent_ids": 2189,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2189,
+    "suggestions_present": 2189
+  },
+  {
+    "policy": "AI tools for postsecondary stud",
+    "rows": 2184,
+    "unique_agent_ids": 2184,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2184,
+    "suggestions_present": 2184
+  },
+  {
+    "policy": "AI-related employment and train",
+    "rows": 2188,
+    "unique_agent_ids": 2188,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2188,
+    "suggestions_present": 2188
+  },
+  {
+    "policy": "Indigenous leadership in AI",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  },
+  {
+    "policy": "AI support for Canadian creator",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  },
+  {
+    "policy": "English and French in governmen",
+    "rows": 2188,
+    "unique_agent_ids": 2188,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2188,
+    "suggestions_present": 2188
+  },
+  {
+    "policy": "Accessibility and inclusion in ",
+    "rows": 2187,
+    "unique_agent_ids": 2187,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2187,
+    "suggestions_present": 2187
+  },
+  {
+    "policy": "Support for small-business AI a",
+    "rows": 2187,
+    "unique_agent_ids": 2187,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2187,
+    "suggestions_present": 2187
+  },
+  {
+    "policy": "AI mission focused on healthcar",
+    "rows": 2187,
+    "unique_agent_ids": 2187,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2187,
+    "suggestions_present": 2187
+  },
+  {
+    "policy": "Health-data platforms for resea",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  },
+  {
+    "policy": "AI adoption in federal public s",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  },
+  {
+    "policy": "Canadian-controlled AI infrastr",
+    "rows": 2183,
+    "unique_agent_ids": 2183,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2183,
+    "suggestions_present": 2183
+  },
+  {
+    "policy": "AI research and talent recruitm",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  },
+  {
+    "policy": "Financing and commercialization",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  },
+  {
+    "policy": "International cooperation on so",
+    "rows": 2187,
+    "unique_agent_ids": 2187,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2187,
+    "suggestions_present": 2187
+  },
+  {
+    "policy": "Support for open-source AI",
+    "rows": 2186,
+    "unique_agent_ids": 2186,
+    "ratings_present": [
+      2,
+      3,
+      4
+    ],
+    "rationales_present": 2186,
+    "suggestions_present": 2186
+  }
+]

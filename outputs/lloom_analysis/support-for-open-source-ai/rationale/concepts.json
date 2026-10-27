@@ -1,0 +1,271 @@
+[
+  {
+    "id": "61b51bd0-e003-4321-97ef-3c66124715c7",
+    "name": "Enhances AI Literacy",
+    "prompt": "Does the text suggest that the policy enhances AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-1354",
+      "PIAAC-9944"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "61b51bd0-e003-4321-97ef-3c66124715c7"
+  },
+  {
+    "id": "9955ec3a-bfc3-4650-a28c-f8e363b0c407",
+    "name": "Improves AI Adoption",
+    "prompt": "Does the text indicate that the policy improves AI adoption in Canada?",
+    "example_ids": [
+      "PIAAC-11497",
+      "PIAAC-10216"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "9955ec3a-bfc3-4650-a28c-f8e363b0c407"
+  },
+  {
+    "id": "d8ba5cb3-0a7a-45d1-b9b2-6ce396736a42",
+    "name": "Potential for Improvement",
+    "prompt": "Does the text mention the potential for the policy to improve AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-2065",
+      "PIAAC-4639"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "d8ba5cb3-0a7a-45d1-b9b2-6ce396736a42"
+  },
+  {
+    "id": "99efcd94-787b-4cba-b7a7-744decf9b529",
+    "name": "Policy Impact",
+    "prompt": "Does the text describe the policy as having a significant impact on AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-3676",
+      "PIAAC-6869-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "99efcd94-787b-4cba-b7a7-744decf9b529"
+  },
+  {
+    "id": "b5428d16-72fc-4753-81bb-afb8901842d5",
+    "name": "Fosters AI Literacy",
+    "prompt": "Does the text suggest that the policy fosters AI literacy and adoption in Canada?",
+    "example_ids": [
+      "PIAAC-4015-2",
+      "PIAAC-1456"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "b5428d16-72fc-4753-81bb-afb8901842d5"
+  },
+  {
+    "id": "9662bf47-478f-46ed-b16e-289229485ed2",
+    "name": "Strong Step Forward",
+    "prompt": "Does the text describe the policy as a strong step for AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-1084"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "9662bf47-478f-46ed-b16e-289229485ed2"
+  },
+  {
+    "id": "7330f237-7d70-4926-b745-c1bb1c9de1ae",
+    "name": "Open-Source Benefits",
+    "prompt": "Does the text example highlight the benefits of open-source AI development in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5016",
+      "PIAAC-3422"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "7330f237-7d70-4926-b745-c1bb1c9de1ae"
+  },
+  {
+    "id": "12d392b3-a025-4474-8db3-9b85dc1bee8e",
+    "name": "Collaboration Importance",
+    "prompt": "Does the text example emphasize the importance of collaboration among stakeholders for enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10328",
+      "PIAAC-11462"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "12d392b3-a025-4474-8db3-9b85dc1bee8e"
+  },
+  {
+    "id": "dd19209d-d13f-450b-bb1e-2801caab5d0b",
+    "name": "Accessibility and Affordability",
+    "prompt": "Does the text example discuss how the policy improves accessibility and affordability of AI tools for small businesses and nonprofits?",
+    "example_ids": [
+      "PIAAC-11497",
+      "PIAAC-1061"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "dd19209d-d13f-450b-bb1e-2801caab5d0b"
+  },
+  {
+    "id": "463b5341-172d-4713-8f3b-72103512499d",
+    "name": "Shared Library Impact",
+    "prompt": "Does the text example mention the impact of a shared library of AI tools on improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3751",
+      "PIAAC-6006"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "463b5341-172d-4713-8f3b-72103512499d"
+  },
+  {
+    "id": "9d78cdcb-f4a8-4f0a-beeb-41d7869cbc57",
+    "name": "Potential Barriers",
+    "prompt": "Does the text example identify potential barriers or concerns regarding the effectiveness of the policy in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-11491",
+      "PIAAC-3083-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "9d78cdcb-f4a8-4f0a-beeb-41d7869cbc57"
+  },
+  {
+    "id": "bbeecec2-0876-4b9c-a587-9cfba9668295",
+    "name": "Democratizing Access",
+    "prompt": "Does the text example focus on democratizing access to AI tools as a means to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2064",
+      "PIAAC-6243"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "bbeecec2-0876-4b9c-a587-9cfba9668295"
+  },
+  {
+    "id": "d93be3f8-9286-4430-b342-b68289044cac",
+    "name": "Lack of Training",
+    "prompt": "Does the text mention a lack of training as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-922",
+      "PIAAC-2760"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "d93be3f8-9286-4430-b342-b68289044cac"
+  },
+  {
+    "id": "64812804-f004-4901-9668-292fc29f76f6",
+    "name": "Privacy Concerns",
+    "prompt": "Does the text highlight concerns about data privacy as a reason for hindering AI adoption?",
+    "example_ids": [
+      "PIAAC-5595",
+      "PIAAC-4015-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "64812804-f004-4901-9668-292fc29f76f6"
+  },
+  {
+    "id": "4f5cf090-1762-4a24-a95a-f632c36fc782",
+    "name": "User-Friendly Tools",
+    "prompt": "Does the text emphasize the need for user-friendly tools to improve AI adoption?",
+    "example_ids": [
+      "PIAAC-11508",
+      "PIAAC-6498"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "4f5cf090-1762-4a24-a95a-f632c36fc782"
+  },
+  {
+    "id": "944784e6-7fa4-47d7-8958-2d52233aeb9f",
+    "name": "Ethical Issues",
+    "prompt": "Does the text discuss ethical concerns as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2663-2",
+      "PIAAC-9204-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "944784e6-7fa4-47d7-8958-2d52233aeb9f"
+  },
+  {
+    "id": "77852b01-fd60-4e1d-bbe8-5dc92af1f667",
+    "name": "Support and Guidance",
+    "prompt": "Does the text mention the need for support and guidance to enhance AI adoption?",
+    "example_ids": [
+      "PIAAC-2064",
+      "PIAAC-2867"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "77852b01-fd60-4e1d-bbe8-5dc92af1f667"
+  },
+  {
+    "id": "d01e9052-1c59-49a4-a79c-45952f1cb8cf",
+    "name": "Integration Barriers",
+    "prompt": "Does the text identify integration challenges as a reason for limited AI adoption?",
+    "example_ids": [
+      "PIAAC-3053",
+      "PIAAC-368"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Support for open-source AI",
+    "field": "Rationale",
+    "concept_id": "d01e9052-1c59-49a4-a79c-45952f1cb8cf"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "c3dd8e2b-7fe1-4ac7-aa27-715be7862d54",
+    "name": "Infrastructure Expansion",
+    "prompt": "Does the text example discuss the expansion of Canadian-controlled AI infrastructure as a means to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7226",
+      "PIAAC-2951-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "c3dd8e2b-7fe1-4ac7-aa27-715be7862d54"
+  },
+  {
+    "id": "2bc97205-a3a3-4624-974a-7b3925299696",
+    "name": "Public Supercomputer Access",
+    "prompt": "Does the text example highlight the role of public supercomputers in enhancing access to AI tools and resources, thereby improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2580",
+      "PIAAC-9220"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "2bc97205-a3a3-4624-974a-7b3925299696"
+  },
+  {
+    "id": "fc2c4583-be86-4e30-9b35-f0a7c5a0f0aa",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example mention barriers that hinder AI adoption and literacy, such as lack of resources or understanding?",
+    "example_ids": [
+      "PIAAC-5923",
+      "PIAAC-5337"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "fc2c4583-be86-4e30-9b35-f0a7c5a0f0aa"
+  },
+  {
+    "id": "388cdd6a-5910-4779-a029-4c87d5309b37",
+    "name": "Clean Energy Integration",
+    "prompt": "Does the text example discuss the integration of clean energy with AI infrastructure as a factor in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5046",
+      "PIAAC-950"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "388cdd6a-5910-4779-a029-4c87d5309b37"
+  },
+  {
+    "id": "727f4f9b-7e7b-4501-9435-48f557bb3bba",
+    "name": "Ethical and Privacy Concerns",
+    "prompt": "Does the text example address concerns about data privacy and ethics as challenges to improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10987",
+      "PIAAC-2366"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "727f4f9b-7e7b-4501-9435-48f557bb3bba"
+  },
+  {
+    "id": "23b4e1f7-9b0b-4a86-990f-202759ff1934",
+    "name": "Community and Local Benefits",
+    "prompt": "Does the text example emphasize the importance of community involvement and local benefits in enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2248",
+      "PIAAC-6924"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "23b4e1f7-9b0b-4a86-990f-202759ff1934"
+  },
+  {
+    "id": "4af23db6-7d6e-4435-b8c1-0eca25aee93a",
+    "name": "Infrastructure Expansion",
+    "prompt": "Does the text example suggest that expanding infrastructure will improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1035",
+      "PIAAC-5402"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "4af23db6-7d6e-4435-b8c1-0eca25aee93a"
+  },
+  {
+    "id": "34ddd523-8f5d-4379-973b-5d9383e8d08c",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example highlight barriers or challenges that hinder AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9227",
+      "PIAAC-2187-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "34ddd523-8f5d-4379-973b-5d9383e8d08c"
+  },
+  {
+    "id": "115c7c21-468a-438f-9476-11f237d691d0",
+    "name": "Policy Support",
+    "prompt": "Does the text example indicate that policy support is crucial for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9941-2",
+      "PIAAC-6654"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "115c7c21-468a-438f-9476-11f237d691d0"
+  },
+  {
+    "id": "5403bd85-47e7-40ce-aea8-6ec066ae0391",
+    "name": "Resource Accessibility",
+    "prompt": "Does the text example mention that improving access to resources will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2511",
+      "PIAAC-5663"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "5403bd85-47e7-40ce-aea8-6ec066ae0391"
+  },
+  {
+    "id": "75c0f1ab-91b6-459a-aa13-5206d07e1b81",
+    "name": "Skills Gap",
+    "prompt": "Does the text example discuss a skills gap as a reason for limited AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8040-2",
+      "PIAAC-1164"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "75c0f1ab-91b6-459a-aa13-5206d07e1b81"
+  },
+  {
+    "id": "6c47e0af-b696-46d1-809e-b49d774b6b2b",
+    "name": "Trust and Understanding",
+    "prompt": "Does the text example suggest that trust and understanding are necessary for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6530",
+      "PIAAC-4797"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "6c47e0af-b696-46d1-809e-b49d774b6b2b"
+  },
+  {
+    "id": "80e5afed-9c77-4cfe-9220-03fc42493f39",
+    "name": "Need for Training",
+    "prompt": "Does the text example highlight a need for training programs to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4971",
+      "PIAAC-9496"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "80e5afed-9c77-4cfe-9220-03fc42493f39"
+  },
+  {
+    "id": "19a44b06-e310-4ddc-86a7-921ed5b020a8",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example discuss barriers that hinder AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5998",
+      "PIAAC-8890"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "19a44b06-e310-4ddc-86a7-921ed5b020a8"
+  },
+  {
+    "id": "5a4c9dcc-7577-4920-817c-43dd564ab551",
+    "name": "Education Emphasis",
+    "prompt": "Does the text example emphasize the importance of education in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9589",
+      "PIAAC-4384"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "5a4c9dcc-7577-4920-817c-43dd564ab551"
+  },
+  {
+    "id": "59898761-af76-4e3e-8d41-fa8c397c6ea1",
+    "name": "Lack of Resources",
+    "prompt": "Does the text example mention a lack of resources as a reason for limited AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10950",
+      "PIAAC-8890"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "59898761-af76-4e3e-8d41-fa8c397c6ea1"
+  },
+  {
+    "id": "a402262a-11e8-4c8e-988f-762a4664fc8a",
+    "name": "Accessibility Concerns",
+    "prompt": "Does the text example raise concerns about accessibility affecting AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3506-2",
+      "PIAAC-11491"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "a402262a-11e8-4c8e-988f-762a4664fc8a"
+  },
+  {
+    "id": "a70c2cb9-4493-4f98-99b8-49742f14dfb3",
+    "name": "Trust and Understanding",
+    "prompt": "Does the text example highlight issues of trust and understanding as factors in AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3181",
+      "PIAAC-3809"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Rationale",
+    "concept_id": "a70c2cb9-4493-4f98-99b8-49742f14dfb3"
+  }
+]

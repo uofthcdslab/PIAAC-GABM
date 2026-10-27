@@ -1,0 +1,4 @@
+matplotlib>=3.9,<4
+openpyxl>=3.1,<4
+pandas>=2.2,<3
+text_lloom==0.8.2.1

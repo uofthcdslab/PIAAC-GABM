@@ -1,0 +1,272 @@
+[
+  {
+    "id": "1114a71a-8731-4283-a141-b8437a39a851",
+    "name": "Enhances AI Literacy",
+    "prompt": "Does the text suggest that the policy enhances AI literacy in Indigenous communities?",
+    "example_ids": [
+      "PIAAC-992",
+      "PIAAC-5503-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "1114a71a-8731-4283-a141-b8437a39a851"
+  },
+  {
+    "id": "f288a2d7-e6e2-4aab-9e8f-c67d149ac721",
+    "name": "Supports Indigenous-Led Initiatives",
+    "prompt": "Does the text indicate that the policy supports Indigenous-led AI initiatives?",
+    "example_ids": [
+      "PIAAC-8002",
+      "PIAAC-2968"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "f288a2d7-e6e2-4aab-9e8f-c67d149ac721"
+  },
+  {
+    "id": "8773c507-915e-4cc1-974c-e8594544f473",
+    "name": "Empowers Indigenous Communities",
+    "prompt": "Does the text suggest that the policy empowers Indigenous communities in AI development?",
+    "example_ids": [
+      "PIAAC-7341",
+      "PIAAC-4081"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "8773c507-915e-4cc1-974c-e8594544f473"
+  },
+  {
+    "id": "ce2990c8-aa4d-4f91-a2d1-a3e1ea61c6e0",
+    "name": "Moderate Effectiveness",
+    "prompt": "Does the text express that the policy has moderate effectiveness in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-6080-2",
+      "PIAAC-7250"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "ce2990c8-aa4d-4f91-a2d1-a3e1ea61c6e0"
+  },
+  {
+    "id": "c07fbe2b-84f8-4de7-a285-d298b2a6b056",
+    "name": "Incorporates Indigenous Voices",
+    "prompt": "Does the text mention that the policy incorporates Indigenous voices in AI development?",
+    "example_ids": [
+      "PIAAC-10990",
+      "PIAAC-9525"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "c07fbe2b-84f8-4de7-a285-d298b2a6b056"
+  },
+  {
+    "id": "77e5c454-759e-4fec-b2f5-3b87f8d44075",
+    "name": "Concerns About Effectiveness",
+    "prompt": "Does the text raise concerns about the effectiveness of the policy for AI literacy?",
+    "example_ids": [
+      "PIAAC-3418",
+      "PIAAC-4637-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "77e5c454-759e-4fec-b2f5-3b87f8d44075"
+  },
+  {
+    "id": "71d2ec50-b56d-499b-8c87-bf54d4d89ec6",
+    "name": "Cultural Integration",
+    "prompt": "Does the text example discuss how integrating Indigenous cultural practices and values could improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11664",
+      "PIAAC-5897"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "71d2ec50-b56d-499b-8c87-bf54d4d89ec6"
+  },
+  {
+    "id": "2efd3189-cd79-423d-b450-3e941aa3c11b",
+    "name": "Language Preservation",
+    "prompt": "Does the text example highlight the preservation of Indigenous languages as a factor that could enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-714",
+      "PIAAC-9606"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "2efd3189-cd79-423d-b450-3e941aa3c11b"
+  },
+  {
+    "id": "c9eefb68-2ee7-499c-910e-771fe756a144",
+    "name": "Indigenous-Led Initiatives",
+    "prompt": "Does the text example emphasize the role of Indigenous-led initiatives in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4614",
+      "PIAAC-10826"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "c9eefb68-2ee7-499c-910e-771fe756a144"
+  },
+  {
+    "id": "86f041cd-6132-48ba-b93f-03f2519e1f80",
+    "name": "Access Challenges",
+    "prompt": "Does the text example mention challenges related to access to technology as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9646",
+      "PIAAC-5430"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "86f041cd-6132-48ba-b93f-03f2519e1f80"
+  },
+  {
+    "id": "5e43ebc6-a5bf-49f6-aeff-0dc9afdcd89e",
+    "name": "Community Empowerment",
+    "prompt": "Does the text example discuss how empowering Indigenous communities could lead to better AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2314",
+      "PIAAC-5867"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "5e43ebc6-a5bf-49f6-aeff-0dc9afdcd89e"
+  },
+  {
+    "id": "c6c37ff8-e1bf-40d3-aa6c-9c36ffae04f0",
+    "name": "Cultural Expression",
+    "prompt": "Does the text example suggest that supporting cultural expression could positively impact AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8747",
+      "PIAAC-979"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "c6c37ff8-e1bf-40d3-aa6c-9c36ffae04f0"
+  },
+  {
+    "id": "dde261bd-10d8-4fdf-a02c-adf874a13e01",
+    "name": "Access Barriers",
+    "prompt": "Does the text mention barriers related to access to technology or resources that could affect AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10419",
+      "PIAAC-6080-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "dde261bd-10d8-4fdf-a02c-adf874a13e01"
+  },
+  {
+    "id": "372bb3f4-ffc2-462a-a7dc-582ea9d07c75",
+    "name": "Resource Limitations",
+    "prompt": "Does the text highlight limitations in resources, such as funding or infrastructure, that might hinder AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1047",
+      "PIAAC-2947"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "372bb3f4-ffc2-462a-a7dc-582ea9d07c75"
+  },
+  {
+    "id": "50689e71-3306-4a88-91be-05a931f26bc1",
+    "name": "Cultural Sensitivity",
+    "prompt": "Does the text discuss the importance of cultural sensitivity or alignment in AI development as a factor for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1042",
+      "PIAAC-4280-4"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "50689e71-3306-4a88-91be-05a931f26bc1"
+  },
+  {
+    "id": "b88f9aff-b179-4895-8fd5-57313bfaf57d",
+    "name": "Training Needs",
+    "prompt": "Does the text emphasize the need for training or education to enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7162",
+      "PIAAC-3872"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "b88f9aff-b179-4895-8fd5-57313bfaf57d"
+  },
+  {
+    "id": "9a805451-4918-4a2e-a999-4f0415f5ba7c",
+    "name": "Community Empowerment",
+    "prompt": "Does the text suggest that empowering communities to shape AI development could improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8747",
+      "PIAAC-2111"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "9a805451-4918-4a2e-a999-4f0415f5ba7c"
+  },
+  {
+    "id": "aae91b8e-4381-4f3a-8c35-96434a8af543",
+    "name": "Privacy and Bias Concerns",
+    "prompt": "Does the text raise concerns about data privacy or bias as factors that could impact AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4904-2",
+      "PIAAC-8038"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Indigenous leadership in AI",
+    "field": "Rationale",
+    "concept_id": "aae91b8e-4381-4f3a-8c35-96434a8af543"
+  }
+]

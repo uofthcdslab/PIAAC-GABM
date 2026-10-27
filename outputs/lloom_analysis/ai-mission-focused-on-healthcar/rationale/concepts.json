@@ -1,0 +1,272 @@
+[
+  {
+    "id": "d00308ae-68ee-4341-9731-f5d8206236ee",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text mention concerns or barriers that hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-9752-2",
+      "PIAAC-3834"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "d00308ae-68ee-4341-9731-f5d8206236ee"
+  },
+  {
+    "id": "7db5c83d-ad08-4bef-9072-956a73c14ac0",
+    "name": "AI Literacy Improvement",
+    "prompt": "Does the text discuss the potential or effectiveness of improving AI literacy?",
+    "example_ids": [
+      "PIAAC-6995",
+      "PIAAC-6335"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "7db5c83d-ad08-4bef-9072-956a73c14ac0"
+  },
+  {
+    "id": "542079fe-98d2-4c0e-be45-99cff43cae21",
+    "name": "Healthcare Enhancement",
+    "prompt": "Does the text highlight AI's potential to enhance healthcare access or outcomes?",
+    "example_ids": [
+      "PIAAC-5020",
+      "PIAAC-11268"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "542079fe-98d2-4c0e-be45-99cff43cae21"
+  },
+  {
+    "id": "5ea8e5c1-c606-4873-8eae-4dee9294ba1d",
+    "name": "Policy Impact on Literacy",
+    "prompt": "Does the text evaluate the impact of a policy on AI literacy improvement?",
+    "example_ids": [
+      "PIAAC-2743",
+      "PIAAC-7979-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "5ea8e5c1-c606-4873-8eae-4dee9294ba1d"
+  },
+  {
+    "id": "1eba5e78-ed12-4c8b-8d21-73a1efe4371e",
+    "name": "Risks and Effectiveness",
+    "prompt": "Does the text mention risks or effectiveness issues related to AI adoption?",
+    "example_ids": [
+      "PIAAC-2663-2",
+      "PIAAC-1360-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "1eba5e78-ed12-4c8b-8d21-73a1efe4371e"
+  },
+  {
+    "id": "09b3271d-901c-4ddd-a09a-a409a8d0c1ba",
+    "name": "Integration in Healthcare",
+    "prompt": "Does the text discuss pathways or potential for better AI integration in healthcare?",
+    "example_ids": [
+      "PIAAC-1606-2",
+      "PIAAC-7695"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "09b3271d-901c-4ddd-a09a-a409a8d0c1ba"
+  },
+  {
+    "id": "57381a73-d0c5-4937-9cf0-e8fcd3938063",
+    "name": "Investment in AI",
+    "prompt": "Does the text mention significant investment in AI technology as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6267-2",
+      "PIAAC-8941"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "57381a73-d0c5-4937-9cf0-e8fcd3938063"
+  },
+  {
+    "id": "f3195fe2-0d05-45bf-b464-f389694a97cd",
+    "name": "Collaboration Benefits",
+    "prompt": "Does the text highlight collaboration among stakeholders as a reason for enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9496-2",
+      "PIAAC-1734"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "f3195fe2-0d05-45bf-b464-f389694a97cd"
+  },
+  {
+    "id": "80152294-8be7-4d3e-93e9-682ff079e882",
+    "name": "Healthcare Access",
+    "prompt": "Does the text suggest that improving healthcare access is a reason for better AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2543",
+      "PIAAC-1360-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "80152294-8be7-4d3e-93e9-682ff079e882"
+  },
+  {
+    "id": "1de91a20-f116-45d3-bcf9-e00f319c0ff9",
+    "name": "Innovation Potential",
+    "prompt": "Does the text emphasize the potential for innovation in healthcare as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9941",
+      "PIAAC-9423"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "1de91a20-f116-45d3-bcf9-e00f319c0ff9"
+  },
+  {
+    "id": "4f30a230-99c1-49c5-b8ce-465f9d5ca09d",
+    "name": "Stakeholder Engagement",
+    "prompt": "Does the text mention the importance of engaging diverse stakeholders as a reason for enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7146-2",
+      "PIAAC-9478"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "4f30a230-99c1-49c5-b8ce-465f9d5ca09d"
+  },
+  {
+    "id": "3549e46a-f754-4fed-9fca-11f44afd7375",
+    "name": "Policy Commitment",
+    "prompt": "Does the text indicate government or policy commitment to AI initiatives as a reason for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11492",
+      "PIAAC-2362"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "3549e46a-f754-4fed-9fca-11f44afd7375"
+  },
+  {
+    "id": "a3666a57-a9a8-4a18-aa1b-5c52d2d3887c",
+    "name": "Data Privacy Concerns",
+    "prompt": "Does the text mention concerns about data privacy as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6995",
+      "PIAAC-10268"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "a3666a57-a9a8-4a18-aa1b-5c52d2d3887c"
+  },
+  {
+    "id": "5479dad3-7140-44fd-9ce8-d81b2ee655ac",
+    "name": "Need for Training",
+    "prompt": "Does the text highlight the need for training and support as crucial for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4707",
+      "PIAAC-2118"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "5479dad3-7140-44fd-9ce8-d81b2ee655ac"
+  },
+  {
+    "id": "5c00f4cc-83a0-4d07-935a-19479115cae1",
+    "name": "Trust Issues",
+    "prompt": "Does the text discuss trust issues as a significant barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3305",
+      "PIAAC-1154"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "5c00f4cc-83a0-4d07-935a-19479115cae1"
+  },
+  {
+    "id": "99d68c5a-4009-4ed0-a9c1-06b5d97475a4",
+    "name": "Integration Challenges",
+    "prompt": "Does the text mention challenges with integrating AI into existing systems as a barrier to adoption?",
+    "example_ids": [
+      "PIAAC-6923-2",
+      "PIAAC-1175"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "99d68c5a-4009-4ed0-a9c1-06b5d97475a4"
+  },
+  {
+    "id": "125370cd-3698-4f7a-8416-0afc71b6b142",
+    "name": "Complexity and Accessibility",
+    "prompt": "Does the text address the complexity of AI systems and the need for user-friendly tools as barriers to adoption?",
+    "example_ids": [
+      "PIAAC-4047",
+      "PIAAC-11515"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "125370cd-3698-4f7a-8416-0afc71b6b142"
+  },
+  {
+    "id": "17659b33-fbfa-4184-895b-4f1e8b967a4d",
+    "name": "Unequal Access",
+    "prompt": "Does the text highlight concerns about unequal access to AI benefits as a barrier to literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11036",
+      "PIAAC-9479"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI mission focused on healthcar",
+    "field": "Rationale",
+    "concept_id": "17659b33-fbfa-4184-895b-4f1e8b967a4d"
+  }
+]

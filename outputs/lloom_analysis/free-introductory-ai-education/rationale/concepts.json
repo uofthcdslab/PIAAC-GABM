@@ -1,0 +1,362 @@
+[
+  {
+    "id": "4dbb8054-c7a2-4059-b74b-7fdb0e2ea7e3",
+    "name": "Free Education Accessibility",
+    "prompt": "Does the text example discuss how free education increases accessibility for all individuals?",
+    "example_ids": [
+      "PIAAC-8505",
+      "PIAAC-2984"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "4dbb8054-c7a2-4059-b74b-7fdb0e2ea7e3"
+  },
+  {
+    "id": "60e25e01-5cb3-4f99-b381-3c2695465c77",
+    "name": "Practical AI Use",
+    "prompt": "Does the text example emphasize the importance of focusing on practical AI use and bias recognition?",
+    "example_ids": [
+      "PIAAC-9278",
+      "PIAAC-1365"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "60e25e01-5cb3-4f99-b381-3c2695465c77"
+  },
+  {
+    "id": "8bea9d1d-c559-4c30-b1ad-ed62db6b1896",
+    "name": "Library and Organization Support",
+    "prompt": "Does the text example highlight the role of libraries and community organizations in providing accessible education?",
+    "example_ids": [
+      "PIAAC-4504-2",
+      "PIAAC-5205-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "8bea9d1d-c559-4c30-b1ad-ed62db6b1896"
+  },
+  {
+    "id": "5c0154ef-279c-4d1e-b30e-220a3a7c08ac",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example mention barriers such as skepticism, misinformation, or emotional concerns that may hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-9336",
+      "PIAAC-1298"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "5c0154ef-279c-4d1e-b30e-220a3a7c08ac"
+  },
+  {
+    "id": "234364ba-b26a-49da-88d8-8f4cb9938cfb",
+    "name": "Enhancing AI Literacy",
+    "prompt": "Does the text example discuss how the initiative enhances AI literacy across Canada?",
+    "example_ids": [
+      "PIAAC-11491",
+      "PIAAC-2951-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "234364ba-b26a-49da-88d8-8f4cb9938cfb"
+  },
+  {
+    "id": "a9d35ded-0d39-4cec-95ef-0dd1cc1c310d",
+    "name": "Focus on Diverse Needs",
+    "prompt": "Does the text example address the need to focus on diverse community needs, including marginalized groups or specific demographics?",
+    "example_ids": [
+      "PIAAC-1317",
+      "PIAAC-11526"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "a9d35ded-0d39-4cec-95ef-0dd1cc1c310d"
+  },
+  {
+    "id": "7f15bc1b-ac98-4c13-b60c-ce7619e88eff",
+    "name": "Free Education Benefits",
+    "prompt": "Does the text suggest that free education is beneficial for improving AI literacy?",
+    "example_ids": [
+      "PIAAC-9396",
+      "PIAAC-5972"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "7f15bc1b-ac98-4c13-b60c-ce7619e88eff"
+  },
+  {
+    "id": "924db438-5982-4881-b461-ddb853242250",
+    "name": "Accessibility Improvement",
+    "prompt": "Does the text indicate that the policy improves accessibility to AI education?",
+    "example_ids": [
+      "PIAAC-10459-2",
+      "PIAAC-9810"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "924db438-5982-4881-b461-ddb853242250"
+  },
+  {
+    "id": "9ddc745b-fd7b-4694-a547-5fc02da871c0",
+    "name": "Nationwide Impact",
+    "prompt": "Does the text mention the potential for nationwide improvement in AI literacy?",
+    "example_ids": [
+      "PIAAC-9114",
+      "PIAAC-2038"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "9ddc745b-fd7b-4694-a547-5fc02da871c0"
+  },
+  {
+    "id": "ed9fd7c9-6bdb-44e8-8d06-3a597324d51e",
+    "name": "Community Focus",
+    "prompt": "Does the text highlight the policy's impact on specific communities, such as rural or underserved areas?",
+    "example_ids": [
+      "PIAAC-5302-2",
+      "PIAAC-1205"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "ed9fd7c9-6bdb-44e8-8d06-3a597324d51e"
+  },
+  {
+    "id": "7e1e3abc-5bb6-446f-89e7-f0de2b218e81",
+    "name": "Government Initiative",
+    "prompt": "Does the text refer to a government initiative aimed at promoting AI literacy?",
+    "example_ids": [
+      "PIAAC-2713",
+      "PIAAC-1037"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "7e1e3abc-5bb6-446f-89e7-f0de2b218e81"
+  },
+  {
+    "id": "980b135b-6438-4b2f-bc54-7e1ee9897815",
+    "name": "Moderate Effectiveness",
+    "prompt": "Does the text suggest that the policy has only a moderate effect on improving AI literacy?",
+    "example_ids": [
+      "PIAAC-3509",
+      "PIAAC-2415-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "980b135b-6438-4b2f-bc54-7e1ee9897815"
+  },
+  {
+    "id": "4ab9a42f-0f73-4a0e-a20f-5d23b32344ac",
+    "name": "Bias and Misinformation Concerns",
+    "prompt": "Does the text express concerns about bias and misinformation affecting AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3083",
+      "PIAAC-6992"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "4ab9a42f-0f73-4a0e-a20f-5d23b32344ac"
+  },
+  {
+    "id": "7c68c497-29b9-478e-9113-c9a766e49aea",
+    "name": "Need for Training",
+    "prompt": "Does the text highlight the need for training to address bias and misinformation in AI literacy?",
+    "example_ids": [
+      "PIAAC-11526",
+      "PIAAC-2714"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "7c68c497-29b9-478e-9113-c9a766e49aea"
+  },
+  {
+    "id": "8ff8cae2-b620-4beb-9d9a-56044bfc22e9",
+    "name": "Privacy Risks",
+    "prompt": "Does the text mention privacy risks as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2511",
+      "PIAAC-3861-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "8ff8cae2-b620-4beb-9d9a-56044bfc22e9"
+  },
+  {
+    "id": "818ab164-e242-450b-84bc-67e53612142b",
+    "name": "Focus on Awareness",
+    "prompt": "Does the text emphasize the importance of awareness regarding bias and misinformation for improving AI literacy?",
+    "example_ids": [
+      "PIAAC-10288",
+      "PIAAC-5885"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "818ab164-e242-450b-84bc-67e53612142b"
+  },
+  {
+    "id": "80c90a60-6bfa-4233-969e-42f576af6230",
+    "name": "Curriculum and Content",
+    "prompt": "Does the text suggest that curriculum or content must address bias and misinformation to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-4417",
+      "PIAAC-9738"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "80c90a60-6bfa-4233-969e-42f576af6230"
+  },
+  {
+    "id": "9d27adfa-8842-4e20-ab43-d19945b98713",
+    "name": "Persistent Concerns",
+    "prompt": "Does the text indicate that concerns about bias and misinformation persist despite efforts to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-3456",
+      "PIAAC-9076"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "9d27adfa-8842-4e20-ab43-d19945b98713"
+  },
+  {
+    "id": "2ff6d9f2-ac20-4451-9e40-044c022f1150",
+    "name": "Rural Accessibility",
+    "prompt": "Does the text example discuss how the policy improves or fails to improve accessibility to AI education in rural or remote areas?",
+    "example_ids": [
+      "PIAAC-9227",
+      "PIAAC-5503-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "2ff6d9f2-ac20-4451-9e40-044c022f1150"
+  },
+  {
+    "id": "81cc5efd-4245-46c3-aa1a-3324a245437a",
+    "name": "Practical Application",
+    "prompt": "Does the text example mention the importance of practical applications or real-world use in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10429",
+      "PIAAC-4047"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "81cc5efd-4245-46c3-aa1a-3324a245437a"
+  },
+  {
+    "id": "8c8f6cc6-51b1-4ff8-9056-51da5900bf28",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example highlight any barriers that might hinder the adoption of AI education, such as infrastructure or cultural challenges?",
+    "example_ids": [
+      "PIAAC-760-2",
+      "PIAAC-2529"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "8c8f6cc6-51b1-4ff8-9056-51da5900bf28"
+  },
+  {
+    "id": "f447ec8f-8822-4614-803e-02f3c330f9e4",
+    "name": "Engaging Content",
+    "prompt": "Does the text example emphasize the need for engaging or relatable content to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6803",
+      "PIAAC-7001"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "f447ec8f-8822-4614-803e-02f3c330f9e4"
+  },
+  {
+    "id": "c76f1c60-bc39-43e8-9b2c-8d172bbe6a77",
+    "name": "Diverse Community Needs",
+    "prompt": "Does the text example address how the policy caters to the diverse needs of different communities to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-7290",
+      "PIAAC-293"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "c76f1c60-bc39-43e8-9b2c-8d172bbe6a77"
+  },
+  {
+    "id": "a96cf3f1-ba41-4a80-8feb-1ccdb1868a1a",
+    "name": "Ethical Considerations",
+    "prompt": "Does the text example discuss the importance of addressing ethical implications in AI education to improve literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5754",
+      "PIAAC-992"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Free introductory AI education",
+    "field": "Rationale",
+    "concept_id": "a96cf3f1-ba41-4a80-8feb-1ccdb1868a1a"
+  }
+]

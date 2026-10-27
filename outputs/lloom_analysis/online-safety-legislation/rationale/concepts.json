@@ -1,0 +1,272 @@
+[
+  {
+    "id": "940b506f-ef28-406b-a74b-3c794da2b57f",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text mention any barriers or risks that hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-2556",
+      "PIAAC-7805"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "940b506f-ef28-406b-a74b-3c794da2b57f"
+  },
+  {
+    "id": "01d682d4-877c-43bf-b702-0a73cc594392",
+    "name": "Lack of Education",
+    "prompt": "Does the text highlight a lack of education or understanding as a reason for poor AI literacy?",
+    "example_ids": [
+      "PIAAC-8112-3",
+      "PIAAC-471"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "01d682d4-877c-43bf-b702-0a73cc594392"
+  },
+  {
+    "id": "bff38d71-0e5a-4c0d-8aba-e72ffa62241a",
+    "name": "Policy Effectiveness Doubts",
+    "prompt": "Does the text express skepticism about the effectiveness of policies in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-5203-2",
+      "PIAAC-10081"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "bff38d71-0e5a-4c0d-8aba-e72ffa62241a"
+  },
+  {
+    "id": "57ef4419-aa08-42a2-8270-e3fcad4704bb",
+    "name": "Innovation Stifling",
+    "prompt": "Does the text suggest that regulations or policies may stifle innovation?",
+    "example_ids": [
+      "PIAAC-236",
+      "PIAAC-7431"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "57ef4419-aa08-42a2-8270-e3fcad4704bb"
+  },
+  {
+    "id": "4eb81101-c48c-4c86-bee5-5c78c528ed17",
+    "name": "Focus on Safety",
+    "prompt": "Does the text indicate that a focus on safety might overshadow educational efforts?",
+    "example_ids": [
+      "PIAAC-7642-3",
+      "PIAAC-2657"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "4eb81101-c48c-4c86-bee5-5c78c528ed17"
+  },
+  {
+    "id": "f3e0149b-6439-4a4e-bdf2-f316c05ba162",
+    "name": "Potential for Improvement",
+    "prompt": "Does the text suggest there is potential for policies to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-9626",
+      "PIAAC-7903-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "f3e0149b-6439-4a4e-bdf2-f316c05ba162"
+  },
+  {
+    "id": "98a9d62a-5132-49ce-81f1-ef681e30dd4a",
+    "name": "Child Safety Focus",
+    "prompt": "Does the text emphasize the importance of child safety in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4497",
+      "PIAAC-5897"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "98a9d62a-5132-49ce-81f1-ef681e30dd4a"
+  },
+  {
+    "id": "a2c48dcc-c060-42e1-9e6c-83d287d8512f",
+    "name": "Trust Building",
+    "prompt": "Does the text suggest that building trust is crucial for AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11173",
+      "PIAAC-4082"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "a2c48dcc-c060-42e1-9e6c-83d287d8512f"
+  },
+  {
+    "id": "b664a30a-d8ad-4949-a689-7755aa6cbc13",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text discuss how policy effectiveness impacts AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8195",
+      "PIAAC-7020-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "b664a30a-d8ad-4949-a689-7755aa6cbc13"
+  },
+  {
+    "id": "c9ff2c38-53f5-4254-9464-088f0102e865",
+    "name": "Vulnerable Group Protection",
+    "prompt": "Does the text highlight the protection of vulnerable groups as a factor in AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11246",
+      "PIAAC-545"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "c9ff2c38-53f5-4254-9464-088f0102e865"
+  },
+  {
+    "id": "c1e5ccaa-b52e-443f-a2e2-51461137c2ac",
+    "name": "Online Safety Measures",
+    "prompt": "Does the text address the implementation of online safety measures as a means to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5424",
+      "PIAAC-9298"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "c1e5ccaa-b52e-443f-a2e2-51461137c2ac"
+  },
+  {
+    "id": "db558a3c-08a1-40cc-a5b5-51db93e114b5",
+    "name": "Public Confidence",
+    "prompt": "Does the text indicate that public confidence is essential for AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6867",
+      "PIAAC-6053"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "db558a3c-08a1-40cc-a5b5-51db93e114b5"
+  },
+  {
+    "id": "aaca7aaf-2237-4bed-a32d-d2bfaf5d81dc",
+    "name": "Regulation Over Education",
+    "prompt": "Does the text suggest that the policy focuses more on regulation than on educational initiatives for AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9203",
+      "PIAAC-11025"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "aaca7aaf-2237-4bed-a32d-d2bfaf5d81dc"
+  },
+  {
+    "id": "be100653-d9c5-4ea1-a737-525515e3ab8c",
+    "name": "Lack of Resources",
+    "prompt": "Does the text indicate that a lack of resources is a barrier to improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9088",
+      "PIAAC-5599"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "be100653-d9c5-4ea1-a737-525515e3ab8c"
+  },
+  {
+    "id": "42c72808-3bc8-4fc8-a559-7b7dfbdf510e",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text highlight significant barriers that hinder AI adoption efforts?",
+    "example_ids": [
+      "PIAAC-5203-2",
+      "PIAAC-1861"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "42c72808-3bc8-4fc8-a559-7b7dfbdf510e"
+  },
+  {
+    "id": "04596568-a581-40c2-8e6c-f88448d87dfe",
+    "name": "Need for Education",
+    "prompt": "Does the text emphasize the need for educational initiatives to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1317",
+      "PIAAC-245"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "04596568-a581-40c2-8e6c-f88448d87dfe"
+  },
+  {
+    "id": "abf391e6-5638-43f8-ae01-89896b5246b9",
+    "name": "Complexity and Fear",
+    "prompt": "Does the text suggest that complexity and fear of regulations may hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-3599",
+      "PIAAC-2366-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "abf391e6-5638-43f8-ae01-89896b5246b9"
+  },
+  {
+    "id": "5015fca2-971e-481c-b240-d33a1cede426",
+    "name": "Supportive Environment",
+    "prompt": "Does the text mention the necessity of a supportive environment for effective AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11268-3",
+      "PIAAC-4322"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Online safety legislation",
+    "field": "Rationale",
+    "concept_id": "5015fca2-971e-481c-b240-d33a1cede426"
+  }
+]

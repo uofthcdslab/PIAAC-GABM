@@ -1,0 +1,270 @@
+[
+  {
+    "id": "7088c669-07fc-4428-98f1-ee2e1cbfb28e",
+    "name": "Enhances AI Literacy",
+    "prompt": "Does the text example indicate that the policy enhances AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-10936-2",
+      "PIAAC-8967"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "7088c669-07fc-4428-98f1-ee2e1cbfb28e"
+  },
+  {
+    "id": "ffd3ab6b-0649-4a7c-8bd3-35806ecc087b",
+    "name": "Potential to Enhance",
+    "prompt": "Does the text example suggest that there is potential to enhance AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-10367",
+      "PIAAC-6630"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "ffd3ab6b-0649-4a7c-8bd3-35806ecc087b"
+  },
+  {
+    "id": "17ba10e4-df95-42c8-b3c5-c5e50af5f122",
+    "name": "Promotes Among Creators",
+    "prompt": "Does the text example mention promoting AI literacy specifically among Canadian creators?",
+    "example_ids": [
+      "PIAAC-9586",
+      "PIAAC-3861"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "17ba10e4-df95-42c8-b3c5-c5e50af5f122"
+  },
+  {
+    "id": "e674dd3f-c39e-4974-a9ee-bda9a87e9d17",
+    "name": "Moderate Effectiveness",
+    "prompt": "Does the text example describe the policy as having moderate effectiveness in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-6002",
+      "PIAAC-7278-5"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "e674dd3f-c39e-4974-a9ee-bda9a87e9d17"
+  },
+  {
+    "id": "d069010f-070e-414d-8deb-fe6b5ea91630",
+    "name": "Limited Usage",
+    "prompt": "Does the text example highlight limited AI usage among Canadian companies?",
+    "example_ids": [
+      "PIAAC-6922"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "d069010f-070e-414d-8deb-fe6b5ea91630"
+  },
+  {
+    "id": "e7fa98e1-3b56-415a-a0bf-d9bc40c7a75f",
+    "name": "Supports AI Literacy",
+    "prompt": "Does the text example indicate support for AI literacy for Canadian creators?",
+    "example_ids": [
+      "PIAAC-1343"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "e7fa98e1-3b56-415a-a0bf-d9bc40c7a75f"
+  },
+  {
+    "id": "8b536bf5-9322-409a-ac3b-523b5e60eec3",
+    "name": "Diverse Voices Support",
+    "prompt": "Does the text example emphasize the importance of supporting diverse voices in AI development and adoption?",
+    "example_ids": [
+      "PIAAC-9586",
+      "PIAAC-8731"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "8b536bf5-9322-409a-ac3b-523b5e60eec3"
+  },
+  {
+    "id": "9db1a859-acf5-45ae-a820-f165bbdd1f8f",
+    "name": "Cultural Representation",
+    "prompt": "Does the text example highlight the need for cultural representation in AI to improve literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8028",
+      "PIAAC-5225"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "9db1a859-acf5-45ae-a820-f165bbdd1f8f"
+  },
+  {
+    "id": "0785ec71-a079-4d13-8cca-2185254135bf",
+    "name": "Moderate Impact",
+    "prompt": "Does the text example suggest that the policy has a moderate impact on improving AI literacy?",
+    "example_ids": [
+      "PIAAC-5663-2",
+      "PIAAC-2270"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "0785ec71-a079-4d13-8cca-2185254135bf"
+  },
+  {
+    "id": "eed4e092-adbe-4728-918d-7e4dec964456",
+    "name": "Funding and Resources",
+    "prompt": "Does the text example indicate that funding and resources are crucial for enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5940",
+      "PIAAC-6267"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "eed4e092-adbe-4728-918d-7e4dec964456"
+  },
+  {
+    "id": "704a1b49-94d8-47a7-b6c6-ac486432d822",
+    "name": "Empowering Creators",
+    "prompt": "Does the text example focus on empowering creators to effectively use AI technologies?",
+    "example_ids": [
+      "PIAAC-8742",
+      "PIAAC-2703"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "704a1b49-94d8-47a7-b6c6-ac486432d822"
+  },
+  {
+    "id": "f96bca6a-b39e-4a7b-8c5d-0ff0b7deedd5",
+    "name": "Canadian Voices Emphasis",
+    "prompt": "Does the text example emphasize the importance of promoting Canadian voices in AI development?",
+    "example_ids": [
+      "PIAAC-9344",
+      "PIAAC-8706"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "f96bca6a-b39e-4a7b-8c5d-0ff0b7deedd5"
+  },
+  {
+    "id": "4eeff77f-e6c9-49c5-9ddf-48a7c9e6614b",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text mention any barriers or challenges that hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-4424",
+      "PIAAC-9088"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "4eeff77f-e6c9-49c5-9ddf-48a7c9e6614b"
+  },
+  {
+    "id": "0bfd737e-37f0-452f-a72d-c48831d225ad",
+    "name": "Need for Training",
+    "prompt": "Does the text highlight a need for training or educational resources to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-2619",
+      "PIAAC-94"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "0bfd737e-37f0-452f-a72d-c48831d225ad"
+  },
+  {
+    "id": "847b1168-4a5c-4bfd-b1a7-4994f35aa016",
+    "name": "Resource Accessibility",
+    "prompt": "Does the text discuss issues related to the accessibility of resources for AI adoption?",
+    "example_ids": [
+      "PIAAC-1491",
+      "PIAAC-3332"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "847b1168-4a5c-4bfd-b1a7-4994f35aa016"
+  },
+  {
+    "id": "04dcb854-09c7-40b3-a1c5-b5048f97572f",
+    "name": "Support Structures",
+    "prompt": "Does the text emphasize the importance of support structures for effective AI adoption?",
+    "example_ids": [
+      "PIAAC-1988",
+      "PIAAC-1252"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "04dcb854-09c7-40b3-a1c5-b5048f97572f"
+  },
+  {
+    "id": "a213d97f-7a4c-4d4c-bbf2-7f800a99d460",
+    "name": "Concerns about Effectiveness",
+    "prompt": "Does the text express concerns about the overall effectiveness of the policy in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-226",
+      "PIAAC-7850"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "a213d97f-7a4c-4d4c-bbf2-7f800a99d460"
+  },
+  {
+    "id": "0c292369-5e7f-4f96-9088-abd5807562bd",
+    "name": "Privacy and Ethical Risks",
+    "prompt": "Does the text mention privacy or ethical risks as a concern for AI adoption?",
+    "example_ids": [
+      "PIAAC-10573",
+      "PIAAC-960"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI support for Canadian creator",
+    "field": "Rationale",
+    "concept_id": "0c292369-5e7f-4f96-9088-abd5807562bd"
+  }
+]

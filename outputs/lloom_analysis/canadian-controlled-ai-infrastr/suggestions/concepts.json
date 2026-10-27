@@ -1,0 +1,452 @@
+[
+  {
+    "id": "c3415caa-275c-460a-a1f3-f551a92f9c93",
+    "name": "Community-Based Training",
+    "prompt": "Does the text example suggest implementing or investing in community-based training programs?",
+    "example_ids": [
+      "PIAAC-11059",
+      "PIAAC-5964"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "c3415caa-275c-460a-a1f3-f551a92f9c93"
+  },
+  {
+    "id": "9d0aad0f-04a0-476f-b2c8-a0acd27d2d01",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example propose creating or establishing mentorship programs for AI or technology guidance?",
+    "example_ids": [
+      "PIAAC-2580",
+      "PIAAC-2333"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "9d0aad0f-04a0-476f-b2c8-a0acd27d2d01"
+  },
+  {
+    "id": "6e6de0ba-278c-4ae9-b612-ec94b1415e59",
+    "name": "Incentives for AI Adoption",
+    "prompt": "Does the text example recommend providing incentives or financial support for AI adoption or training?",
+    "example_ids": [
+      "PIAAC-7111-2",
+      "PIAAC-6267"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "6e6de0ba-278c-4ae9-b612-ec94b1415e59"
+  },
+  {
+    "id": "de0403fc-295a-4d4e-9e71-cdfe01620f48",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text example focus on enhancing policy effectiveness or implementing measures for improvement?",
+    "example_ids": [
+      "PIAAC-2248",
+      "PIAAC-10368"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "de0403fc-295a-4d4e-9e71-cdfe01620f48"
+  },
+  {
+    "id": "c2e47296-498b-41e6-a115-94bc0de408be",
+    "name": "Multilingual Accessibility",
+    "prompt": "Does the text example emphasize ensuring multilingual accessibility or providing resources in multiple languages?",
+    "example_ids": [
+      "PIAAC-10653",
+      "PIAAC-8699"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "c2e47296-498b-41e6-a115-94bc0de408be"
+  },
+  {
+    "id": "629b7346-86e1-47f2-9702-56f7d7d838ea",
+    "name": "Feedback and Evaluation",
+    "prompt": "Does the text example suggest establishing feedback loops or continuous evaluation mechanisms?",
+    "example_ids": [
+      "PIAAC-6080",
+      "PIAAC-2984"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "629b7346-86e1-47f2-9702-56f7d7d838ea"
+  },
+  {
+    "id": "7501b21f-b521-460c-8818-ad581009b4c7",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text example propose establishing ethical guidelines for AI usage or deployment?",
+    "example_ids": [
+      "PIAAC-3266",
+      "PIAAC-7753"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "7501b21f-b521-460c-8818-ad581009b4c7"
+  },
+  {
+    "id": "76e7a243-8b67-46bf-9921-d70209925805",
+    "name": "Data Privacy Policies",
+    "prompt": "Does the text example suggest creating or establishing guidelines or policies for data privacy?",
+    "example_ids": [
+      "PIAAC-7267",
+      "PIAAC-5923"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "76e7a243-8b67-46bf-9921-d70209925805"
+  },
+  {
+    "id": "8bbe7019-390f-4777-b38d-e7bd963d81f6",
+    "name": "AI Transparency",
+    "prompt": "Does the text example emphasize the need for transparency in AI systems or data handling?",
+    "example_ids": [
+      "PIAAC-1360-2",
+      "PIAAC-3506"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "8bbe7019-390f-4777-b38d-e7bd963d81f6"
+  },
+  {
+    "id": "0ae5a15d-fc4b-4183-a271-1b238ee1b766",
+    "name": "AI Bias Safeguards",
+    "prompt": "Does the text example recommend implementing safeguards against AI bias?",
+    "example_ids": [
+      "PIAAC-9220",
+      "PIAAC-11633"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "0ae5a15d-fc4b-4183-a271-1b238ee1b766"
+  },
+  {
+    "id": "f85dd5bf-775c-4fbd-969a-51ac5a9c5bb0",
+    "name": "Responsible AI Conduct",
+    "prompt": "Does the text example advocate for adopting a responsible AI code of conduct or similar measures?",
+    "example_ids": [
+      "PIAAC-7002",
+      "PIAAC-4384"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "f85dd5bf-775c-4fbd-969a-51ac5a9c5bb0"
+  },
+  {
+    "id": "906e5f7e-15bb-4b70-9d57-605537468cca",
+    "name": "Data Security Standards",
+    "prompt": "Does the text example propose establishing standards or guidelines for data security?",
+    "example_ids": [
+      "PIAAC-11336-2",
+      "PIAAC-6732"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "906e5f7e-15bb-4b70-9d57-605537468cca"
+  },
+  {
+    "id": "22f9dbb8-9a6b-4a42-a0c8-50f577c00e96",
+    "name": "Community-Based AI Training",
+    "prompt": "Does the text example suggest implementing AI training programs specifically designed for community engagement?",
+    "example_ids": [
+      "PIAAC-5402",
+      "PIAAC-11572-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "22f9dbb8-9a6b-4a42-a0c8-50f577c00e96"
+  },
+  {
+    "id": "96054a9c-af43-4054-9681-3519f73a3951",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example propose the development or implementation of AI literacy programs?",
+    "example_ids": [
+      "PIAAC-2067",
+      "PIAAC-5337"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "96054a9c-af43-4054-9681-3519f73a3951"
+  },
+  {
+    "id": "914a2094-cc4c-4a95-a4f3-5d3ad4730796",
+    "name": "Partnerships for AI Education",
+    "prompt": "Does the text example recommend forming partnerships to enhance AI education?",
+    "example_ids": [
+      "PIAAC-2594",
+      "PIAAC-3506-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "914a2094-cc4c-4a95-a4f3-5d3ad4730796"
+  },
+  {
+    "id": "4b18f1d2-c5ca-4e6d-a0c4-d270ddacbe5b",
+    "name": "Targeted AI Training",
+    "prompt": "Does the text example focus on implementing AI training programs targeted at specific groups or sectors?",
+    "example_ids": [
+      "PIAAC-8338",
+      "PIAAC-2187-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "4b18f1d2-c5ca-4e6d-a0c4-d270ddacbe5b"
+  },
+  {
+    "id": "c4cc62bb-71f0-4d6d-9fc8-272a868d34ff",
+    "name": "Workshops and Hands-On Training",
+    "prompt": "Does the text example suggest organizing workshops or hands-on training sessions for AI?",
+    "example_ids": [
+      "PIAAC-10693",
+      "PIAAC-2778-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "c4cc62bb-71f0-4d6d-9fc8-272a868d34ff"
+  },
+  {
+    "id": "7b93c18d-94dc-4ca8-929f-07c70dd56881",
+    "name": "Ethical AI Education",
+    "prompt": "Does the text example emphasize the importance of ethical considerations in AI education?",
+    "example_ids": [
+      "PIAAC-10987",
+      "PIAAC-6732"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "7b93c18d-94dc-4ca8-929f-07c70dd56881"
+  },
+  {
+    "id": "7024a4cd-215b-437a-bef6-f1b2480a9d17",
+    "name": "Educational Partnerships",
+    "prompt": "Does the text example suggest forming partnerships with educational institutions to improve policy?",
+    "example_ids": [
+      "PIAAC-8890",
+      "PIAAC-2013"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "7024a4cd-215b-437a-bef6-f1b2480a9d17"
+  },
+  {
+    "id": "fcdb0f23-dcad-4608-9b88-b892d24c7df3",
+    "name": "Community Workshops",
+    "prompt": "Does the text example recommend establishing workshops in community centers as a policy improvement?",
+    "example_ids": [
+      "PIAAC-10487",
+      "PIAAC-3076"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "fcdb0f23-dcad-4608-9b88-b892d24c7df3"
+  },
+  {
+    "id": "fb24ffa5-b231-4e5d-a69d-19f7e6aef9cb",
+    "name": "Local Organization Collaboration",
+    "prompt": "Does the text example propose collaborating with local organizations to enhance policy?",
+    "example_ids": [
+      "PIAAC-5753",
+      "PIAAC-6882-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "fb24ffa5-b231-4e5d-a69d-19f7e6aef9cb"
+  },
+  {
+    "id": "3c392342-8942-4c6f-a058-fd6f5531c152",
+    "name": "Accessible Learning",
+    "prompt": "Does the text example emphasize creating accessible learning opportunities as a policy recommendation?",
+    "example_ids": [
+      "PIAAC-9327",
+      "PIAAC-9233"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "3c392342-8942-4c6f-a058-fd6f5531c152"
+  },
+  {
+    "id": "36eaa350-3177-4526-84b5-78c323adac87",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest fostering mentorship programs to improve policy?",
+    "example_ids": [
+      "PIAAC-407-2",
+      "PIAAC-5640-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "36eaa350-3177-4526-84b5-78c323adac87"
+  },
+  {
+    "id": "cc985ec0-fd40-4848-90da-6fd37ea6f63d",
+    "name": "Industry-Specific Training",
+    "prompt": "Does the text example recommend developing industry-specific training partnerships as a policy improvement?",
+    "example_ids": [
+      "PIAAC-7928-2",
+      "PIAAC-11525-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "cc985ec0-fd40-4848-90da-6fd37ea6f63d"
+  },
+  {
+    "id": "a5c5c079-3003-422b-99a0-5d7574cbda9c",
+    "name": "Targeted Training",
+    "prompt": "Does the text example suggest implementing training programs that are specifically tailored to certain groups or skills?",
+    "example_ids": [
+      "PIAAC-9180-2",
+      "PIAAC-4100-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "a5c5c079-3003-422b-99a0-5d7574cbda9c"
+  },
+  {
+    "id": "853defaa-a106-4009-9cbf-cf912709ac3a",
+    "name": "Comprehensive Training",
+    "prompt": "Does the text example propose implementing broad or comprehensive training programs?",
+    "example_ids": [
+      "PIAAC-777",
+      "PIAAC-9233"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "853defaa-a106-4009-9cbf-cf912709ac3a"
+  },
+  {
+    "id": "5df84af8-60e0-4613-8fda-128abfab2544",
+    "name": "Hands-on Training",
+    "prompt": "Does the text example recommend implementing hands-on or practical training programs?",
+    "example_ids": [
+      "PIAAC-2580",
+      "PIAAC-4647"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "5df84af8-60e0-4613-8fda-128abfab2544"
+  },
+  {
+    "id": "9d79087c-5c0d-4cb6-8100-b30d69a5df7e",
+    "name": "Community Engagement",
+    "prompt": "Does the text example emphasize the importance of community engagement or outreach in training programs?",
+    "example_ids": [
+      "PIAAC-11618",
+      "PIAAC-7979-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "9d79087c-5c0d-4cb6-8100-b30d69a5df7e"
+  },
+  {
+    "id": "f89cd9f9-4599-4af8-b5a6-4df7dcf9d62d",
+    "name": "Sector-Specific Training",
+    "prompt": "Does the text example suggest creating training programs that are specific to certain sectors or industries?",
+    "example_ids": [
+      "PIAAC-8112-3",
+      "PIAAC-4521"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "f89cd9f9-4599-4af8-b5a6-4df7dcf9d62d"
+  },
+  {
+    "id": "4c7ac378-caf8-40c8-ae05-4fa89b3b38ae",
+    "name": "Diverse Group Training",
+    "prompt": "Does the text example focus on training programs that cater to diverse groups or populations?",
+    "example_ids": [
+      "PIAAC-5663",
+      "PIAAC-6253"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Canadian-controlled AI infrastr",
+    "field": "Suggestions",
+    "concept_id": "4c7ac378-caf8-40c8-ae05-4fa89b3b38ae"
+  }
+]

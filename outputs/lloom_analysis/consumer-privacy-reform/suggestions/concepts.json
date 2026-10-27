@@ -1,0 +1,362 @@
+[
+  {
+    "id": "96098516-b3c8-4704-a1b1-ecb4da8fe86f",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text recommend implementing AI literacy programs or initiatives?",
+    "example_ids": [
+      "PIAAC-2437",
+      "PIAAC-1453"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "96098516-b3c8-4704-a1b1-ecb4da8fe86f"
+  },
+  {
+    "id": "ad2734fd-14d6-4c7e-be20-3b17c95fe65e",
+    "name": "Public Education Campaigns",
+    "prompt": "Does the text suggest launching public education campaigns related to AI?",
+    "example_ids": [
+      "PIAAC-5746",
+      "PIAAC-4280-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "ad2734fd-14d6-4c7e-be20-3b17c95fe65e"
+  },
+  {
+    "id": "259f64e1-b99b-40e1-831d-8532ad4b577c",
+    "name": "Workshops and Training",
+    "prompt": "Does the text propose organizing workshops or training sessions on AI?",
+    "example_ids": [
+      "PIAAC-968",
+      "PIAAC-4948"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "259f64e1-b99b-40e1-831d-8532ad4b577c"
+  },
+  {
+    "id": "ecc38208-1061-4cc7-bdc2-31b145de595a",
+    "name": "AI and Privacy Education",
+    "prompt": "Does the text recommend integrating AI education with privacy or data protection measures?",
+    "example_ids": [
+      "PIAAC-9336",
+      "PIAAC-7111"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "ecc38208-1061-4cc7-bdc2-31b145de595a"
+  },
+  {
+    "id": "e8cc29db-9725-43f2-81de-02aea9e5908c",
+    "name": "Community-Based Initiatives",
+    "prompt": "Does the text advocate for community-based AI education initiatives?",
+    "example_ids": [
+      "PIAAC-6529",
+      "PIAAC-9069"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "e8cc29db-9725-43f2-81de-02aea9e5908c"
+  },
+  {
+    "id": "daaa9a58-94a5-46f3-9f53-7615b8bb99fe",
+    "name": "Targeted Demographic Education",
+    "prompt": "Does the text focus on enhancing AI literacy for specific demographics such as youth or marginalized communities?",
+    "example_ids": [
+      "PIAAC-3265",
+      "PIAAC-441"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "daaa9a58-94a5-46f3-9f53-7615b8bb99fe"
+  },
+  {
+    "id": "5a53d15a-5c35-483d-bd5c-42e4fa52f112",
+    "name": "Digital Literacy Programs",
+    "prompt": "Does the text recommend implementing or enhancing digital literacy programs?",
+    "example_ids": [
+      "PIAAC-8902-3",
+      "PIAAC-2951"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "5a53d15a-5c35-483d-bd5c-42e4fa52f112"
+  },
+  {
+    "id": "4141df70-f3bc-4e47-85e9-0f507cd85db6",
+    "name": "Workshops and Training",
+    "prompt": "Does the text suggest offering workshops or training sessions to improve skills or knowledge?",
+    "example_ids": [
+      "PIAAC-8280",
+      "PIAAC-10429"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "4141df70-f3bc-4e47-85e9-0f507cd85db6"
+  },
+  {
+    "id": "58106e12-a662-4aaa-8f64-f3945f77b325",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text propose launching public awareness campaigns on specific rights or issues?",
+    "example_ids": [
+      "PIAAC-7546",
+      "PIAAC-1304"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "58106e12-a662-4aaa-8f64-f3945f77b325"
+  },
+  {
+    "id": "dd5d4efd-98ea-41ff-8a81-1445b7a7b24a",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text recommend providing resources in multiple languages to improve accessibility?",
+    "example_ids": [
+      "PIAAC-992",
+      "PIAAC-10419"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "dd5d4efd-98ea-41ff-8a81-1445b7a7b24a"
+  },
+  {
+    "id": "ef5ccc90-507e-4823-8e47-5217f29f7f08",
+    "name": "Stakeholder Engagement",
+    "prompt": "Does the text emphasize involving stakeholders or community organizations in initiatives?",
+    "example_ids": [
+      "PIAAC-9941-2",
+      "PIAAC-9473"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "ef5ccc90-507e-4823-8e47-5217f29f7f08"
+  },
+  {
+    "id": "2b1663ca-55cf-44fb-a3e9-a399ca152e5d",
+    "name": "Privacy and Data Rights Education",
+    "prompt": "Does the text focus on educating the public about privacy and data rights?",
+    "example_ids": [
+      "PIAAC-6981",
+      "PIAAC-4671"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "2b1663ca-55cf-44fb-a3e9-a399ca152e5d"
+  },
+  {
+    "id": "0fff0d4b-1850-432b-a46b-50eb6cd439e3",
+    "name": "Data Usage Guidelines",
+    "prompt": "Does the text example recommend establishing or implementing guidelines related to data usage or privacy?",
+    "example_ids": [
+      "PIAAC-4617",
+      "PIAAC-10091"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "0fff0d4b-1850-432b-a46b-50eb6cd439e3"
+  },
+  {
+    "id": "9129d268-5188-4fd3-b506-a4cae2dc5310",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest creating or implementing mechanisms for feedback or reporting related to data or policy?",
+    "example_ids": [
+      "PIAAC-8112-3",
+      "PIAAC-2147"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "9129d268-5188-4fd3-b506-a4cae2dc5310"
+  },
+  {
+    "id": "70c77912-b199-4b32-97e2-b2903dce3722",
+    "name": "Transparency Measures",
+    "prompt": "Does the text example propose measures to enhance transparency in data practices or policy implementation?",
+    "example_ids": [
+      "PIAAC-5673",
+      "PIAAC-5203"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "70c77912-b199-4b32-97e2-b2903dce3722"
+  },
+  {
+    "id": "be2d6b7d-9052-423a-9cb6-f257b760c73b",
+    "name": "Compliance Frameworks",
+    "prompt": "Does the text example recommend establishing frameworks or support systems for compliance with data or privacy regulations?",
+    "example_ids": [
+      "PIAAC-10997",
+      "PIAAC-8406"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "be2d6b7d-9052-423a-9cb6-f257b760c73b"
+  },
+  {
+    "id": "c46bafb9-e105-402f-8f60-d981707498ea",
+    "name": "Ethical Guidelines",
+    "prompt": "Does the text example advocate for the establishment of ethical guidelines related to data usage or privacy?",
+    "example_ids": [
+      "PIAAC-1265",
+      "PIAAC-1517"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "c46bafb9-e105-402f-8f60-d981707498ea"
+  },
+  {
+    "id": "4a77793d-c601-46bc-817b-f1781b109e99",
+    "name": "Safeguards and Penalties",
+    "prompt": "Does the text example suggest implementing safeguards or penalties related to data misuse or privacy violations?",
+    "example_ids": [
+      "PIAAC-8447",
+      "PIAAC-2632"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "4a77793d-c601-46bc-817b-f1781b109e99"
+  },
+  {
+    "id": "e34fda3b-29a0-4819-98a7-667b789e213e",
+    "name": "Ethical Guidelines",
+    "prompt": "Does the text example suggest establishing ethical guidelines for AI use?",
+    "example_ids": [
+      "PIAAC-2632-2",
+      "PIAAC-4515-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "e34fda3b-29a0-4819-98a7-667b789e213e"
+  },
+  {
+    "id": "50313cad-018a-4f5e-b242-dd86e0f5d95d",
+    "name": "Transparency Measures",
+    "prompt": "Does the text example propose implementing transparency measures in AI applications?",
+    "example_ids": [
+      "PIAAC-10331-4",
+      "PIAAC-8706"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "50313cad-018a-4f5e-b242-dd86e0f5d95d"
+  },
+  {
+    "id": "4cf502a6-b415-4b63-a525-336f83c2a901",
+    "name": "Regulatory Frameworks",
+    "prompt": "Does the text example recommend establishing regulatory frameworks or bodies for AI?",
+    "example_ids": [
+      "PIAAC-8902-3",
+      "PIAAC-5638"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "4cf502a6-b415-4b63-a525-336f83c2a901"
+  },
+  {
+    "id": "cef8774f-9dbc-4971-b9a0-11e80920d709",
+    "name": "Responsible AI Use",
+    "prompt": "Does the text example advocate for guidelines on responsible AI use?",
+    "example_ids": [
+      "PIAAC-441",
+      "PIAAC-10954"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "cef8774f-9dbc-4971-b9a0-11e80920d709"
+  },
+  {
+    "id": "036b133e-9936-4409-ba20-940b7da42e1a",
+    "name": "AI Data Privacy",
+    "prompt": "Does the text example address guidelines or frameworks for AI data privacy?",
+    "example_ids": [
+      "PIAAC-3181-2",
+      "PIAAC-7427"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "036b133e-9936-4409-ba20-940b7da42e1a"
+  },
+  {
+    "id": "84e975e9-808b-40e3-832f-6e71f7f3f838",
+    "name": "AI Feedback Systems",
+    "prompt": "Does the text example suggest creating feedback systems for AI users?",
+    "example_ids": [
+      "PIAAC-11639",
+      "PIAAC-4315-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Consumer privacy reform",
+    "field": "Suggestions",
+    "concept_id": "84e975e9-808b-40e3-832f-6e71f7f3f838"
+  }
+]

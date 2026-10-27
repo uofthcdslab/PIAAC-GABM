@@ -1,0 +1,452 @@
+[
+  {
+    "id": "178a0d8d-da28-4d19-8acc-e802afadce3d",
+    "name": "Community AI Training",
+    "prompt": "Does the text example propose community-based AI training programs?",
+    "example_ids": [
+      "PIAAC-11336-2",
+      "PIAAC-11268-5"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "178a0d8d-da28-4d19-8acc-e802afadce3d"
+  },
+  {
+    "id": "bea5c483-f0ab-47a5-ad68-83af0c1d6aa5",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text example suggest establishing ethical guidelines or frameworks for AI usage?",
+    "example_ids": [
+      "PIAAC-6923",
+      "PIAAC-81"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "bea5c483-f0ab-47a5-ad68-83af0c1d6aa5"
+  },
+  {
+    "id": "00f0dd84-22ea-49cf-8572-a965e2209059",
+    "name": "Support for SMEs",
+    "prompt": "Does the text example recommend providing support or resources for small and medium enterprises (SMEs) in AI adoption?",
+    "example_ids": [
+      "PIAAC-7359",
+      "PIAAC-3099"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "00f0dd84-22ea-49cf-8572-a965e2209059"
+  },
+  {
+    "id": "48df5854-2428-4d05-9d5b-6836ba605c78",
+    "name": "Digital Literacy Initiatives",
+    "prompt": "Does the text example focus on promoting digital literacy through community initiatives?",
+    "example_ids": [
+      "PIAAC-3428",
+      "PIAAC-949"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "48df5854-2428-4d05-9d5b-6836ba605c78"
+  },
+  {
+    "id": "d8f929fe-60f6-4d58-b9dd-9d4cdf557ca4",
+    "name": "Targeted AI Training",
+    "prompt": "Does the text example involve implementing targeted AI training programs?",
+    "example_ids": [
+      "PIAAC-2950",
+      "PIAAC-11325"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "d8f929fe-60f6-4d58-b9dd-9d4cdf557ca4"
+  },
+  {
+    "id": "c1010ab2-db13-4661-bcf9-6bbe7dadf646",
+    "name": "AI Mentorship Programs",
+    "prompt": "Does the text example propose mentorship programs for AI adoption?",
+    "example_ids": [
+      "PIAAC-1178",
+      "PIAAC-5897"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "c1010ab2-db13-4661-bcf9-6bbe7dadf646"
+  },
+  {
+    "id": "a0c30604-d7e4-4967-9976-9876f3c0b0ce",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing or implementing mentorship programs or initiatives?",
+    "example_ids": [
+      "PIAAC-1106",
+      "PIAAC-6641"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "a0c30604-d7e4-4967-9976-9876f3c0b0ce"
+  },
+  {
+    "id": "5f101afc-9b72-4114-9783-2d3c74968875",
+    "name": "Partnership Development",
+    "prompt": "Does the text example recommend forming or fostering partnerships between organizations or sectors?",
+    "example_ids": [
+      "PIAAC-2817",
+      "PIAAC-3304-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "5f101afc-9b72-4114-9783-2d3c74968875"
+  },
+  {
+    "id": "7bbd210a-4c15-4e34-a8e7-f9cb86de284b",
+    "name": "Knowledge Transfer",
+    "prompt": "Does the text example focus on facilitating knowledge transfer or sharing between entities?",
+    "example_ids": [
+      "PIAAC-8463-2",
+      "PIAAC-5059"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "7bbd210a-4c15-4e34-a8e7-f9cb86de284b"
+  },
+  {
+    "id": "06859b6c-812b-4a4b-bfca-4987966d7850",
+    "name": "Collaboration Facilitation",
+    "prompt": "Does the text example propose facilitating collaboration between different groups or industries?",
+    "example_ids": [
+      "PIAAC-993",
+      "PIAAC-3922"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "06859b6c-812b-4a4b-bfca-4987966d7850"
+  },
+  {
+    "id": "dc16c60c-f00a-49bb-96ff-619571dcbca9",
+    "name": "Support Systems",
+    "prompt": "Does the text example suggest developing support systems or structures for implementation or onboarding?",
+    "example_ids": [
+      "PIAAC-10990",
+      "PIAAC-1860-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "dc16c60c-f00a-49bb-96ff-619571dcbca9"
+  },
+  {
+    "id": "97150cc4-81b4-4411-8f31-8b7c05fc758e",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example recommend establishing feedback channels or mechanisms for improvement?",
+    "example_ids": [
+      "PIAAC-3067",
+      "PIAAC-4809"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "97150cc4-81b4-4411-8f31-8b7c05fc758e"
+  },
+  {
+    "id": "9932a33f-8631-435a-987d-97fbfd7ca879",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example recommend implementing AI literacy programs for various groups?",
+    "example_ids": [
+      "PIAAC-6882",
+      "PIAAC-332-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "9932a33f-8631-435a-987d-97fbfd7ca879"
+  },
+  {
+    "id": "3ef4a7cf-1e63-4491-ac06-1eaefef7ca55",
+    "name": "Community Outreach",
+    "prompt": "Does the text example suggest implementing community outreach initiatives for AI education?",
+    "example_ids": [
+      "PIAAC-8747-2",
+      "PIAAC-1763"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "3ef4a7cf-1e63-4491-ac06-1eaefef7ca55"
+  },
+  {
+    "id": "57330a30-869d-4859-a2ac-4ca53a4cebcf",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example propose launching public awareness campaigns about AI?",
+    "example_ids": [
+      "PIAAC-1981",
+      "PIAAC-10418-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "57330a30-869d-4859-a2ac-4ca53a4cebcf"
+  },
+  {
+    "id": "f14de61c-0963-4962-96cc-4e5ff75c4061",
+    "name": "Workforce Training",
+    "prompt": "Does the text example focus on training the workforce for AI-related skills?",
+    "example_ids": [
+      "PIAAC-1267",
+      "PIAAC-7304"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "f14de61c-0963-4962-96cc-4e5ff75c4061"
+  },
+  {
+    "id": "629a4f7d-922a-4467-a5ce-1eefb49ff3ed",
+    "name": "AI Ethics Education",
+    "prompt": "Does the text example emphasize the importance of AI ethics education?",
+    "example_ids": [
+      "PIAAC-10116",
+      "PIAAC-1178"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "629a4f7d-922a-4467-a5ce-1eefb49ff3ed"
+  },
+  {
+    "id": "36f29c8d-da69-4900-a785-c2a698ed39fa",
+    "name": "Business-Focused Training",
+    "prompt": "Does the text example recommend AI training programs specifically for businesses?",
+    "example_ids": [
+      "PIAAC-8463-2",
+      "PIAAC-10216"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "36f29c8d-da69-4900-a785-c2a698ed39fa"
+  },
+  {
+    "id": "d27e49fe-46b2-45f5-aa76-d85a1f80ef97",
+    "name": "Community-Based Training",
+    "prompt": "Does the text example suggest implementing or developing training programs that are community-focused or community-based?",
+    "example_ids": [
+      "PIAAC-9941-2",
+      "PIAAC-2901"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "d27e49fe-46b2-45f5-aa76-d85a1f80ef97"
+  },
+  {
+    "id": "9f93c880-f295-4ca6-8acd-dc2727b5d852",
+    "name": "Targeted Training Programs",
+    "prompt": "Does the text example recommend implementing or investing in training programs that are specifically targeted towards certain groups or sectors?",
+    "example_ids": [
+      "PIAAC-4606",
+      "PIAAC-1284"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "9f93c880-f295-4ca6-8acd-dc2727b5d852"
+  },
+  {
+    "id": "e6fbb5ac-7ce5-4b7b-b2d9-adfc8aa94de9",
+    "name": "Support for SMEs",
+    "prompt": "Does the text example propose creating or enhancing support systems or training programs specifically for small and medium enterprises (SMEs)?",
+    "example_ids": [
+      "PIAAC-6509",
+      "PIAAC-9922"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "e6fbb5ac-7ce5-4b7b-b2d9-adfc8aa94de9"
+  },
+  {
+    "id": "03b4c0ea-8c27-49f1-8651-5dfe38709680",
+    "name": "Upskilling Workforce",
+    "prompt": "Does the text example focus on upskilling the existing workforce through education or training initiatives?",
+    "example_ids": [
+      "PIAAC-5753",
+      "PIAAC-9221"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "03b4c0ea-8c27-49f1-8651-5dfe38709680"
+  },
+  {
+    "id": "7fce97a1-df6c-44ee-b704-83f23320a1b4",
+    "name": "Training for Lower-Skilled Workers",
+    "prompt": "Does the text example emphasize providing training or support specifically for lower-skilled workers?",
+    "example_ids": [
+      "PIAAC-6352-2",
+      "PIAAC-2503"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "7fce97a1-df6c-44ee-b704-83f23320a1b4"
+  },
+  {
+    "id": "b9fdc857-7d9c-40e5-95e4-b636aa0de159",
+    "name": "Comprehensive Training Initiatives",
+    "prompt": "Does the text example suggest implementing comprehensive or wide-ranging training programs or initiatives?",
+    "example_ids": [
+      "PIAAC-1404",
+      "PIAAC-950"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "b9fdc857-7d9c-40e5-95e4-b636aa0de159"
+  },
+  {
+    "id": "5407da2b-c4f0-439d-bb3d-99ee28153ba5",
+    "name": "AI Workshops",
+    "prompt": "Does the text example recommend conducting workshops related to AI?",
+    "example_ids": [
+      "PIAAC-5755",
+      "PIAAC-6016"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "5407da2b-c4f0-439d-bb3d-99ee28153ba5"
+  },
+  {
+    "id": "bfb17e2b-c593-4a0b-80d4-5e135696c34d",
+    "name": "Resource Provision",
+    "prompt": "Does the text example suggest providing resources for AI adoption or risk management?",
+    "example_ids": [
+      "PIAAC-5673",
+      "PIAAC-7682-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "bfb17e2b-c593-4a0b-80d4-5e135696c34d"
+  },
+  {
+    "id": "0922dac5-273e-4a98-aa09-1471159ff69a",
+    "name": "Community Engagement",
+    "prompt": "Does the text example emphasize engaging with communities through forums or outreach?",
+    "example_ids": [
+      "PIAAC-8280",
+      "PIAAC-7431"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "0922dac5-273e-4a98-aa09-1471159ff69a"
+  },
+  {
+    "id": "e6e2f264-feb1-484a-a6c8-c2ac5ac7e009",
+    "name": "AI Literacy",
+    "prompt": "Does the text example focus on improving AI literacy through workshops or resources?",
+    "example_ids": [
+      "PIAAC-7048",
+      "PIAAC-11225"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "e6e2f264-feb1-484a-a6c8-c2ac5ac7e009"
+  },
+  {
+    "id": "6126961e-4a20-4af0-a2f5-1af60f8cf932",
+    "name": "Addressing Misconceptions",
+    "prompt": "Does the text example address misconceptions or challenges related to AI adoption?",
+    "example_ids": [
+      "PIAAC-7102-2",
+      "PIAAC-10116"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "6126961e-4a20-4af0-a2f5-1af60f8cf932"
+  },
+  {
+    "id": "5b42cd80-ac80-4cf2-a41d-69714450b9f2",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing AI resources in multiple languages?",
+    "example_ids": [
+      "PIAAC-90",
+      "PIAAC-6352-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI research and talent recruitm",
+    "field": "Suggestions",
+    "concept_id": "5b42cd80-ac80-4cf2-a41d-69714450b9f2"
+  }
+]

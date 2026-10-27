@@ -1,0 +1,362 @@
+[
+  {
+    "id": "c104e14a-7071-4046-805d-0f6486f76cae",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example recommend implementing AI literacy or training programs for practitioners or stakeholders?",
+    "example_ids": [
+      "PIAAC-6811-2",
+      "PIAAC-1532"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "c104e14a-7071-4046-805d-0f6486f76cae"
+  },
+  {
+    "id": "81ac5d88-a415-4ecc-b38b-37c3b05845e7",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest establishing feedback mechanisms or channels for continuous improvement or user input?",
+    "example_ids": [
+      "PIAAC-2743",
+      "PIAAC-11312-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "81ac5d88-a415-4ecc-b38b-37c3b05845e7"
+  },
+  {
+    "id": "5dc5fc2a-cfac-49d9-ae96-c8872fca6dfa",
+    "name": "Healthcare AI Training",
+    "prompt": "Does the text example propose implementing AI training specifically for healthcare practitioners or stakeholders?",
+    "example_ids": [
+      "PIAAC-8578",
+      "PIAAC-11492"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "5dc5fc2a-cfac-49d9-ae96-c8872fca6dfa"
+  },
+  {
+    "id": "3984bd64-6cd7-4030-9d7a-a2c32f168934",
+    "name": "Enhance Program Effectiveness",
+    "prompt": "Does the text example recommend measures to enhance the effectiveness of existing programs or policies?",
+    "example_ids": [
+      "PIAAC-8038",
+      "PIAAC-9151"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "3984bd64-6cd7-4030-9d7a-a2c32f168934"
+  },
+  {
+    "id": "30c9ceb7-0c58-470d-944d-ae0a408e2a71",
+    "name": "Educational Initiatives",
+    "prompt": "Does the text example advocate for the development or implementation of educational initiatives or programs?",
+    "example_ids": [
+      "PIAAC-4707",
+      "PIAAC-9231-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "30c9ceb7-0c58-470d-944d-ae0a408e2a71"
+  },
+  {
+    "id": "aca638eb-ac6d-405f-b0ed-150bcff79939",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example suggest providing resources in multiple languages to ensure wider access?",
+    "example_ids": [
+      "PIAAC-7250-2",
+      "PIAAC-1954"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "aca638eb-ac6d-405f-b0ed-150bcff79939"
+  },
+  {
+    "id": "9070987b-3013-4b8c-bcba-5ffd267975b8",
+    "name": "Data Privacy Guidelines",
+    "prompt": "Does the text example recommend establishing guidelines specifically for data privacy?",
+    "example_ids": [
+      "PIAAC-670",
+      "PIAAC-245"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "9070987b-3013-4b8c-bcba-5ffd267975b8"
+  },
+  {
+    "id": "3a44ac26-04aa-42f4-8373-8f13d97586b8",
+    "name": "Ethical AI Use",
+    "prompt": "Does the text example suggest establishing ethical guidelines for AI usage?",
+    "example_ids": [
+      "PIAAC-6689",
+      "PIAAC-5502"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "3a44ac26-04aa-42f4-8373-8f13d97586b8"
+  },
+  {
+    "id": "02cdec94-d40f-4c0b-a9e5-aaa2f3aafd31",
+    "name": "AI Oversight Frameworks",
+    "prompt": "Does the text example propose creating oversight frameworks or committees for AI systems?",
+    "example_ids": [
+      "PIAAC-4173",
+      "PIAAC-763"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "02cdec94-d40f-4c0b-a9e5-aaa2f3aafd31"
+  },
+  {
+    "id": "7267e24f-776a-4f50-88c2-d7219a4148b9",
+    "name": "Data Governance Frameworks",
+    "prompt": "Does the text example recommend implementing or enhancing data governance frameworks?",
+    "example_ids": [
+      "PIAAC-821",
+      "PIAAC-7433"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "7267e24f-776a-4f50-88c2-d7219a4148b9"
+  },
+  {
+    "id": "4ba88978-ad39-4a55-af28-11555513ab0c",
+    "name": "Transparency in AI",
+    "prompt": "Does the text example emphasize ensuring transparency in AI decision-making or applications?",
+    "example_ids": [
+      "PIAAC-9479",
+      "PIAAC-11268"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "4ba88978-ad39-4a55-af28-11555513ab0c"
+  },
+  {
+    "id": "000899ea-c4de-4d5d-8ce3-0c70488c57be",
+    "name": "Patient Data Protection",
+    "prompt": "Does the text example focus on establishing measures to protect patient data?",
+    "example_ids": [
+      "PIAAC-5499",
+      "PIAAC-9423"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "000899ea-c4de-4d5d-8ce3-0c70488c57be"
+  },
+  {
+    "id": "b31934fe-9302-4e86-ac42-362c58a8c09b",
+    "name": "Tailored Training",
+    "prompt": "Does the text recommend implementing tailored training programs for healthcare professionals?",
+    "example_ids": [
+      "PIAAC-10459",
+      "PIAAC-6267-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "b31934fe-9302-4e86-ac42-362c58a8c09b"
+  },
+  {
+    "id": "10a11f74-0e2b-434b-9fa6-57901ed793de",
+    "name": "Comprehensive Training",
+    "prompt": "Does the text suggest implementing comprehensive training for healthcare practitioners?",
+    "example_ids": [
+      "PIAAC-8721-2",
+      "PIAAC-2503"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "10a11f74-0e2b-434b-9fa6-57901ed793de"
+  },
+  {
+    "id": "972a7435-bb97-48f6-b827-b9ff3e8708d6",
+    "name": "Support Networks",
+    "prompt": "Does the text propose establishing support networks for healthcare professionals?",
+    "example_ids": [
+      "PIAAC-3820",
+      "PIAAC-6689-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "972a7435-bb97-48f6-b827-b9ff3e8708d6"
+  },
+  {
+    "id": "3d200ce3-d4c8-4a59-ad95-d27446cb3e09",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text recommend establishing mentorship programs for healthcare workers?",
+    "example_ids": [
+      "PIAAC-11284",
+      "PIAAC-3916-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "3d200ce3-d4c8-4a59-ad95-d27446cb3e09"
+  },
+  {
+    "id": "c5e6b561-5b23-42a7-a44e-edc5d0241cae",
+    "name": "Ongoing Support",
+    "prompt": "Does the text suggest providing ongoing support for healthcare professionals?",
+    "example_ids": [
+      "PIAAC-927",
+      "PIAAC-2286"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "c5e6b561-5b23-42a7-a44e-edc5d0241cae"
+  },
+  {
+    "id": "d534c5cd-5c09-402f-a91f-f2a43a67f790",
+    "name": "Education for Patients",
+    "prompt": "Does the text recommend integrating education for both healthcare practitioners and patients?",
+    "example_ids": [
+      "PIAAC-4809-2",
+      "PIAAC-1954"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "d534c5cd-5c09-402f-a91f-f2a43a67f790"
+  },
+  {
+    "id": "fd9d1718-4aac-434a-b9cf-b08dd512f79b",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example recommend implementing training programs to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-4808",
+      "PIAAC-3402"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "fd9d1718-4aac-434a-b9cf-b08dd512f79b"
+  },
+  {
+    "id": "bcd33c9d-0cd5-42f1-be44-0d6306ac24bf",
+    "name": "Community Engagement",
+    "prompt": "Does the text example suggest initiatives to engage the community in AI-related discussions or education?",
+    "example_ids": [
+      "PIAAC-7903",
+      "PIAAC-3208"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "bcd33c9d-0cd5-42f1-be44-0d6306ac24bf"
+  },
+  {
+    "id": "864d44f0-9e2b-4ab9-a8cc-61e9b00ff0b1",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example propose launching campaigns to raise public awareness about AI?",
+    "example_ids": [
+      "PIAAC-5756-2",
+      "PIAAC-1175"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "864d44f0-9e2b-4ab9-a8cc-61e9b00ff0b1"
+  },
+  {
+    "id": "34c2df34-edb5-46fb-b87f-6072b49a9014",
+    "name": "Partnerships and Collaboration",
+    "prompt": "Does the text example emphasize forming partnerships or collaborations for AI education or outreach?",
+    "example_ids": [
+      "PIAAC-2543",
+      "PIAAC-9231-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "34c2df34-edb5-46fb-b87f-6072b49a9014"
+  },
+  {
+    "id": "e92eaa5f-ab99-40a7-abde-61b6d715d855",
+    "name": "Workshops and Forums",
+    "prompt": "Does the text example recommend conducting workshops or forums to facilitate AI understanding?",
+    "example_ids": [
+      "PIAAC-4402",
+      "PIAAC-7266"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "e92eaa5f-ab99-40a7-abde-61b6d715d855"
+  },
+  {
+    "id": "26946b30-fcf1-4bec-96f7-84c86aaa98c4",
+    "name": "Support and Resources",
+    "prompt": "Does the text example suggest providing ongoing support or resources for AI integration or literacy?",
+    "example_ids": [
+      "PIAAC-10950",
+      "PIAAC-3600"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI mission focused on healthcar",
+    "field": "Suggestions",
+    "concept_id": "26946b30-fcf1-4bec-96f7-84c86aaa98c4"
+  }
+]

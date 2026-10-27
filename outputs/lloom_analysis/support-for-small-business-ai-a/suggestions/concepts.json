@@ -1,0 +1,182 @@
+[
+  {
+    "id": "17f37901-0b8c-414e-9f84-9ff79ea48ee4",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing or enhancing mentorship programs for businesses?",
+    "example_ids": [
+      "PIAAC-3325",
+      "PIAAC-10440"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "17f37901-0b8c-414e-9f84-9ff79ea48ee4"
+  },
+  {
+    "id": "8b24e2aa-9db8-44fb-b552-bc07220a6843",
+    "name": "Tailored Training",
+    "prompt": "Does the text example propose implementing tailored training programs for specific groups or sectors?",
+    "example_ids": [
+      "PIAAC-6056",
+      "PIAAC-8747"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "8b24e2aa-9db8-44fb-b552-bc07220a6843"
+  },
+  {
+    "id": "aab22ee7-7d4f-4b77-856b-70a586420fdb",
+    "name": "Workshops and Tutorials",
+    "prompt": "Does the text example recommend organizing workshops or tutorials for skill development?",
+    "example_ids": [
+      "PIAAC-7524-3",
+      "PIAAC-3997"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "aab22ee7-7d4f-4b77-856b-70a586420fdb"
+  },
+  {
+    "id": "bc2d434b-2507-4ae0-b03d-35fa70937a5e",
+    "name": "Support Networks",
+    "prompt": "Does the text example suggest creating or enhancing support networks for businesses?",
+    "example_ids": [
+      "PIAAC-731",
+      "PIAAC-2091"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "bc2d434b-2507-4ae0-b03d-35fa70937a5e"
+  },
+  {
+    "id": "696bc730-f70b-4966-9f29-ef2811d997fa",
+    "name": "Financial Support",
+    "prompt": "Does the text example include recommendations for providing financial support or resources?",
+    "example_ids": [
+      "PIAAC-6988",
+      "PIAAC-960"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "696bc730-f70b-4966-9f29-ef2811d997fa"
+  },
+  {
+    "id": "e1998db0-80a3-4a56-9f2b-c165c7022e30",
+    "name": "Partnerships",
+    "prompt": "Does the text example propose forming partnerships with other organizations or institutions?",
+    "example_ids": [
+      "PIAAC-3251-3",
+      "PIAAC-1799-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "e1998db0-80a3-4a56-9f2b-c165c7022e30"
+  },
+  {
+    "id": "53cbd60b-1752-45ac-8a9e-550c5f9fdccb",
+    "name": "AI Training Programs",
+    "prompt": "Does the text example suggest implementing or enhancing AI training programs for better policy outcomes?",
+    "example_ids": [
+      "PIAAC-4191",
+      "PIAAC-2969-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "53cbd60b-1752-45ac-8a9e-550c5f9fdccb"
+  },
+  {
+    "id": "7d30e209-e81b-4d1a-9416-e2145fd52f57",
+    "name": "Mentorship Initiatives",
+    "prompt": "Does the text example propose establishing mentorship programs to support AI adoption and policy improvement?",
+    "example_ids": [
+      "PIAAC-11516-4",
+      "PIAAC-5908"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "7d30e209-e81b-4d1a-9416-e2145fd52f57"
+  },
+  {
+    "id": "bdce7dae-7733-46da-b41c-429617796abc",
+    "name": "AI Literacy Enhancement",
+    "prompt": "Does the text example focus on improving AI literacy as a means to enhance policy effectiveness?",
+    "example_ids": [
+      "PIAAC-8747-2",
+      "PIAAC-5530"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "bdce7dae-7733-46da-b41c-429617796abc"
+  },
+  {
+    "id": "bccbf407-0384-44ec-b3e7-bf1b2d9e2482",
+    "name": "Ethical AI Frameworks",
+    "prompt": "Does the text example recommend creating ethical guidelines or frameworks for AI to improve policy?",
+    "example_ids": [
+      "PIAAC-1792",
+      "PIAAC-11035"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "bccbf407-0384-44ec-b3e7-bf1b2d9e2482"
+  },
+  {
+    "id": "10e1206d-f178-4f6c-8e2a-b8461703ed7f",
+    "name": "Practical AI Applications",
+    "prompt": "Does the text example emphasize the importance of practical AI applications for policy improvement?",
+    "example_ids": [
+      "PIAAC-10510",
+      "PIAAC-4809"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "10e1206d-f178-4f6c-8e2a-b8461703ed7f"
+  },
+  {
+    "id": "dde1c564-aff3-4736-811f-4f182e0bc874",
+    "name": "Policy Effectiveness Measures",
+    "prompt": "Does the text example suggest specific measures or recommendations to enhance policy effectiveness?",
+    "example_ids": [
+      "PIAAC-9941-2",
+      "PIAAC-4865"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Support for small-business AI a",
+    "field": "Suggestions",
+    "concept_id": "dde1c564-aff3-4736-811f-4f182e0bc874"
+  }
+]

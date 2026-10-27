@@ -1,0 +1,212 @@
+[
+  {
+    "id": "5b59ae29-a3a4-46ad-b0dd-55f9de9d1526",
+    "name": "AI Literacy Workshops",
+    "prompt": "Does the text example suggest organizing workshops to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-8377",
+      "PIAAC-7550"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "5b59ae29-a3a4-46ad-b0dd-55f9de9d1526"
+  },
+  {
+    "id": "22441170-c27e-470e-8121-d999e1be6163",
+    "name": "Enhance AI Understanding",
+    "prompt": "Does the text example propose initiatives to enhance understanding of AI?",
+    "example_ids": [
+      "PIAAC-8377",
+      "PIAAC-7340"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "22441170-c27e-470e-8121-d999e1be6163"
+  },
+  {
+    "id": "cf79906a-46c7-40bb-8e2f-9d96a8bc50dd",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest establishing feedback mechanisms for AI or other systems?",
+    "example_ids": [
+      "PIAAC-11243",
+      "PIAAC-4465"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "cf79906a-46c7-40bb-8e2f-9d96a8bc50dd"
+  },
+  {
+    "id": "acdea322-2227-442b-a200-7346e28e5fdc",
+    "name": "Community Engagement",
+    "prompt": "Does the text example propose initiatives to engage communities for input or support?",
+    "example_ids": [
+      "PIAAC-11173",
+      "PIAAC-2091"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "acdea322-2227-442b-a200-7346e28e5fdc"
+  },
+  {
+    "id": "bb3724aa-050a-4988-9617-184c9dbe0d81",
+    "name": "Training Programs",
+    "prompt": "Does the text example recommend implementing training programs for workforce or public services?",
+    "example_ids": [
+      "PIAAC-3396",
+      "PIAAC-7943"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "bb3724aa-050a-4988-9617-184c9dbe0d81"
+  },
+  {
+    "id": "f99865aa-70d8-4777-967b-e88e2db35d54",
+    "name": "Mentorship Initiatives",
+    "prompt": "Does the text example suggest establishing mentorship programs for skill development or support?",
+    "example_ids": [
+      "PIAAC-4617",
+      "PIAAC-7146-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "f99865aa-70d8-4777-967b-e88e2db35d54"
+  },
+  {
+    "id": "e446316b-7b33-4cf6-80e8-709d171f2573",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example advocate for providing multilingual resources or workshops?",
+    "example_ids": [
+      "PIAAC-8224",
+      "PIAAC-10560-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "e446316b-7b33-4cf6-80e8-709d171f2573"
+  },
+  {
+    "id": "dca8d17d-915a-49ba-97a5-84beb3da44db",
+    "name": "Policy Measures",
+    "prompt": "Does the text example recommend implementing targeted policy measures or enhancements?",
+    "example_ids": [
+      "PIAAC-4173",
+      "PIAAC-11312-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "dca8d17d-915a-49ba-97a5-84beb3da44db"
+  },
+  {
+    "id": "5dc7e5f8-606e-4879-8e74-cbc541a90cd9",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example recommend implementing AI literacy training programs for various groups?",
+    "example_ids": [
+      "PIAAC-454",
+      "PIAAC-904"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "5dc7e5f8-606e-4879-8e74-cbc541a90cd9"
+  },
+  {
+    "id": "05286435-743e-44c5-8e89-05fa2c5931c0",
+    "name": "Community Engagement",
+    "prompt": "Does the text example suggest involving the community in AI-related initiatives or decision-making?",
+    "example_ids": [
+      "PIAAC-2415-2",
+      "PIAAC-1613"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "05286435-743e-44c5-8e89-05fa2c5931c0"
+  },
+  {
+    "id": "d659cf33-dd12-469b-bc5e-0481396d70e6",
+    "name": "Ethical Guidelines",
+    "prompt": "Does the text example propose establishing ethical guidelines or oversight for AI systems?",
+    "example_ids": [
+      "PIAAC-1482",
+      "PIAAC-904"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "d659cf33-dd12-469b-bc5e-0481396d70e6"
+  },
+  {
+    "id": "6084f557-337a-4655-a8a1-9c7bdbabfc17",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example recommend launching public awareness or education campaigns about AI?",
+    "example_ids": [
+      "PIAAC-8200",
+      "PIAAC-7290"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "6084f557-337a-4655-a8a1-9c7bdbabfc17"
+  },
+  {
+    "id": "5b03fe3d-9499-40c7-aba2-74882db9a906",
+    "name": "Data Privacy and Security",
+    "prompt": "Does the text example emphasize the need for guidelines or protections related to data privacy and security in AI?",
+    "example_ids": [
+      "PIAAC-2187",
+      "PIAAC-2901"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "5b03fe3d-9499-40c7-aba2-74882db9a906"
+  },
+  {
+    "id": "e03de98d-a396-41ec-9b87-e03af681414c",
+    "name": "Diverse Voices in AI",
+    "prompt": "Does the text example highlight the importance of including diverse voices in AI development or decision-making?",
+    "example_ids": [
+      "PIAAC-7162",
+      "PIAAC-6697"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI adoption in federal public s",
+    "field": "Suggestions",
+    "concept_id": "e03de98d-a396-41ec-9b87-e03af681414c"
+  }
+]

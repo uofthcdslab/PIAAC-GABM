@@ -1,0 +1,362 @@
+[
+  {
+    "id": "150d5c2e-a785-4eca-8a82-6921632aed76",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example suggest implementing AI literacy training programs or workshops?",
+    "example_ids": [
+      "PIAAC-6485",
+      "PIAAC-1360-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "150d5c2e-a785-4eca-8a82-6921632aed76"
+  },
+  {
+    "id": "5dff482f-6d3b-4355-b395-1f0f46623a90",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example propose establishing mentorship programs for AI adoption or support?",
+    "example_ids": [
+      "PIAAC-9496",
+      "PIAAC-597-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "5dff482f-6d3b-4355-b395-1f0f46623a90"
+  },
+  {
+    "id": "0646659a-8f57-4a12-9096-d12fe934f35c",
+    "name": "Partnerships for AI",
+    "prompt": "Does the text example recommend fostering partnerships between AI firms and educational institutions or other organizations?",
+    "example_ids": [
+      "PIAAC-3877",
+      "PIAAC-693"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "0646659a-8f57-4a12-9096-d12fe934f35c"
+  },
+  {
+    "id": "e21816ec-7c85-4f05-8fa6-9ba63a5c543b",
+    "name": "Ethical Guidelines",
+    "prompt": "Does the text example involve establishing guidelines or standards for ethical AI use?",
+    "example_ids": [
+      "PIAAC-8114",
+      "PIAAC-6267-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "e21816ec-7c85-4f05-8fa6-9ba63a5c543b"
+  },
+  {
+    "id": "a94e8ade-6425-4027-b753-faa11f0b040c",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest creating feedback mechanisms for AI challenges or policy refinement?",
+    "example_ids": [
+      "PIAAC-3829-2",
+      "PIAAC-6016"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "a94e8ade-6425-4027-b753-faa11f0b040c"
+  },
+  {
+    "id": "96d0fcde-5159-4e00-a6c8-93ce6ab0f781",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example propose providing multilingual resources for AI inclusivity?",
+    "example_ids": [
+      "PIAAC-11376",
+      "PIAAC-672"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "96d0fcde-5159-4e00-a6c8-93ce6ab0f781"
+  },
+  {
+    "id": "c62c2663-4444-4acd-a3aa-5a143c5e10f7",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example recommend implementing AI literacy training programs?",
+    "example_ids": [
+      "PIAAC-5663",
+      "PIAAC-9198"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "c62c2663-4444-4acd-a3aa-5a143c5e10f7"
+  },
+  {
+    "id": "4da9c055-4981-4d2e-9189-ca0cc3549d07",
+    "name": "Community-Based Programs",
+    "prompt": "Does the text example suggest developing or implementing community-based AI education or training programs?",
+    "example_ids": [
+      "PIAAC-3251",
+      "PIAAC-11025"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "4da9c055-4981-4d2e-9189-ca0cc3549d07"
+  },
+  {
+    "id": "27babad0-f921-4ec1-a160-9da9b39297d4",
+    "name": "Targeted AI Initiatives",
+    "prompt": "Does the text example propose targeted AI training or education initiatives for specific groups or sectors?",
+    "example_ids": [
+      "PIAAC-441-2",
+      "PIAAC-7078-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "27babad0-f921-4ec1-a160-9da9b39297d4"
+  },
+  {
+    "id": "b6b823fa-a497-4938-ba4d-869eb2602fbf",
+    "name": "Comprehensive AI Programs",
+    "prompt": "Does the text example advocate for comprehensive AI training or education programs?",
+    "example_ids": [
+      "PIAAC-7254",
+      "PIAAC-11644"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "b6b823fa-a497-4938-ba4d-869eb2602fbf"
+  },
+  {
+    "id": "a2bc6bfe-46ae-4d01-a5d5-6b684fd73ccc",
+    "name": "AI Literacy for Businesses",
+    "prompt": "Does the text example focus on enhancing AI literacy specifically for businesses or employees?",
+    "example_ids": [
+      "PIAAC-10389",
+      "PIAAC-4085"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "a2bc6bfe-46ae-4d01-a5d5-6b684fd73ccc"
+  },
+  {
+    "id": "2efa21ce-0a3d-49a5-97ac-c9fa6891c187",
+    "name": "Promote AI Awareness",
+    "prompt": "Does the text example emphasize promoting AI awareness or literacy through campaigns or public education?",
+    "example_ids": [
+      "PIAAC-4971-3",
+      "PIAAC-3350-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "2efa21ce-0a3d-49a5-97ac-c9fa6891c187"
+  },
+  {
+    "id": "7226560b-160b-49ba-a7a6-58c01edec14e",
+    "name": "Targeted Training Programs",
+    "prompt": "Does the text example suggest implementing training programs that are specifically tailored to certain groups or sectors?",
+    "example_ids": [
+      "PIAAC-6387",
+      "PIAAC-5829"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "7226560b-160b-49ba-a7a6-58c01edec14e"
+  },
+  {
+    "id": "cde7c948-d925-45e3-a1e8-01d5dcc87684",
+    "name": "Funding Allocation",
+    "prompt": "Does the text example recommend allocating funds for specific educational or training initiatives?",
+    "example_ids": [
+      "PIAAC-6709",
+      "PIAAC-10467"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "cde7c948-d925-45e3-a1e8-01d5dcc87684"
+  },
+  {
+    "id": "649a8eb1-1001-4516-b3ad-0f2ed7e914c0",
+    "name": "Simplified Processes",
+    "prompt": "Does the text example propose simplifying processes related to funding or program access?",
+    "example_ids": [
+      "PIAAC-8974",
+      "PIAAC-8439"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "649a8eb1-1001-4516-b3ad-0f2ed7e914c0"
+  },
+  {
+    "id": "35b34775-871b-4a86-bb42-b902ff882067",
+    "name": "Community-Based Initiatives",
+    "prompt": "Does the text example emphasize the importance of community-focused educational or training programs?",
+    "example_ids": [
+      "PIAAC-5753",
+      "PIAAC-323"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "35b34775-871b-4a86-bb42-b902ff882067"
+  },
+  {
+    "id": "25fae6b9-06f6-4420-8da2-70b9f4b212dc",
+    "name": "Support for SMEs",
+    "prompt": "Does the text example focus on providing support or resources specifically for small and medium-sized enterprises (SMEs)?",
+    "example_ids": [
+      "PIAAC-1360",
+      "PIAAC-9182-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "25fae6b9-06f6-4420-8da2-70b9f4b212dc"
+  },
+  {
+    "id": "a5447876-92a6-4655-88e2-2ab01c28d36f",
+    "name": "Comprehensive Training",
+    "prompt": "Does the text example advocate for the implementation of comprehensive training programs?",
+    "example_ids": [
+      "PIAAC-5113",
+      "PIAAC-401"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "a5447876-92a6-4655-88e2-2ab01c28d36f"
+  },
+  {
+    "id": "40b843ad-aa2d-4eed-ba6a-aa950cd97999",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest creating or establishing mentorship programs in the AI field?",
+    "example_ids": [
+      "PIAAC-7642-3",
+      "PIAAC-9063"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "40b843ad-aa2d-4eed-ba6a-aa950cd97999"
+  },
+  {
+    "id": "536fbce6-fde3-45ee-a2b0-b7e4e0414c65",
+    "name": "AI and Startups",
+    "prompt": "Does the text example focus on establishing mentorship or connections between AI firms and startups?",
+    "example_ids": [
+      "PIAAC-660",
+      "PIAAC-2657"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "536fbce6-fde3-45ee-a2b0-b7e4e0414c65"
+  },
+  {
+    "id": "04ec5399-c21c-4959-87bc-05b9748f9e76",
+    "name": "Partnerships for Training",
+    "prompt": "Does the text example propose establishing partnerships for training or workshops?",
+    "example_ids": [
+      "PIAAC-4614",
+      "PIAAC-6244"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "04ec5399-c21c-4959-87bc-05b9748f9e76"
+  },
+  {
+    "id": "fee98c5f-2bb6-4e04-a975-e8a34eae3f10",
+    "name": "Knowledge Sharing",
+    "prompt": "Does the text example emphasize creating mentorship or partnerships for knowledge sharing?",
+    "example_ids": [
+      "PIAAC-476",
+      "PIAAC-11656"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "fee98c5f-2bb6-4e04-a975-e8a34eae3f10"
+  },
+  {
+    "id": "a28466f5-6263-4437-9167-400f2f5d6c0c",
+    "name": "AI Adoption Support",
+    "prompt": "Does the text example suggest mentorship or advisory support for AI adoption?",
+    "example_ids": [
+      "PIAAC-5663",
+      "PIAAC-10138-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "a28466f5-6263-4437-9167-400f2f5d6c0c"
+  },
+  {
+    "id": "1f48bb10-aa16-45f1-959e-93bf55a2f9bd",
+    "name": "Community Engagement",
+    "prompt": "Does the text example involve engaging local or community organizations for training or resources?",
+    "example_ids": [
+      "PIAAC-4726-2",
+      "PIAAC-1625"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Financing and commercialization",
+    "field": "Suggestions",
+    "concept_id": "1f48bb10-aa16-45f1-959e-93bf55a2f9bd"
+  }
+]

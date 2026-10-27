@@ -1,0 +1,362 @@
+[
+  {
+    "id": "2153bd3e-e2d6-4f56-8dd0-fff1f7bfb307",
+    "name": "Moderate Effectiveness",
+    "prompt": "Does the text example indicate a moderate effectiveness in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-6138",
+      "PIAAC-3402"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "2153bd3e-e2d6-4f56-8dd0-fff1f7bfb307"
+  },
+  {
+    "id": "8a285e07-b88c-4329-930d-424991ab943d",
+    "name": "Collaboration with Germany",
+    "prompt": "Does the text example mention collaboration with Germany as a factor in improving AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-3402",
+      "PIAAC-4945"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "8a285e07-b88c-4329-930d-424991ab943d"
+  },
+  {
+    "id": "fff65cdb-211c-4741-9fc8-976086fdecdf",
+    "name": "Potential in Canada",
+    "prompt": "Does the text example suggest a potential to enhance AI literacy in Canada?",
+    "example_ids": [
+      "PIAAC-9042",
+      "PIAAC-8186"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "fff65cdb-211c-4741-9fc8-976086fdecdf"
+  },
+  {
+    "id": "488374ac-53c6-4166-8293-90932c6858a7",
+    "name": "Need for Frameworks",
+    "prompt": "Does the text example highlight a need for robust regulatory or security frameworks?",
+    "example_ids": [
+      "PIAAC-10367",
+      "PIAAC-10641-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "488374ac-53c6-4166-8293-90932c6858a7"
+  },
+  {
+    "id": "5f639d59-3084-40a4-b5cf-c605503123ab",
+    "name": "Concerns about Barriers",
+    "prompt": "Does the text example express concerns about barriers to AI adoption?",
+    "example_ids": [
+      "PIAAC-5599-4",
+      "PIAAC-10100"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "5f639d59-3084-40a4-b5cf-c605503123ab"
+  },
+  {
+    "id": "d7e6a36e-284e-44d8-a8e9-50555d1bdc34",
+    "name": "Sovereign Technology Alliance",
+    "prompt": "Does the text example mention the Sovereign Technology Alliance as a factor in AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-855-2",
+      "PIAAC-1935-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "d7e6a36e-284e-44d8-a8e9-50555d1bdc34"
+  },
+  {
+    "id": "0d01c120-b41b-4949-9a15-d360a2bed460",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text mention any barriers or challenges that hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-11572",
+      "PIAAC-11503"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "0d01c120-b41b-4949-9a15-d360a2bed460"
+  },
+  {
+    "id": "581b1c16-aaf2-443b-99c5-42f3291839f2",
+    "name": "Need for Training",
+    "prompt": "Does the text highlight a need for training or educational resources to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-11525",
+      "PIAAC-7102-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "581b1c16-aaf2-443b-99c5-42f3291839f2"
+  },
+  {
+    "id": "49239236-c74a-4f80-a744-e355bdc57c61",
+    "name": "Complexity Concerns",
+    "prompt": "Does the text express concerns about the complexity of AI systems affecting understanding or adoption?",
+    "example_ids": [
+      "PIAAC-2080",
+      "PIAAC-2695"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "49239236-c74a-4f80-a744-e355bdc57c61"
+  },
+  {
+    "id": "d46d2645-a3d4-43e2-9a3e-1c541a490f04",
+    "name": "Resource Limitations",
+    "prompt": "Does the text mention limitations in resources that affect AI adoption, especially for smaller entities?",
+    "example_ids": [
+      "PIAAC-2503-2",
+      "PIAAC-4504"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "d46d2645-a3d4-43e2-9a3e-1c541a490f04"
+  },
+  {
+    "id": "9afbb5a5-1571-4c4e-bf67-722ae0dc3870",
+    "name": "Privacy and Ethics",
+    "prompt": "Does the text raise concerns about privacy, ethics, or data security in relation to AI adoption?",
+    "example_ids": [
+      "PIAAC-524",
+      "PIAAC-10367"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "9afbb5a5-1571-4c4e-bf67-722ae0dc3870"
+  },
+  {
+    "id": "02c73645-8998-43b1-adf0-a5df0fdc92ce",
+    "name": "Digital Divide",
+    "prompt": "Does the text discuss the risk of widening the digital divide due to unequal access to AI technologies?",
+    "example_ids": [
+      "PIAAC-4532",
+      "PIAAC-4005"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "02c73645-8998-43b1-adf0-a5df0fdc92ce"
+  },
+  {
+    "id": "66408a36-f924-468c-84e4-5831dbab6f2e",
+    "name": "Collaboration Benefits",
+    "prompt": "Does the text suggest that collaboration enhances AI literacy and adoption through shared resources or knowledge?",
+    "example_ids": [
+      "PIAAC-6228",
+      "PIAAC-3987"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "66408a36-f924-468c-84e4-5831dbab6f2e"
+  },
+  {
+    "id": "585aef26-89c6-4b72-803e-3a10cc476647",
+    "name": "Diverse Technology Options",
+    "prompt": "Does the text indicate that having diverse technology options will improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5883",
+      "PIAAC-9203"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "585aef26-89c6-4b72-803e-3a10cc476647"
+  },
+  {
+    "id": "fd546184-4a98-400a-85b0-85f99f3af652",
+    "name": "Reduced Ecosystem Dependence",
+    "prompt": "Does the text argue that reducing dependence on dominant technology ecosystems will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2720",
+      "PIAAC-763"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "fd546184-4a98-400a-85b0-85f99f3af652"
+  },
+  {
+    "id": "0db9c087-9491-4455-8cc9-556c87754d64",
+    "name": "Access to Better Tools",
+    "prompt": "Does the text mention that access to better tools and resources will improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11268-5",
+      "PIAAC-7809"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "0db9c087-9491-4455-8cc9-556c87754d64"
+  },
+  {
+    "id": "c2d4d9f8-7162-4b6d-9e54-ec9b41ac193c",
+    "name": "Innovation and Solutions",
+    "prompt": "Does the text suggest that fostering innovation and providing solutions will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6142",
+      "PIAAC-1453"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "c2d4d9f8-7162-4b6d-9e54-ec9b41ac193c"
+  },
+  {
+    "id": "96163678-45c9-4805-a1a2-9be748ae4f77",
+    "name": "Challenges of Increased Choice",
+    "prompt": "Does the text highlight challenges or complications that increased technological choice might pose to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7250-2",
+      "PIAAC-1860"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "96163678-45c9-4805-a1a2-9be748ae4f77"
+  },
+  {
+    "id": "dba6f7b7-3759-458e-b4b9-7c465f027a85",
+    "name": "Collaboration Benefits",
+    "prompt": "Does the text example suggest that collaboration enhances AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2696",
+      "PIAAC-5302"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "dba6f7b7-3759-458e-b4b9-7c465f027a85"
+  },
+  {
+    "id": "01fa3878-584e-495a-985d-052b563b3db4",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text example indicate that the policy is effective or ineffective in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-4558",
+      "PIAAC-10216-4"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "01fa3878-584e-495a-985d-052b563b3db4"
+  },
+  {
+    "id": "241826a8-e62c-46de-bd60-c97275e077b6",
+    "name": "Resource Availability",
+    "prompt": "Does the text example mention the availability or lack of resources as a factor in AI literacy improvement?",
+    "example_ids": [
+      "PIAAC-9969-2",
+      "PIAAC-11295"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "241826a8-e62c-46de-bd60-c97275e077b6"
+  },
+  {
+    "id": "64d8ddcc-ad43-4a7d-9c4b-1bcb5b45a834",
+    "name": "International Alliances",
+    "prompt": "Does the text example highlight international alliances as a means to enhance AI literacy?",
+    "example_ids": [
+      "PIAAC-5595",
+      "PIAAC-1265"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "64d8ddcc-ad43-4a7d-9c4b-1bcb5b45a834"
+  },
+  {
+    "id": "3b895f59-4d75-4591-a7f9-f359cfa7d020",
+    "name": "Safety and Trust",
+    "prompt": "Does the text example emphasize safety and trust as important for AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11572-2",
+      "PIAAC-4671"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "3b895f59-4d75-4591-a7f9-f359cfa7d020"
+  },
+  {
+    "id": "ca0adbb3-fd32-449c-b24b-96ca4ee2b91b",
+    "name": "Infrastructure and Access",
+    "prompt": "Does the text example discuss infrastructure or access as key to improving AI literacy?",
+    "example_ids": [
+      "PIAAC-8651",
+      "PIAAC-7510"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "International cooperation on so",
+    "field": "Rationale",
+    "concept_id": "ca0adbb3-fd32-449c-b24b-96ca4ee2b91b"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "5ed949ef-bf09-49a4-afe7-666e856c41d6",
+    "name": "Privacy as Trust",
+    "prompt": "Does the text suggest that recognizing privacy as a fundamental right enhances trust in technology or data management?",
+    "example_ids": [
+      "PIAAC-9498",
+      "PIAAC-11518"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "5ed949ef-bf09-49a4-afe7-666e856c41d6"
+  },
+  {
+    "id": "419d82f3-76aa-43a3-98bd-c3c37eb66faf",
+    "name": "Regulation Hinders Innovation",
+    "prompt": "Does the text indicate that stringent regulations or compliance burdens may hinder AI innovation or adoption?",
+    "example_ids": [
+      "PIAAC-6453",
+      "PIAAC-7943"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "419d82f3-76aa-43a3-98bd-c3c37eb66faf"
+  },
+  {
+    "id": "66dd7d75-6cca-4ff6-87fd-2fbfdf81ee9a",
+    "name": "Need for Clear Guidance",
+    "prompt": "Does the text highlight a lack of clear guidelines or guidance as a barrier to AI adoption or understanding?",
+    "example_ids": [
+      "PIAAC-10367",
+      "PIAAC-8967"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "66dd7d75-6cca-4ff6-87fd-2fbfdf81ee9a"
+  },
+  {
+    "id": "9faa4837-0bd0-470c-b5c6-c6eab864d49b",
+    "name": "Empowerment through Control",
+    "prompt": "Does the text suggest that empowering individuals with control over personal information can improve AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-7546",
+      "PIAAC-11246"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "9faa4837-0bd0-470c-b5c6-c6eab864d49b"
+  },
+  {
+    "id": "a67f25f7-e91f-4895-925e-e75ad4121511",
+    "name": "Barriers to AI Adoption",
+    "prompt": "Does the text express concerns about barriers to AI adoption, particularly for certain demographics or due to policy limitations?",
+    "example_ids": [
+      "PIAAC-11321",
+      "PIAAC-6529"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "a67f25f7-e91f-4895-925e-e75ad4121511"
+  },
+  {
+    "id": "53dbd5b3-93e3-45cf-ab0c-d37921cd01f8",
+    "name": "Moderate AI Literacy Improvement",
+    "prompt": "Does the text suggest that the policy may only moderately improve AI literacy or understanding?",
+    "example_ids": [
+      "PIAAC-6006",
+      "PIAAC-5638"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "53dbd5b3-93e3-45cf-ab0c-d37921cd01f8"
+  },
+  {
+    "id": "2009ce7e-a8f5-4ef9-94bf-146b38d754c2",
+    "name": "Lack of Education",
+    "prompt": "Does the text example mention a lack of education or educational initiatives as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5602",
+      "PIAAC-9344"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "2009ce7e-a8f5-4ef9-94bf-146b38d754c2"
+  },
+  {
+    "id": "b7f347a2-8601-4872-abf1-2def37ca7ead",
+    "name": "Complexity Barriers",
+    "prompt": "Does the text example highlight complexity as a barrier to understanding or adopting AI technologies?",
+    "example_ids": [
+      "PIAAC-10429",
+      "PIAAC-10565"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "b7f347a2-8601-4872-abf1-2def37ca7ead"
+  },
+  {
+    "id": "544f2986-ffbe-4cf4-8e8b-50a85913b58e",
+    "name": "Digital Skills Gap",
+    "prompt": "Does the text example indicate that a gap in digital skills is hindering AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-375",
+      "PIAAC-6609"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "544f2986-ffbe-4cf4-8e8b-50a85913b58e"
+  },
+  {
+    "id": "6887d00c-9958-4c21-8393-6ebd26d2e086",
+    "name": "Lack of Guidance",
+    "prompt": "Does the text example suggest that a lack of guidance or clear guidelines is a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4948",
+      "PIAAC-4191-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "6887d00c-9958-4c21-8393-6ebd26d2e086"
+  },
+  {
+    "id": "cb00a5a0-379e-4959-8782-3fe77f11db85",
+    "name": "Policy Enforcement Issues",
+    "prompt": "Does the text example mention issues with policy enforcement as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5054",
+      "PIAAC-5161"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "cb00a5a0-379e-4959-8782-3fe77f11db85"
+  },
+  {
+    "id": "3e9421d2-0f7c-4b69-9a4a-32fc3c830603",
+    "name": "Resource Limitations",
+    "prompt": "Does the text example point out a lack of resources as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10331-4",
+      "PIAAC-2128-6"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "3e9421d2-0f7c-4b69-9a4a-32fc3c830603"
+  },
+  {
+    "id": "a471eec7-21e2-4f4d-a6a1-7b1f3a965fda",
+    "name": "Trust Enhancement",
+    "prompt": "Does the text suggest that privacy reforms or protections enhance trust in AI technologies?",
+    "example_ids": [
+      "PIAAC-3173",
+      "PIAAC-9012-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "a471eec7-21e2-4f4d-a6a1-7b1f3a965fda"
+  },
+  {
+    "id": "70ef136d-6eab-4300-8181-8649636893e1",
+    "name": "Adoption Hindrance",
+    "prompt": "Does the text indicate that privacy concerns or protections hinder AI adoption?",
+    "example_ids": [
+      "PIAAC-8002",
+      "PIAAC-3255"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "70ef136d-6eab-4300-8181-8649636893e1"
+  },
+  {
+    "id": "64e89e01-b7ba-4704-b307-de31bf2fc366",
+    "name": "Privacy Complexity",
+    "prompt": "Does the text mention that privacy recognition or laws complicate AI understanding or adoption?",
+    "example_ids": [
+      "PIAAC-7450",
+      "PIAAC-1787"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "64e89e01-b7ba-4704-b307-de31bf2fc366"
+  },
+  {
+    "id": "48cef926-27d6-4cbb-a735-8b123398c01d",
+    "name": "Empowerment Through Awareness",
+    "prompt": "Does the text suggest that understanding privacy rights or AI risks empowers individuals to engage with AI?",
+    "example_ids": [
+      "PIAAC-2632",
+      "PIAAC-5858-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "48cef926-27d6-4cbb-a735-8b123398c01d"
+  },
+  {
+    "id": "529e3737-de3e-43b8-80d2-028594d4e4f4",
+    "name": "Control and Trust",
+    "prompt": "Does the text imply that stronger control over data or privacy builds trust in AI?",
+    "example_ids": [
+      "PIAAC-4280-3",
+      "PIAAC-7431-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "529e3737-de3e-43b8-80d2-028594d4e4f4"
+  },
+  {
+    "id": "61ca2428-3ec4-4d3d-9370-86bb08fdf51d",
+    "name": "Fear of Misuse",
+    "prompt": "Does the text highlight that fear of data misuse deters AI engagement or adoption?",
+    "example_ids": [
+      "PIAAC-9473",
+      "PIAAC-408"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "61ca2428-3ec4-4d3d-9370-86bb08fdf51d"
+  },
+  {
+    "id": "1837c7a7-7432-462e-834c-13c7d01c8eac",
+    "name": "Enhanced Data Control",
+    "prompt": "Does the text suggest that increased control over personal data will improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3173",
+      "PIAAC-10142-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "1837c7a7-7432-462e-834c-13c7d01c8eac"
+  },
+  {
+    "id": "ea4261a6-04ff-4643-acf0-f55a2766283d",
+    "name": "Consumer Privacy Rights",
+    "prompt": "Does the text indicate that strengthening consumer privacy rights will lead to better AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2858",
+      "PIAAC-5185"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "ea4261a6-04ff-4643-acf0-f55a2766283d"
+  },
+  {
+    "id": "5d7f87d3-2475-4ba6-bdba-68ce405d88db",
+    "name": "Trust in Digital Platforms",
+    "prompt": "Does the text imply that building trust in digital platforms will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7546",
+      "PIAAC-4397-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "5d7f87d3-2475-4ba6-bdba-68ce405d88db"
+  },
+  {
+    "id": "8a12ef51-7586-456d-92b0-ad0daaf91395",
+    "name": "Privacy Recognition",
+    "prompt": "Does the text mention that recognizing privacy as a right will support AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2437",
+      "PIAAC-6784"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "8a12ef51-7586-456d-92b0-ad0daaf91395"
+  },
+  {
+    "id": "2723e681-7226-4884-9c35-cfec81402878",
+    "name": "Data Security Perception",
+    "prompt": "Does the text suggest that improving the perception of data security will foster AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4726-2",
+      "PIAAC-8967"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "2723e681-7226-4884-9c35-cfec81402878"
+  },
+  {
+    "id": "5d547808-97f2-4924-b70d-79c899db4314",
+    "name": "User Empowerment",
+    "prompt": "Does the text state that empowering users through privacy control will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3751",
+      "PIAAC-1453"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Consumer privacy reform",
+    "field": "Rationale",
+    "concept_id": "5d547808-97f2-4924-b70d-79c899db4314"
+  }
+]

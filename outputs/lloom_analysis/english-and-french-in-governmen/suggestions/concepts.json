@@ -1,0 +1,362 @@
+[
+  {
+    "id": "76a7474e-8df9-4c80-a5bf-4b70c58ad0ae",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example suggest implementing AI literacy programs for communities?",
+    "example_ids": [
+      "PIAAC-10013",
+      "PIAAC-2366"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "76a7474e-8df9-4c80-a5bf-4b70c58ad0ae"
+  },
+  {
+    "id": "954b4b4b-4a6b-4705-9b79-1e47638e9041",
+    "name": "Francophone Community Support",
+    "prompt": "Does the text example recommend providing training or resources specifically for Francophone communities?",
+    "example_ids": [
+      "PIAAC-5908",
+      "PIAAC-5059"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "954b4b4b-4a6b-4705-9b79-1e47638e9041"
+  },
+  {
+    "id": "dd91d727-dcd3-4e21-b1ac-adaba28a628a",
+    "name": "Digital Literacy Training",
+    "prompt": "Does the text example propose implementing digital literacy training programs?",
+    "example_ids": [
+      "PIAAC-148-3",
+      "PIAAC-3083"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "dd91d727-dcd3-4e21-b1ac-adaba28a628a"
+  },
+  {
+    "id": "e7234f9b-f507-47c3-bc5f-f387ddacc5c6",
+    "name": "Bilingual Resources",
+    "prompt": "Does the text example suggest creating bilingual resources or programs?",
+    "example_ids": [
+      "PIAAC-5595",
+      "PIAAC-9834"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "e7234f9b-f507-47c3-bc5f-f387ddacc5c6"
+  },
+  {
+    "id": "21140f54-44ce-4a84-a608-6428cee7e19a",
+    "name": "Local Partnerships",
+    "prompt": "Does the text example emphasize establishing partnerships with local organizations?",
+    "example_ids": [
+      "PIAAC-9189",
+      "PIAAC-8008"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "21140f54-44ce-4a84-a608-6428cee7e19a"
+  },
+  {
+    "id": "068ae230-0c88-460c-b642-af638eaf3857",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example recommend establishing mentorship programs for skill development?",
+    "example_ids": [
+      "PIAAC-2309",
+      "PIAAC-7453"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "068ae230-0c88-460c-b642-af638eaf3857"
+  },
+  {
+    "id": "3812b5ec-f5b8-442d-9abd-c3713b4026a8",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest establishing or improving feedback mechanisms for policies or systems?",
+    "example_ids": [
+      "PIAAC-6895",
+      "PIAAC-4100-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "3812b5ec-f5b8-442d-9abd-c3713b4026a8"
+  },
+  {
+    "id": "6c9e420d-410e-45e3-8cd2-143d79100de7",
+    "name": "AI Guidelines",
+    "prompt": "Does the text example propose creating or enhancing guidelines related to AI usage or development?",
+    "example_ids": [
+      "PIAAC-1265-3",
+      "PIAAC-4082"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "6c9e420d-410e-45e3-8cd2-143d79100de7"
+  },
+  {
+    "id": "de198686-c4dd-4f75-a1f5-34c44e191a46",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text example focus on improving the effectiveness of policies through specific measures?",
+    "example_ids": [
+      "PIAAC-6477",
+      "PIAAC-379-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "de198686-c4dd-4f75-a1f5-34c44e191a46"
+  },
+  {
+    "id": "12c8347d-9711-4bc3-8c4a-40a55416e50d",
+    "name": "Data Privacy",
+    "prompt": "Does the text example address implementing or strengthening data privacy measures?",
+    "example_ids": [
+      "PIAAC-11516-2",
+      "PIAAC-454-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "12c8347d-9711-4bc3-8c4a-40a55416e50d"
+  },
+  {
+    "id": "6cb732b5-11b0-431a-a503-325728cf66ee",
+    "name": "AI Oversight",
+    "prompt": "Does the text example recommend establishing oversight or accountability for AI systems?",
+    "example_ids": [
+      "PIAAC-11093",
+      "PIAAC-4433"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "6cb732b5-11b0-431a-a503-325728cf66ee"
+  },
+  {
+    "id": "50ed980d-e517-4373-baa1-92d6782e26a1",
+    "name": "Community Input",
+    "prompt": "Does the text example emphasize incorporating community or stakeholder input into policy development?",
+    "example_ids": [
+      "PIAAC-5885",
+      "PIAAC-1154"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "50ed980d-e517-4373-baa1-92d6782e26a1"
+  },
+  {
+    "id": "bfaa5f0f-91a0-4662-89d2-0aac24d1cb10",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text recommend implementing AI literacy training programs?",
+    "example_ids": [
+      "PIAAC-9571",
+      "PIAAC-11361"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "bfaa5f0f-91a0-4662-89d2-0aac24d1cb10"
+  },
+  {
+    "id": "5cbc443d-e2ea-43f7-aa62-6be584b7448d",
+    "name": "Community-Based Training",
+    "prompt": "Does the text suggest investing in or implementing community-based AI training programs?",
+    "example_ids": [
+      "PIAAC-9525",
+      "PIAAC-6988"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "5cbc443d-e2ea-43f7-aa62-6be584b7448d"
+  },
+  {
+    "id": "304e9282-5769-4e88-bd28-518280109ee8",
+    "name": "Targeted AI Education",
+    "prompt": "Does the text propose implementing targeted AI education or training programs?",
+    "example_ids": [
+      "PIAAC-10494",
+      "PIAAC-6806"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "304e9282-5769-4e88-bd28-518280109ee8"
+  },
+  {
+    "id": "2906f18f-ff61-41f4-a8be-86e9167ae611",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text recommend launching public awareness campaigns on AI?",
+    "example_ids": [
+      "PIAAC-7450",
+      "PIAAC-1050"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "2906f18f-ff61-41f4-a8be-86e9167ae611"
+  },
+  {
+    "id": "d4cbf78e-041e-42ef-bfd9-a6f1eec3e916",
+    "name": "Partnerships for AI Training",
+    "prompt": "Does the text suggest establishing partnerships to enhance AI training or education?",
+    "example_ids": [
+      "PIAAC-10013",
+      "PIAAC-5337"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "d4cbf78e-041e-42ef-bfd9-a6f1eec3e916"
+  },
+  {
+    "id": "dfc64fbd-f944-45c1-b435-1b120942ac8c",
+    "name": "Funding for AI Literacy",
+    "prompt": "Does the text recommend increasing funding for AI literacy programs?",
+    "example_ids": [
+      "PIAAC-3251-2",
+      "PIAAC-7453"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "dfc64fbd-f944-45c1-b435-1b120942ac8c"
+  },
+  {
+    "id": "99f2d7d1-7025-4224-99e6-67812fbcecc5",
+    "name": "Bilingual Resources",
+    "prompt": "Does the text example suggest creating or providing bilingual resources or workshops?",
+    "example_ids": [
+      "PIAAC-1562-2",
+      "PIAAC-7275"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "99f2d7d1-7025-4224-99e6-67812fbcecc5"
+  },
+  {
+    "id": "0c462918-c138-4ccc-8337-ca364d540257",
+    "name": "Community Support",
+    "prompt": "Does the text example recommend establishing or enhancing community support networks for AI adoption?",
+    "example_ids": [
+      "PIAAC-10494",
+      "PIAAC-11491"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "0c462918-c138-4ccc-8337-ca364d540257"
+  },
+  {
+    "id": "65594a4f-ff86-4c2c-8869-ae5079fc2ff7",
+    "name": "Tailored Training",
+    "prompt": "Does the text example propose implementing tailored training programs for specific groups or communities?",
+    "example_ids": [
+      "PIAAC-9586-3",
+      "PIAAC-10560-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "65594a4f-ff86-4c2c-8869-ae5079fc2ff7"
+  },
+  {
+    "id": "2995cfd0-75d7-4a11-bc60-90d48a2e2042",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example advocate for establishing mentorship programs to support AI learning or adoption?",
+    "example_ids": [
+      "PIAAC-11321",
+      "PIAAC-9707"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "2995cfd0-75d7-4a11-bc60-90d48a2e2042"
+  },
+  {
+    "id": "b388e231-9b1f-45c3-8b1e-c8c2c75424e5",
+    "name": "Small Business Support",
+    "prompt": "Does the text example suggest providing support or resources specifically for small businesses in AI adoption?",
+    "example_ids": [
+      "PIAAC-5503-2",
+      "PIAAC-6924"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "b388e231-9b1f-45c3-8b1e-c8c2c75424e5"
+  },
+  {
+    "id": "2d40be36-f32f-492b-9202-814f08dea535",
+    "name": "Accessible Online Resources",
+    "prompt": "Does the text example recommend creating accessible online resources or platforms for learning?",
+    "example_ids": [
+      "PIAAC-90",
+      "PIAAC-7066"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "English and French in governmen",
+    "field": "Suggestions",
+    "concept_id": "2d40be36-f32f-492b-9202-814f08dea535"
+  }
+]

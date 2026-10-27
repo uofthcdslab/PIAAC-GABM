@@ -1,0 +1,272 @@
+[
+  {
+    "id": "a49a38ec-0df8-45b1-989a-ea7a16bd4ce4",
+    "name": "Digital Literacy Programs",
+    "prompt": "Does the text example propose establishing or enhancing digital literacy programs?",
+    "example_ids": [
+      "PIAAC-559",
+      "PIAAC-10236"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "a49a38ec-0df8-45b1-989a-ea7a16bd4ce4"
+  },
+  {
+    "id": "f61e9a84-1451-4b2f-be0b-df30f5cbe4d2",
+    "name": "Mentorship Initiatives",
+    "prompt": "Does the text example suggest creating or supporting mentorship programs?",
+    "example_ids": [
+      "PIAAC-2457",
+      "PIAAC-4521"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "f61e9a84-1451-4b2f-be0b-df30f5cbe4d2"
+  },
+  {
+    "id": "d0929579-f516-474f-90fa-ab20f9c31a72",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing resources in multiple languages?",
+    "example_ids": [
+      "PIAAC-9987",
+      "PIAAC-408"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "d0929579-f516-474f-90fa-ab20f9c31a72"
+  },
+  {
+    "id": "7ae6909f-67d7-4635-95ed-9e5e652c9f72",
+    "name": "Community Partnerships",
+    "prompt": "Does the text example involve forming partnerships with community organizations?",
+    "example_ids": [
+      "PIAAC-9902",
+      "PIAAC-2366"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "7ae6909f-67d7-4635-95ed-9e5e652c9f72"
+  },
+  {
+    "id": "df0ab932-04cf-4890-9d82-4e7bb473dbbc",
+    "name": "AI Accessibility Guidelines",
+    "prompt": "Does the text example focus on establishing guidelines for AI accessibility?",
+    "example_ids": [
+      "PIAAC-1213",
+      "PIAAC-4043"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "df0ab932-04cf-4890-9d82-4e7bb473dbbc"
+  },
+  {
+    "id": "748ff6b6-df01-41ed-baf3-afc1bfd40634",
+    "name": "Regular Accessibility Audits",
+    "prompt": "Does the text example propose conducting regular audits or reviews for accessibility?",
+    "example_ids": [
+      "PIAAC-7829",
+      "PIAAC-476"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "748ff6b6-df01-41ed-baf3-afc1bfd40634"
+  },
+  {
+    "id": "08f2a6f7-d0f9-466b-a690-912af2ebaf81",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example propose implementing or enhancing AI literacy programs for various communities or groups?",
+    "example_ids": [
+      "PIAAC-103",
+      "PIAAC-9473-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "08f2a6f7-d0f9-466b-a690-912af2ebaf81"
+  },
+  {
+    "id": "738e3dfd-efc6-43b0-9d7b-a92f2394171a",
+    "name": "Community-Based AI Training",
+    "prompt": "Does the text example suggest establishing or conducting AI training programs specifically within community settings?",
+    "example_ids": [
+      "PIAAC-4005",
+      "PIAAC-2755"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "738e3dfd-efc6-43b0-9d7b-a92f2394171a"
+  },
+  {
+    "id": "6ad4afe1-eb4a-4f0b-826a-547150f2c3d2",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example recommend launching campaigns to raise public awareness about AI and its benefits or risks?",
+    "example_ids": [
+      "PIAAC-6227",
+      "PIAAC-5756-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "6ad4afe1-eb4a-4f0b-826a-547150f2c3d2"
+  },
+  {
+    "id": "1c023d14-ee63-4044-a4be-3b9d1ee2111f",
+    "name": "Targeted AI Training",
+    "prompt": "Does the text example focus on implementing AI training programs that are targeted towards specific groups or skills?",
+    "example_ids": [
+      "PIAAC-2950-2",
+      "PIAAC-4417"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "1c023d14-ee63-4044-a4be-3b9d1ee2111f"
+  },
+  {
+    "id": "7cfacfc3-6033-4b98-a90e-311f39cd4ea9",
+    "name": "Accessible AI Resources",
+    "prompt": "Does the text example emphasize creating or providing accessible resources or tools for understanding or interacting with AI?",
+    "example_ids": [
+      "PIAAC-3358",
+      "PIAAC-9316"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "7cfacfc3-6033-4b98-a90e-311f39cd4ea9"
+  },
+  {
+    "id": "12ee949f-7b6a-45be-bccf-8c56ee8547ac",
+    "name": "Community Engagement in AI",
+    "prompt": "Does the text example involve engaging communities in AI-related standards, development, or decision-making processes?",
+    "example_ids": [
+      "PIAAC-8632",
+      "PIAAC-10418-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "12ee949f-7b6a-45be-bccf-8c56ee8547ac"
+  },
+  {
+    "id": "87093adc-bd3f-4783-9730-f6b490dc982e",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest establishing or implementing feedback mechanisms for policy evaluation or improvement?",
+    "example_ids": [
+      "PIAAC-3745",
+      "PIAAC-9664"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "87093adc-bd3f-4783-9730-f6b490dc982e"
+  },
+  {
+    "id": "aaca39d8-908e-48ea-be62-8eefc22ceb45",
+    "name": "Targeted Training",
+    "prompt": "Does the text example propose implementing or developing targeted training programs for specific groups or demographics?",
+    "example_ids": [
+      "PIAAC-10459",
+      "PIAAC-4131"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "aaca39d8-908e-48ea-be62-8eefc22ceb45"
+  },
+  {
+    "id": "87e69788-5feb-4e49-a19d-a39b993e4e2a",
+    "name": "Community Outreach",
+    "prompt": "Does the text example recommend creating or enhancing community outreach programs to engage specific populations?",
+    "example_ids": [
+      "PIAAC-6509",
+      "PIAAC-4825"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "87e69788-5feb-4e49-a19d-a39b993e4e2a"
+  },
+  {
+    "id": "148685d9-5afd-448b-8154-acdd3b2293c9",
+    "name": "Inclusivity and Diversity",
+    "prompt": "Does the text example focus on promoting inclusivity and diversity through training or mentorship programs?",
+    "example_ids": [
+      "PIAAC-4992-5",
+      "PIAAC-8599"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "148685d9-5afd-448b-8154-acdd3b2293c9"
+  },
+  {
+    "id": "6fe16f51-a5ba-4430-864b-e6dc69ecbc51",
+    "name": "Policy Evaluation",
+    "prompt": "Does the text example emphasize the importance of evaluating or reviewing policies for effectiveness and improvement?",
+    "example_ids": [
+      "PIAAC-660",
+      "PIAAC-8854"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "6fe16f51-a5ba-4430-864b-e6dc69ecbc51"
+  },
+  {
+    "id": "092fd2a0-5200-4c68-8412-847b94c86ed4",
+    "name": "Resource Allocation",
+    "prompt": "Does the text example suggest allocating resources or funding to support training or policy initiatives?",
+    "example_ids": [
+      "PIAAC-441-2",
+      "PIAAC-6041"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Accessibility and inclusion in ",
+    "field": "Suggestions",
+    "concept_id": "092fd2a0-5200-4c68-8412-847b94c86ed4"
+  }
+]

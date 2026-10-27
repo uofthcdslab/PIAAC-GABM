@@ -1,0 +1,362 @@
+[
+  {
+    "id": "9dab98e6-0e1a-4913-9a8f-470fdbc258c0",
+    "name": "Digital Skills Training",
+    "prompt": "Does the text example suggest developing or enhancing digital skills training programs?",
+    "example_ids": [
+      "PIAAC-1767",
+      "PIAAC-6878"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "9dab98e6-0e1a-4913-9a8f-470fdbc258c0"
+  },
+  {
+    "id": "e55580e7-abe7-4718-8fea-9a958a1e7104",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text example focus on improving or enhancing policy effectiveness?",
+    "example_ids": [
+      "PIAAC-8578",
+      "PIAAC-8907"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "e55580e7-abe7-4718-8fea-9a958a1e7104"
+  },
+  {
+    "id": "c192b590-4c43-4050-a62d-c8272284ab9f",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example propose establishing or implementing feedback mechanisms for improvement?",
+    "example_ids": [
+      "PIAAC-190",
+      "PIAAC-9641"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "c192b590-4c43-4050-a62d-c8272284ab9f"
+  },
+  {
+    "id": "3f833757-28b0-4355-bdfe-425a4f80c6cf",
+    "name": "Tailored Training",
+    "prompt": "Does the text example emphasize providing tailored training for specific digital skill levels?",
+    "example_ids": [
+      "PIAAC-1605",
+      "PIAAC-9155"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "3f833757-28b0-4355-bdfe-425a4f80c6cf"
+  },
+  {
+    "id": "01a8d080-a7c7-4e6c-b2d8-73e271179b09",
+    "name": "Supportive Measures",
+    "prompt": "Does the text example suggest implementing supportive measures for individuals with varying digital skills?",
+    "example_ids": [
+      "PIAAC-968",
+      "PIAAC-3724-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "01a8d080-a7c7-4e6c-b2d8-73e271179b09"
+  },
+  {
+    "id": "f5d87cb8-745b-48ea-8b02-e048c75c74b5",
+    "name": "Evaluation Criteria",
+    "prompt": "Does the text example recommend establishing robust evaluation criteria or frameworks?",
+    "example_ids": [
+      "PIAAC-3266",
+      "PIAAC-7811"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "f5d87cb8-745b-48ea-8b02-e048c75c74b5"
+  },
+  {
+    "id": "2c78ce26-96b2-4504-b4d3-ea50973f30ed",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example recommend establishing or implementing mentorship programs related to AI?",
+    "example_ids": [
+      "PIAAC-4966",
+      "PIAAC-486"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "2c78ce26-96b2-4504-b4d3-ea50973f30ed"
+  },
+  {
+    "id": "6d43b519-708b-4b40-aa52-1b462e59bdd2",
+    "name": "AI Training Programs",
+    "prompt": "Does the text example suggest creating or enhancing AI training programs?",
+    "example_ids": [
+      "PIAAC-4433",
+      "PIAAC-5032"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "6d43b519-708b-4b40-aa52-1b462e59bdd2"
+  },
+  {
+    "id": "a2891b65-68a1-45e1-8ef7-602ed942c8c4",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text example propose developing or implementing guidelines for ethical AI use?",
+    "example_ids": [
+      "PIAAC-3550",
+      "PIAAC-1935"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "a2891b65-68a1-45e1-8ef7-602ed942c8c4"
+  },
+  {
+    "id": "2b2727b4-40b2-4a79-a0f1-47cb55280157",
+    "name": "AI Literacy Initiatives",
+    "prompt": "Does the text example recommend implementing AI literacy programs or workshops?",
+    "example_ids": [
+      "PIAAC-4783",
+      "PIAAC-9941-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "2b2727b4-40b2-4a79-a0f1-47cb55280157"
+  },
+  {
+    "id": "ea734edc-9f68-4a7f-89ab-c3d6ac42fdd6",
+    "name": "Support for AI Transition",
+    "prompt": "Does the text example suggest providing support for transitioning to AI roles or integration?",
+    "example_ids": [
+      "PIAAC-1154",
+      "PIAAC-11267"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "ea734edc-9f68-4a7f-89ab-c3d6ac42fdd6"
+  },
+  {
+    "id": "5b720a63-4116-4850-99fb-46c9042a7aee",
+    "name": "Financial and Resource Support",
+    "prompt": "Does the text example propose offering financial support or resources for AI training or adoption?",
+    "example_ids": [
+      "PIAAC-8701",
+      "PIAAC-3819"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "5b720a63-4116-4850-99fb-46c9042a7aee"
+  },
+  {
+    "id": "e76ee650-199b-466b-9931-49b7aacaa4d9",
+    "name": "Tailored Training Programs",
+    "prompt": "Does the text example suggest creating or implementing training programs that are specifically tailored to the needs of certain groups or industries?",
+    "example_ids": [
+      "PIAAC-10459",
+      "PIAAC-11268-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "e76ee650-199b-466b-9931-49b7aacaa4d9"
+  },
+  {
+    "id": "24400758-28e7-4bb4-87c8-997a5b07cffe",
+    "name": "Community Partnerships",
+    "prompt": "Does the text example recommend forming partnerships with community organizations or local businesses to enhance training or outreach efforts?",
+    "example_ids": [
+      "PIAAC-5311",
+      "PIAAC-3224"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "24400758-28e7-4bb4-87c8-997a5b07cffe"
+  },
+  {
+    "id": "97540987-e6c6-4585-b446-d70e669c9725",
+    "name": "Targeted Outreach",
+    "prompt": "Does the text example propose targeted outreach efforts to engage specific underrepresented or marginalized groups?",
+    "example_ids": [
+      "PIAAC-5450",
+      "PIAAC-9408"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "97540987-e6c6-4585-b446-d70e669c9725"
+  },
+  {
+    "id": "b4286ee0-2d30-449c-af39-aeea423427e3",
+    "name": "Accessible Training",
+    "prompt": "Does the text example emphasize the importance of making training programs accessible to all skill levels or diverse backgrounds?",
+    "example_ids": [
+      "PIAAC-3919",
+      "PIAAC-5276"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "b4286ee0-2d30-449c-af39-aeea423427e3"
+  },
+  {
+    "id": "db4b57ab-93eb-4250-aa58-6620c0cadb49",
+    "name": "Financial Support",
+    "prompt": "Does the text example suggest providing financial incentives or support to encourage participation in training programs?",
+    "example_ids": [
+      "PIAAC-3409",
+      "PIAAC-9461"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "db4b57ab-93eb-4250-aa58-6620c0cadb49"
+  },
+  {
+    "id": "b741d34d-de01-44ce-9207-9493bd0e56ed",
+    "name": "Employer Engagement",
+    "prompt": "Does the text example recommend involving employers in the development or implementation of training programs to ensure alignment with workplace needs?",
+    "example_ids": [
+      "PIAAC-5912",
+      "PIAAC-8102"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "b741d34d-de01-44ce-9207-9493bd0e56ed"
+  },
+  {
+    "id": "c96c8baa-0c4b-4480-bb04-0e726d3403f7",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text recommend implementing mentorship programs for any group or purpose?",
+    "example_ids": [
+      "PIAAC-11392-2",
+      "PIAAC-8706"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "c96c8baa-0c4b-4480-bb04-0e726d3403f7"
+  },
+  {
+    "id": "726aaacc-9dd6-4d54-92b3-be9a2dba745b",
+    "name": "Skill Development",
+    "prompt": "Does the text suggest mentorship as a means to develop skills?",
+    "example_ids": [
+      "PIAAC-7038",
+      "PIAAC-7850"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "726aaacc-9dd6-4d54-92b3-be9a2dba745b"
+  },
+  {
+    "id": "66f436b2-900b-4e94-b97c-90ab87081aea",
+    "name": "Support and Resources",
+    "prompt": "Does the text propose providing ongoing support and resources alongside mentorship?",
+    "example_ids": [
+      "PIAAC-7524-3",
+      "PIAAC-11100"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "66f436b2-900b-4e94-b97c-90ab87081aea"
+  },
+  {
+    "id": "d0495719-991f-447e-aad1-bac0fc01ce84",
+    "name": "Knowledge Transfer",
+    "prompt": "Does the text recommend mentorship for the purpose of knowledge transfer or sharing?",
+    "example_ids": [
+      "PIAAC-4904",
+      "PIAAC-7427"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "d0495719-991f-447e-aad1-bac0fc01ce84"
+  },
+  {
+    "id": "7ab841dc-3e4a-4c2d-a476-8669c4271425",
+    "name": "Career Transition",
+    "prompt": "Does the text suggest mentorship to aid in career transitions?",
+    "example_ids": [
+      "PIAAC-5707",
+      "PIAAC-5103"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "7ab841dc-3e4a-4c2d-a476-8669c4271425"
+  },
+  {
+    "id": "0b75a262-a4df-4acd-bbe0-6cfbc03a0d5a",
+    "name": "Technology Adoption",
+    "prompt": "Does the text propose mentorship to facilitate technology adoption?",
+    "example_ids": [
+      "PIAAC-8282",
+      "PIAAC-6070"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI-related employment and train",
+    "field": "Suggestions",
+    "concept_id": "0b75a262-a4df-4acd-bbe0-6cfbc03a0d5a"
+  }
+]

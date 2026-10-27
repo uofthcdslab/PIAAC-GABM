@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4a24d4c1-2287-473d-8aed-12bc38425362",
+    "name": "Transparency and Accountability",
+    "prompt": "Does the text example emphasize the importance of transparency and accountability in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5216",
+      "PIAAC-742"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI adoption in federal public s",
+    "field": "Rationale",
+    "concept_id": "4a24d4c1-2287-473d-8aed-12bc38425362"
+  },
+  {
+    "id": "80898e24-9296-4ad6-b78f-971f1276a882",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example highlight barriers that hinder AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6803",
+      "PIAAC-9875"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI adoption in federal public s",
+    "field": "Rationale",
+    "concept_id": "80898e24-9296-4ad6-b78f-971f1276a882"
+  },
+  {
+    "id": "c4c3db4a-31ce-4580-8885-82eba8723fdf",
+    "name": "Need for Training",
+    "prompt": "Does the text example mention the need for training to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7146-2",
+      "PIAAC-4602-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI adoption in federal public s",
+    "field": "Rationale",
+    "concept_id": "c4c3db4a-31ce-4580-8885-82eba8723fdf"
+  },
+  {
+    "id": "28c97a64-d8c2-410b-a4e2-0bc7be4f9f2b",
+    "name": "Human Oversight",
+    "prompt": "Does the text example discuss the role of human oversight in enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9641",
+      "PIAAC-4504-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI adoption in federal public s",
+    "field": "Rationale",
+    "concept_id": "28c97a64-d8c2-410b-a4e2-0bc7be4f9f2b"
+  },
+  {
+    "id": "b2ff8747-6775-4849-891d-3d3ebf58b3fe",
+    "name": "Efficiency Improvements",
+    "prompt": "Does the text example suggest that AI can improve efficiency, thereby supporting AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10497",
+      "PIAAC-5216"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI adoption in federal public s",
+    "field": "Rationale",
+    "concept_id": "b2ff8747-6775-4849-891d-3d3ebf58b3fe"
+  },
+  {
+    "id": "dde06b5a-8b67-459b-8e76-f9e6e2f10a4b",
+    "name": "Concerns about Bias",
+    "prompt": "Does the text example express concerns about biases affecting AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4082-2",
+      "PIAAC-2901"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI adoption in federal public s",
+    "field": "Rationale",
+    "concept_id": "dde06b5a-8b67-459b-8e76-f9e6e2f10a4b"
+  }
+]

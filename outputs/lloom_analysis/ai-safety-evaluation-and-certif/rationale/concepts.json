@@ -1,0 +1,272 @@
+[
+  {
+    "id": "42e46caf-a06d-4893-9efe-777bda37ba4f",
+    "name": "Certification Trust",
+    "prompt": "Does the text suggest that certification helps identify trustworthy AI products?",
+    "example_ids": [
+      "PIAAC-11036",
+      "PIAAC-779"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "42e46caf-a06d-4893-9efe-777bda37ba4f"
+  },
+  {
+    "id": "159bd59c-7021-41c5-bf14-032ff30551d9",
+    "name": "AI Literacy Improvement",
+    "prompt": "Does the text indicate a potential to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-7226",
+      "PIAAC-11550"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "159bd59c-7021-41c5-bf14-032ff30551d9"
+  },
+  {
+    "id": "d00e24fd-684c-49fd-a14d-bbdb2f6bb34c",
+    "name": "Moderate Effectiveness",
+    "prompt": "Does the text describe the policy as having moderate effectiveness in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-9340",
+      "PIAAC-692-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "d00e24fd-684c-49fd-a14d-bbdb2f6bb34c"
+  },
+  {
+    "id": "c6c98471-c8b0-4430-ba89-25dd8805075c",
+    "name": "Policy Impact",
+    "prompt": "Does the text mention the policy's impact on AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10406",
+      "PIAAC-9076"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "c6c98471-c8b0-4430-ba89-25dd8805075c"
+  },
+  {
+    "id": "493dd590-043a-424a-a1cf-1335f381de11",
+    "name": "Need for Education",
+    "prompt": "Does the text highlight a need for accessible education on AI?",
+    "example_ids": [
+      "PIAAC-2711",
+      "PIAAC-11268"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "493dd590-043a-424a-a1cf-1335f381de11"
+  },
+  {
+    "id": "fe5a7308-bf90-4c90-97cb-27a3bd166f48",
+    "name": "Effective Policy",
+    "prompt": "Does the text describe the policy as effective in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-7609-2",
+      "PIAAC-1354"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "fe5a7308-bf90-4c90-97cb-27a3bd166f48"
+  },
+  {
+    "id": "5061a619-d815-4245-9003-43e2cf5f0eb7",
+    "name": "Trust Enhancement",
+    "prompt": "Does the text suggest that certification enhances trust in AI products or tools?",
+    "example_ids": [
+      "PIAAC-10214",
+      "PIAAC-10641"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "5061a619-d815-4245-9003-43e2cf5f0eb7"
+  },
+  {
+    "id": "b67d5d77-143b-47df-8e54-ae2b1cb177ac",
+    "name": "Confidence Building",
+    "prompt": "Does the text indicate that certification builds or boosts confidence in AI products?",
+    "example_ids": [
+      "PIAAC-11591",
+      "PIAAC-7785"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "b67d5d77-143b-47df-8e54-ae2b1cb177ac"
+  },
+  {
+    "id": "cafd7434-b7d1-4656-afe4-3e453d9b0ecf",
+    "name": "AI Literacy Improvement",
+    "prompt": "Does the text imply that certification improves AI literacy or understanding?",
+    "example_ids": [
+      "PIAAC-10463-2",
+      "PIAAC-7308"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "cafd7434-b7d1-4656-afe4-3e453d9b0ecf"
+  },
+  {
+    "id": "0cdd17e1-5685-4346-88e7-d84f50242fc5",
+    "name": "Trustworthy AI Identification",
+    "prompt": "Does the text mention that certification aids in identifying trustworthy or reliable AI?",
+    "example_ids": [
+      "PIAAC-10406",
+      "PIAAC-5430"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "0cdd17e1-5685-4346-88e7-d84f50242fc5"
+  },
+  {
+    "id": "35149fc7-ff66-46ba-8ef8-44bfcf3e5149",
+    "name": "Navigation Aid",
+    "prompt": "Does the text suggest that certification helps navigate AI complexities or landscape?",
+    "example_ids": [
+      "PIAAC-1313",
+      "PIAAC-2950"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "35149fc7-ff66-46ba-8ef8-44bfcf3e5149"
+  },
+  {
+    "id": "13d0bb9f-59b5-4b8e-b0b3-916489d2d069",
+    "name": "Skepticism or Concerns",
+    "prompt": "Does the text express skepticism or concerns about the effectiveness of certification in improving AI literacy or trust?",
+    "example_ids": [
+      "PIAAC-4201",
+      "PIAAC-6784"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "13d0bb9f-59b5-4b8e-b0b3-916489d2d069"
+  },
+  {
+    "id": "4c0c27b6-60dc-4e72-8184-0f6fa3dd431a",
+    "name": "Need for Education",
+    "prompt": "Does the text example highlight the need for education or training to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1055",
+      "PIAAC-545"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "4c0c27b6-60dc-4e72-8184-0f6fa3dd431a"
+  },
+  {
+    "id": "5f80c6d4-9194-4dc7-a248-e3b139fc225a",
+    "name": "Certification Limitations",
+    "prompt": "Does the text example discuss limitations of certification in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3520",
+      "PIAAC-5103"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "5f80c6d4-9194-4dc7-a248-e3b139fc225a"
+  },
+  {
+    "id": "6318d4fb-425a-4695-9d5e-68fc5558ad7b",
+    "name": "Accessibility Concerns",
+    "prompt": "Does the text example mention concerns about accessibility impacting AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8322",
+      "PIAAC-2112"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "6318d4fb-425a-4695-9d5e-68fc5558ad7b"
+  },
+  {
+    "id": "9ec76fda-4350-498a-adb7-529b60297b8d",
+    "name": "Trust and Transparency",
+    "prompt": "Does the text example emphasize the importance of trust and transparency for AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10331",
+      "PIAAC-5080"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "9ec76fda-4350-498a-adb7-529b60297b8d"
+  },
+  {
+    "id": "40f78005-19e2-4a7c-b776-e768f9e90b59",
+    "name": "Funding Insufficiency",
+    "prompt": "Does the text example indicate that funding may be insufficient to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2992",
+      "PIAAC-5755"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "40f78005-19e2-4a7c-b776-e768f9e90b59"
+  },
+  {
+    "id": "85b1eb3d-6432-4174-8e8a-e8d33d97dfc0",
+    "name": "Complexity Barriers",
+    "prompt": "Does the text example highlight complexity as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5430",
+      "PIAAC-7497"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI safety evaluation and certif",
+    "field": "Rationale",
+    "concept_id": "85b1eb3d-6432-4174-8e8a-e8d33d97dfc0"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "3439eb0d-739d-4c2b-b26a-9f317bf67f7f",
+    "name": "Training and Support",
+    "prompt": "Does the text example mention the need for training and support as a factor for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9182-3",
+      "PIAAC-11508"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "3439eb0d-739d-4c2b-b26a-9f317bf67f7f"
+  },
+  {
+    "id": "7b57b723-6c08-43e3-88a5-0fc28e333bdc",
+    "name": "Barriers to Adoption",
+    "prompt": "Does the text example highlight concerns about barriers to AI adoption as a reason for potential failure in improving AI literacy?",
+    "example_ids": [
+      "PIAAC-11321",
+      "PIAAC-3552"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "7b57b723-6c08-43e3-88a5-0fc28e333bdc"
+  },
+  {
+    "id": "0fdbdc46-eff3-4b50-9610-7505da0f43cb",
+    "name": "Inclusivity and Language",
+    "prompt": "Does the text example discuss inclusivity and language accessibility as a factor for enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1228",
+      "PIAAC-10331-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "0fdbdc46-eff3-4b50-9610-7505da0f43cb"
+  },
+  {
+    "id": "86226f42-4570-46d3-aaf4-a60a81dee9f4",
+    "name": "Ethical and Privacy Concerns",
+    "prompt": "Does the text example mention ethical or privacy concerns as a reason for hindering AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5503-2",
+      "PIAAC-8463-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "86226f42-4570-46d3-aaf4-a60a81dee9f4"
+  },
+  {
+    "id": "d80647d6-0045-4d1a-a9a4-56ae0d250332",
+    "name": "Trust and Transparency",
+    "prompt": "Does the text example address trust and transparency issues as a factor affecting AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7943",
+      "PIAAC-6335"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "d80647d6-0045-4d1a-a9a4-56ae0d250332"
+  },
+  {
+    "id": "7da53453-8b27-4772-970b-1ebbaf2c68ee",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text example question the effectiveness of the policy in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7444",
+      "PIAAC-2198"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "7da53453-8b27-4772-970b-1ebbaf2c68ee"
+  },
+  {
+    "id": "f6c873af-f4ee-41c3-8461-97511bb1a69c",
+    "name": "Bilingual Inclusivity",
+    "prompt": "Does the text suggest that bilingual AI systems promote inclusivity and accessibility for diverse communities?",
+    "example_ids": [
+      "PIAAC-2201",
+      "PIAAC-1265"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "f6c873af-f4ee-41c3-8461-97511bb1a69c"
+  },
+  {
+    "id": "26d18b9b-726c-4b2e-821d-9a4f91db205b",
+    "name": "Language Equity",
+    "prompt": "Does the text address the importance of language equity in AI systems for fair access?",
+    "example_ids": [
+      "PIAAC-162",
+      "PIAAC-9427"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "26d18b9b-726c-4b2e-821d-9a4f91db205b"
+  },
+  {
+    "id": "2e6472aa-332e-453f-9faa-bc0b54e791a1",
+    "name": "Insufficient Bilingualism",
+    "prompt": "Does the text argue that bilingual capabilities alone are insufficient to address deeper issues in AI adoption?",
+    "example_ids": [
+      "PIAAC-3083-3",
+      "PIAAC-11312-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "2e6472aa-332e-453f-9faa-bc0b54e791a1"
+  },
+  {
+    "id": "00bc10c3-48d8-44c0-8168-e9229f9d5634",
+    "name": "Commitment to Bilingual AI",
+    "prompt": "Does the text highlight a commitment to developing bilingual AI systems as a positive step?",
+    "example_ids": [
+      "PIAAC-4397",
+      "PIAAC-5059"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "00bc10c3-48d8-44c0-8168-e9229f9d5634"
+  },
+  {
+    "id": "4962c778-4df3-4aa7-86a9-80f20e7f21a6",
+    "name": "Performance in Multiple Languages",
+    "prompt": "Does the text emphasize the need for AI systems to perform equally well in multiple languages?",
+    "example_ids": [
+      "PIAAC-5595",
+      "PIAAC-7268"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "4962c778-4df3-4aa7-86a9-80f20e7f21a6"
+  },
+  {
+    "id": "688316e2-57d1-4e14-9cfc-64c793cc045d",
+    "name": "Beyond Language Focus",
+    "prompt": "Does the text suggest that focusing solely on language parity overlooks broader challenges in AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6811-2",
+      "PIAAC-6895"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "688316e2-57d1-4e14-9cfc-64c793cc045d"
+  },
+  {
+    "id": "beeb09da-d244-4576-baab-14181f45599d",
+    "name": "Francophone Inclusivity",
+    "prompt": "Does the text emphasize the importance of inclusivity for Francophone communities in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11529",
+      "PIAAC-5205-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "beeb09da-d244-4576-baab-14181f45599d"
+  },
+  {
+    "id": "5961623d-7dc9-4793-a037-6254ec510161",
+    "name": "Language Accessibility",
+    "prompt": "Does the text highlight improved accessibility for Francophone or bilingual communities as a factor in AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1265-3",
+      "PIAAC-8686"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "5961623d-7dc9-4793-a037-6254ec510161"
+  },
+  {
+    "id": "bae0ce36-0375-49b6-ab94-b6a4d001bdc9",
+    "name": "Cultural Support",
+    "prompt": "Does the text mention support for French language and culture as a reason for enhancing AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5912",
+      "PIAAC-6803"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "bae0ce36-0375-49b6-ab94-b6a4d001bdc9"
+  },
+  {
+    "id": "ae289a23-0181-4b17-92a2-5001731d4398",
+    "name": "Linguistic Equity",
+    "prompt": "Does the text discuss promoting linguistic equity between English and French as a means to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2457",
+      "PIAAC-6988"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "ae289a23-0181-4b17-92a2-5001731d4398"
+  },
+  {
+    "id": "910fcbaf-2b29-4c56-8729-22b9752ee4d3",
+    "name": "Minority Community Focus",
+    "prompt": "Does the text focus on the benefits for minority Francophone communities in the context of AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-11525",
+      "PIAAC-3266"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "910fcbaf-2b29-4c56-8729-22b9752ee4d3"
+  },
+  {
+    "id": "c8f6e6d3-331b-4efa-a40b-eb06d118e547",
+    "name": "Barrier Reduction",
+    "prompt": "Does the text address the reduction of language barriers for Francophones as a factor in AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4971-5",
+      "PIAAC-10008-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "c8f6e6d3-331b-4efa-a40b-eb06d118e547"
+  },
+  {
+    "id": "7b104448-f6dd-470d-96cc-04111187239e",
+    "name": "Training Deficiency",
+    "prompt": "Does the text example mention a lack of training as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7962",
+      "PIAAC-2678"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "7b104448-f6dd-470d-96cc-04111187239e"
+  },
+  {
+    "id": "4e76d22d-fc4c-4b4c-8548-082261821924",
+    "name": "Access Issues",
+    "prompt": "Does the text example highlight access issues as a reason for hindering AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8348",
+      "PIAAC-8742-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "4e76d22d-fc4c-4b4c-8548-082261821924"
+  },
+  {
+    "id": "59342862-bf40-4154-b60c-d8798cb42699",
+    "name": "Trust and Understanding",
+    "prompt": "Does the text example indicate that trust or understanding issues are barriers to AI adoption?",
+    "example_ids": [
+      "PIAAC-5218-4",
+      "PIAAC-2968"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "59342862-bf40-4154-b60c-d8798cb42699"
+  },
+  {
+    "id": "8f74267b-1237-4527-8fce-563fb22a9c9d",
+    "name": "Complexity Challenges",
+    "prompt": "Does the text example suggest that the complexity of AI systems is a barrier to adoption?",
+    "example_ids": [
+      "PIAAC-5640",
+      "PIAAC-9780"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "8f74267b-1237-4527-8fce-563fb22a9c9d"
+  },
+  {
+    "id": "30e3ce3d-65ac-475e-8854-04ee879cb6e0",
+    "name": "Socio-Economic Barriers",
+    "prompt": "Does the text example mention socio-economic factors as barriers to AI adoption?",
+    "example_ids": [
+      "PIAAC-4402",
+      "PIAAC-5885"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "30e3ce3d-65ac-475e-8854-04ee879cb6e0"
+  },
+  {
+    "id": "b300ce0f-c61b-4bda-bd2c-7ce572be0478",
+    "name": "Policy Oversight",
+    "prompt": "Does the text example suggest that policy oversight or neglect is a barrier to AI adoption?",
+    "example_ids": [
+      "PIAAC-8596",
+      "PIAAC-8849"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "b300ce0f-c61b-4bda-bd2c-7ce572be0478"
+  },
+  {
+    "id": "dd2d9d08-92fa-49c0-8f74-0409998f8ce3",
+    "name": "Digital Skills Gap",
+    "prompt": "Does the text mention a lack of digital skills as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-7962",
+      "PIAAC-597-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "dd2d9d08-92fa-49c0-8f74-0409998f8ce3"
+  },
+  {
+    "id": "c250ea77-864d-46dd-b8f1-689d554cc262",
+    "name": "Training and Resources",
+    "prompt": "Does the text highlight the lack of training and resources as a reason for limited AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5875",
+      "PIAAC-9352"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "c250ea77-864d-46dd-b8f1-689d554cc262"
+  },
+  {
+    "id": "8ed2393d-7e22-4234-89c0-20edca9ec986",
+    "name": "Language Barriers",
+    "prompt": "Does the text discuss language barriers as a factor hindering AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2543",
+      "PIAAC-9180-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "8ed2393d-7e22-4234-89c0-20edca9ec986"
+  },
+  {
+    "id": "1ce76cff-b392-49bb-a37f-41fa0110848a",
+    "name": "Community Needs",
+    "prompt": "Does the text emphasize the importance of addressing community needs for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10331-4",
+      "PIAAC-8742-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "1ce76cff-b392-49bb-a37f-41fa0110848a"
+  },
+  {
+    "id": "49181240-b730-48d2-93b0-479ab5ad66ae",
+    "name": "User-Friendliness",
+    "prompt": "Does the text mention the need for user-friendly tools to enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5282-3",
+      "PIAAC-9336"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "49181240-b730-48d2-93b0-479ab5ad66ae"
+  },
+  {
+    "id": "42044596-0284-4662-94b0-1da7aa82574e",
+    "name": "Policy Effectiveness Concerns",
+    "prompt": "Does the text express concerns about the effectiveness of policies in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8703",
+      "PIAAC-763"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "English and French in governmen",
+    "field": "Rationale",
+    "concept_id": "42044596-0284-4662-94b0-1da7aa82574e"
+  }
+]

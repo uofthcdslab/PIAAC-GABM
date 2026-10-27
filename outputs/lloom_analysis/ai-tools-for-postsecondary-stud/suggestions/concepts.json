@@ -1,0 +1,270 @@
+[
+  {
+    "id": "144835c8-6ea3-41bf-b741-9f904aa5c316",
+    "name": "Enhance Effectiveness",
+    "prompt": "Does the text focus on enhancing the effectiveness of a policy or initiative?",
+    "example_ids": [
+      "PIAAC-6187-2",
+      "PIAAC-332-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "144835c8-6ea3-41bf-b741-9f904aa5c316"
+  },
+  {
+    "id": "e418e42d-ff19-4e18-9412-7a9da9c6745f",
+    "name": "Implement Recommendations",
+    "prompt": "Does the text suggest implementing specific recommendations or measures for improvement?",
+    "example_ids": [
+      "PIAAC-9012",
+      "PIAAC-332-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "e418e42d-ff19-4e18-9412-7a9da9c6745f"
+  },
+  {
+    "id": "4a1557f0-9dad-42f7-9518-9ca998ebee94",
+    "name": "Address Challenges",
+    "prompt": "Does the text address identified challenges and propose measures to tackle them?",
+    "example_ids": [
+      "PIAAC-6187-2",
+      "PIAAC-1135"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "4a1557f0-9dad-42f7-9518-9ca998ebee94"
+  },
+  {
+    "id": "ec120365-ed37-4e32-901b-50aa3538deee",
+    "name": "Feedback Loops",
+    "prompt": "Does the text mention establishing feedback loops with stakeholders such as educators or students?",
+    "example_ids": [
+      "PIAAC-7389",
+      "PIAAC-2470"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "ec120365-ed37-4e32-901b-50aa3538deee"
+  },
+  {
+    "id": "9a27e713-6b03-454e-9260-86bc93c75df2",
+    "name": "Increase Funding",
+    "prompt": "Does the text propose increasing funding for policy initiatives?",
+    "example_ids": [
+      "PIAAC-7546-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "9a27e713-6b03-454e-9260-86bc93c75df2"
+  },
+  {
+    "id": "54034fb0-2e72-4f80-ab28-cd4e29de3ad2",
+    "name": "Structured Framework",
+    "prompt": "Does the text suggest developing a structured framework for implementation?",
+    "example_ids": [
+      "PIAAC-1675"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "54034fb0-2e72-4f80-ab28-cd4e29de3ad2"
+  },
+  {
+    "id": "cc52b5dd-99e0-4bc6-bcf2-4562bbc25746",
+    "name": "AI Ethics Training",
+    "prompt": "Does the text example recommend implementing training programs focused on AI ethics?",
+    "example_ids": [
+      "PIAAC-7785",
+      "PIAAC-2112"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "cc52b5dd-99e0-4bc6-bcf2-4562bbc25746"
+  },
+  {
+    "id": "1edc3c5b-5e10-41aa-9b19-cedbb936e85f",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing mentorship programs related to AI?",
+    "example_ids": [
+      "PIAAC-11168",
+      "PIAAC-9641"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "1edc3c5b-5e10-41aa-9b19-cedbb936e85f"
+  },
+  {
+    "id": "e848a081-7bd9-40cd-8240-2d573c23049f",
+    "name": "Hands-on Workshops",
+    "prompt": "Does the text example propose conducting hands-on workshops for practical AI learning?",
+    "example_ids": [
+      "PIAAC-1579",
+      "PIAAC-8040"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "e848a081-7bd9-40cd-8240-2d573c23049f"
+  },
+  {
+    "id": "a6aafca2-6135-4c09-9a6e-8c6194b17c72",
+    "name": "Data Privacy Guidelines",
+    "prompt": "Does the text example recommend establishing guidelines for data privacy in AI?",
+    "example_ids": [
+      "PIAAC-4627",
+      "PIAAC-8190"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "a6aafca2-6135-4c09-9a6e-8c6194b17c72"
+  },
+  {
+    "id": "b44be27d-a759-45c8-b3a8-6da53911d0d3",
+    "name": "AI Literacy for Educators",
+    "prompt": "Does the text example focus on providing AI literacy training specifically for educators?",
+    "example_ids": [
+      "PIAAC-10641-2",
+      "PIAAC-5897"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "b44be27d-a759-45c8-b3a8-6da53911d0d3"
+  },
+  {
+    "id": "9459b0d5-a0fe-406d-81a9-241ea1bfe0df",
+    "name": "Community Engagement",
+    "prompt": "Does the text example emphasize engaging the community through AI workshops or discussions?",
+    "example_ids": [
+      "PIAAC-2665",
+      "PIAAC-6184"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "9459b0d5-a0fe-406d-81a9-241ea1bfe0df"
+  },
+  {
+    "id": "d0dab806-6f6e-4fb8-8d2a-c0c4f41e26c5",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing mentorship programs or networks for students or educators?",
+    "example_ids": [
+      "PIAAC-11605",
+      "PIAAC-11268-6"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "d0dab806-6f6e-4fb8-8d2a-c0c4f41e26c5"
+  },
+  {
+    "id": "7077f6b5-c79a-41fc-a019-f7d166ecfddd",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing multilingual or bilingual resources to enhance inclusivity?",
+    "example_ids": [
+      "PIAAC-4726-2",
+      "PIAAC-2185"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "7077f6b5-c79a-41fc-a019-f7d166ecfddd"
+  },
+  {
+    "id": "5c674afc-8969-4fa3-87d4-1e5b2657f28f",
+    "name": "Community Workshops",
+    "prompt": "Does the text example propose conducting community workshops to improve skills or engagement?",
+    "example_ids": [
+      "PIAAC-413",
+      "PIAAC-7023"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "5c674afc-8969-4fa3-87d4-1e5b2657f28f"
+  },
+  {
+    "id": "3436c401-33c3-4a14-bda8-d594d64be2cc",
+    "name": "Training for Educators",
+    "prompt": "Does the text example emphasize the need for training programs specifically for educators?",
+    "example_ids": [
+      "PIAAC-6553",
+      "PIAAC-2049"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "3436c401-33c3-4a14-bda8-d594d64be2cc"
+  },
+  {
+    "id": "413b019e-3013-4a69-b3f4-00a5c0727359",
+    "name": "Industry Partnerships",
+    "prompt": "Does the text example suggest forming partnerships with industry professionals or organizations?",
+    "example_ids": [
+      "PIAAC-10008-2",
+      "PIAAC-2112"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "413b019e-3013-4a69-b3f4-00a5c0727359"
+  },
+  {
+    "id": "d882522e-8fcf-4674-a15b-348d03f5b606",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example recommend establishing feedback mechanisms for continuous improvement?",
+    "example_ids": [
+      "PIAAC-7832",
+      "PIAAC-6922"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI tools for postsecondary stud",
+    "field": "Suggestions",
+    "concept_id": "d882522e-8fcf-4674-a15b-348d03f5b606"
+  }
+]

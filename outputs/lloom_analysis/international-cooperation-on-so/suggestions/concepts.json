@@ -1,0 +1,452 @@
+[
+  {
+    "id": "da6e7b3d-5a25-4d42-8775-9e72bc6c1d2e",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing or enhancing mentorship programs related to AI?",
+    "example_ids": [
+      "PIAAC-2415",
+      "PIAAC-11322-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "da6e7b3d-5a25-4d42-8775-9e72bc6c1d2e"
+  },
+  {
+    "id": "f3e8f18b-a01c-48c9-b13d-55cdded98438",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example propose creating or providing resources in multiple languages for accessibility or inclusivity?",
+    "example_ids": [
+      "PIAAC-3877",
+      "PIAAC-785"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "f3e8f18b-a01c-48c9-b13d-55cdded98438"
+  },
+  {
+    "id": "37c5e237-af3b-4347-8b51-df6f035a6afd",
+    "name": "Practical AI Applications",
+    "prompt": "Does the text example focus on promoting or implementing practical applications of AI in daily life?",
+    "example_ids": [
+      "PIAAC-7146",
+      "PIAAC-4532"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "37c5e237-af3b-4347-8b51-df6f035a6afd"
+  },
+  {
+    "id": "8df572c1-8619-4826-bb83-68a83ab5446c",
+    "name": "AI Training Programs",
+    "prompt": "Does the text example recommend implementing or prioritizing AI training programs?",
+    "example_ids": [
+      "PIAAC-1569",
+      "PIAAC-1265"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "8df572c1-8619-4826-bb83-68a83ab5446c"
+  },
+  {
+    "id": "3f670aa5-15f3-42ff-99f4-d2dd494f0969",
+    "name": "Language Support",
+    "prompt": "Does the text example suggest providing language support for non-English speakers?",
+    "example_ids": [
+      "PIAAC-9969-2",
+      "PIAAC-5442"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "3f670aa5-15f3-42ff-99f4-d2dd494f0969"
+  },
+  {
+    "id": "d0c20efa-988e-4f44-a286-9d0c0bd78f58",
+    "name": "AI Access and Support",
+    "prompt": "Does the text example propose creating pathways or support systems for AI access?",
+    "example_ids": [
+      "PIAAC-7123",
+      "PIAAC-1956-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "d0c20efa-988e-4f44-a286-9d0c0bd78f58"
+  },
+  {
+    "id": "6e786ac8-939c-458e-9375-25c5546e1665",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text example propose establishing guidelines or frameworks for ethical AI usage?",
+    "example_ids": [
+      "PIAAC-7444",
+      "PIAAC-10367"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "6e786ac8-939c-458e-9375-25c5546e1665"
+  },
+  {
+    "id": "4c0ebb1a-8ea6-49a1-88ff-6d142d54c130",
+    "name": "Stakeholder Engagement",
+    "prompt": "Does the text example suggest involving diverse stakeholders in AI development or policy planning?",
+    "example_ids": [
+      "PIAAC-8391",
+      "PIAAC-4005"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "4c0ebb1a-8ea6-49a1-88ff-6d142d54c130"
+  },
+  {
+    "id": "5654a580-81cd-457a-8b4c-a065f5fb622b",
+    "name": "Safety Evaluation Frameworks",
+    "prompt": "Does the text example recommend creating or establishing safety evaluation frameworks for AI?",
+    "example_ids": [
+      "PIAAC-6685-3",
+      "PIAAC-332-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "5654a580-81cd-457a-8b4c-a065f5fb622b"
+  },
+  {
+    "id": "815a6af0-6f47-4b60-99ec-6f228c6bca1d",
+    "name": "Data Privacy Regulations",
+    "prompt": "Does the text example focus on implementing or enhancing data privacy and protection guidelines?",
+    "example_ids": [
+      "PIAAC-9641",
+      "PIAAC-4671"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "815a6af0-6f47-4b60-99ec-6f228c6bca1d"
+  },
+  {
+    "id": "2a4136b5-0e84-4243-a1a9-e991499daf9a",
+    "name": "Transparency in AI",
+    "prompt": "Does the text example emphasize ensuring transparency in AI decision-making or algorithms?",
+    "example_ids": [
+      "PIAAC-10679",
+      "PIAAC-7526"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "2a4136b5-0e84-4243-a1a9-e991499daf9a"
+  },
+  {
+    "id": "b75658a3-855a-46c7-b770-82f3aed0a24a",
+    "name": "Equitable AI Access",
+    "prompt": "Does the text example address ensuring equitable access to AI benefits or technologies?",
+    "example_ids": [
+      "PIAAC-2511",
+      "PIAAC-3255"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "b75658a3-855a-46c7-b770-82f3aed0a24a"
+  },
+  {
+    "id": "4b0b3a49-4405-4a78-9e37-68f724ad0610",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example recommend implementing AI literacy training programs?",
+    "example_ids": [
+      "PIAAC-7250-2",
+      "PIAAC-763"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "4b0b3a49-4405-4a78-9e37-68f724ad0610"
+  },
+  {
+    "id": "e4925ae8-99ac-46cf-ad60-f9e05e5ef0cb",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example suggest launching public awareness campaigns on AI?",
+    "example_ids": [
+      "PIAAC-906",
+      "PIAAC-10368-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "e4925ae8-99ac-46cf-ad60-f9e05e5ef0cb"
+  },
+  {
+    "id": "e33628cf-1843-42f5-9a2a-2bf6f6f0bee6",
+    "name": "Targeted AI Programs",
+    "prompt": "Does the text example propose targeted AI literacy programs for specific groups?",
+    "example_ids": [
+      "PIAAC-7524-2",
+      "PIAAC-4504"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "e33628cf-1843-42f5-9a2a-2bf6f6f0bee6"
+  },
+  {
+    "id": "2651df4c-6605-408a-8394-9b813799a1b2",
+    "name": "Enhance AI Education",
+    "prompt": "Does the text example recommend enhancing AI literacy through educational initiatives?",
+    "example_ids": [
+      "PIAAC-8040-2",
+      "PIAAC-7038"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "2651df4c-6605-408a-8394-9b813799a1b2"
+  },
+  {
+    "id": "db5912a6-aa71-412a-a122-d345df785e0f",
+    "name": "Digital and AI Literacy",
+    "prompt": "Does the text example suggest enhancing both digital and AI literacy programs?",
+    "example_ids": [
+      "PIAAC-5599-2",
+      "PIAAC-5302"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "db5912a6-aa71-412a-a122-d345df785e0f"
+  },
+  {
+    "id": "4dc03dea-8689-45fd-8f7a-634de157e1b9",
+    "name": "AI Literacy for Workers",
+    "prompt": "Does the text example recommend developing AI literacy programs specifically for workers?",
+    "example_ids": [
+      "PIAAC-4532",
+      "PIAAC-2013"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "4dc03dea-8689-45fd-8f7a-634de157e1b9"
+  },
+  {
+    "id": "d519f611-45db-4ae8-a469-5c5ee4987be8",
+    "name": "Targeted Training Programs",
+    "prompt": "Does the text example suggest implementing training programs that are specifically tailored to certain groups, industries, or skill levels?",
+    "example_ids": [
+      "PIAAC-3279",
+      "PIAAC-6655"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "d519f611-45db-4ae8-a469-5c5ee4987be8"
+  },
+  {
+    "id": "a033b7cd-8c8f-44b4-838c-d9ac13bbe212",
+    "name": "Community-Based Initiatives",
+    "prompt": "Does the text example propose creating or enhancing educational or training programs that are focused on community engagement or support?",
+    "example_ids": [
+      "PIAAC-672-2",
+      "PIAAC-4992-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "a033b7cd-8c8f-44b4-838c-d9ac13bbe212"
+  },
+  {
+    "id": "73d01860-d5f8-4341-8706-a032d8d8915b",
+    "name": "Partnership Development",
+    "prompt": "Does the text example recommend forming partnerships between organizations, industries, or educational institutions to improve training or educational outcomes?",
+    "example_ids": [
+      "PIAAC-11112",
+      "PIAAC-4564"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "73d01860-d5f8-4341-8706-a032d8d8915b"
+  },
+  {
+    "id": "e2cc6dc1-1382-4710-9ccb-cfea0c109dd9",
+    "name": "Hands-On Learning",
+    "prompt": "Does the text example emphasize the importance of practical, hands-on learning experiences in training programs?",
+    "example_ids": [
+      "PIAAC-10514",
+      "PIAAC-5755"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "e2cc6dc1-1382-4710-9ccb-cfea0c109dd9"
+  },
+  {
+    "id": "e11c5b1f-60fc-49ff-8b0e-b5ffcd16c418",
+    "name": "Digital Skills Enhancement",
+    "prompt": "Does the text example focus on improving digital literacy or skills through targeted training programs?",
+    "example_ids": [
+      "PIAAC-11572-3",
+      "PIAAC-6609"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "e11c5b1f-60fc-49ff-8b0e-b5ffcd16c418"
+  },
+  {
+    "id": "49326c85-1c87-481d-8c3e-69b5ac9a9d36",
+    "name": "Support Systems for Businesses",
+    "prompt": "Does the text example suggest establishing support systems or providing resources specifically for businesses to aid in technology adoption or skill development?",
+    "example_ids": [
+      "PIAAC-5595",
+      "PIAAC-993"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "49326c85-1c87-481d-8c3e-69b5ac9a9d36"
+  },
+  {
+    "id": "117b558f-f798-469e-9a0b-56d5c840fc4b",
+    "name": "Community-Based AI Programs",
+    "prompt": "Does the text example suggest implementing AI education or training programs specifically within community settings?",
+    "example_ids": [
+      "PIAAC-2187-2",
+      "PIAAC-5442"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "117b558f-f798-469e-9a0b-56d5c840fc4b"
+  },
+  {
+    "id": "d9d47323-b3b2-4602-8cf9-27ebed97879d",
+    "name": "AI Workshops",
+    "prompt": "Does the text example propose creating or conducting workshops to enhance understanding of AI concepts?",
+    "example_ids": [
+      "PIAAC-11267",
+      "PIAAC-10100"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "d9d47323-b3b2-4602-8cf9-27ebed97879d"
+  },
+  {
+    "id": "c4f9d732-1138-41bd-9e64-367ffb2fd2cb",
+    "name": "Partnerships for AI Education",
+    "prompt": "Does the text example recommend forming partnerships to facilitate AI education or workshops?",
+    "example_ids": [
+      "PIAAC-3829",
+      "PIAAC-2665-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "c4f9d732-1138-41bd-9e64-367ffb2fd2cb"
+  },
+  {
+    "id": "1ce233e7-d520-4ca7-81aa-c673277c3a46",
+    "name": "Accessible AI Resources",
+    "prompt": "Does the text example emphasize the creation or provision of accessible resources for AI learning?",
+    "example_ids": [
+      "PIAAC-1304",
+      "PIAAC-2080"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "1ce233e7-d520-4ca7-81aa-c673277c3a46"
+  },
+  {
+    "id": "1f3aa8d6-773e-477d-9ac3-2ef4af46d4fa",
+    "name": "AI Literacy Initiatives",
+    "prompt": "Does the text example focus on initiatives aimed at improving AI literacy within communities?",
+    "example_ids": [
+      "PIAAC-6410",
+      "PIAAC-5236-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "1f3aa8d6-773e-477d-9ac3-2ef4af46d4fa"
+  },
+  {
+    "id": "f844c697-055c-43e5-83f4-5e26456a1d73",
+    "name": "Hands-On AI Experience",
+    "prompt": "Does the text example suggest providing hands-on experiences or practical applications for learning AI?",
+    "example_ids": [
+      "PIAAC-2247",
+      "PIAAC-7543"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "International cooperation on so",
+    "field": "Suggestions",
+    "concept_id": "f844c697-055c-43e5-83f4-5e26456a1d73"
+  }
+]

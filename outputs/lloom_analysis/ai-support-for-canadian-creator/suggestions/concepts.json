@@ -1,0 +1,347 @@
+[
+  {
+    "id": "dc632799-8334-477c-ba7d-09d8355f1c9f",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing or enhancing mentorship programs for creators?",
+    "example_ids": [
+      "PIAAC-2496",
+      "PIAAC-3146"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "dc632799-8334-477c-ba7d-09d8355f1c9f"
+  },
+  {
+    "id": "4bbeb5a3-aa49-43d1-9cb2-88544ce285d8",
+    "name": "Community Partnerships",
+    "prompt": "Does the text example propose forming partnerships with local or community organizations?",
+    "example_ids": [
+      "PIAAC-1632-4",
+      "PIAAC-4848"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "4bbeb5a3-aa49-43d1-9cb2-88544ce285d8"
+  },
+  {
+    "id": "b8182f72-fac8-4d4d-a4e5-27d349123a5a",
+    "name": "AI Workshops",
+    "prompt": "Does the text example recommend conducting workshops or training sessions focused on AI for creators?",
+    "example_ids": [
+      "PIAAC-1988",
+      "PIAAC-4315"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "b8182f72-fac8-4d4d-a4e5-27d349123a5a"
+  },
+  {
+    "id": "611fe1a0-9c95-4f44-87d9-9086115c1aa8",
+    "name": "Program Effectiveness",
+    "prompt": "Does the text example focus on improving or enhancing the effectiveness of a program or policy?",
+    "example_ids": [
+      "PIAAC-4424",
+      "PIAAC-10560-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "611fe1a0-9c95-4f44-87d9-9086115c1aa8"
+  },
+  {
+    "id": "602ab2c0-5fc9-4851-b765-39511252ddaa",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest implementing feedback mechanisms for program improvement?",
+    "example_ids": [
+      "PIAAC-7850",
+      "PIAAC-6181-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "602ab2c0-5fc9-4851-b765-39511252ddaa"
+  },
+  {
+    "id": "7a5c64aa-e2de-4cf6-bd58-322cdf7216b1",
+    "name": "Resource Sharing",
+    "prompt": "Does the text example involve establishing collaborations or partnerships for resource sharing?",
+    "example_ids": [
+      "PIAAC-5981-2",
+      "PIAAC-8706"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "7a5c64aa-e2de-4cf6-bd58-322cdf7216b1"
+  },
+  {
+    "id": "24118ab1-b1e6-472e-b5b2-146ac0a9c8d7",
+    "name": "Hands-On Workshops",
+    "prompt": "Does the text example suggest implementing hands-on workshops for skill development?",
+    "example_ids": [
+      "PIAAC-8461-2",
+      "PIAAC-6450-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "24118ab1-b1e6-472e-b5b2-146ac0a9c8d7"
+  },
+  {
+    "id": "eae2e5a5-472f-4f67-8907-5a01d7de1a4d",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example propose establishing mentorship programs for knowledge sharing or support?",
+    "example_ids": [
+      "PIAAC-3053",
+      "PIAAC-559"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "eae2e5a5-472f-4f67-8907-5a01d7de1a4d"
+  },
+  {
+    "id": "406a6ca2-72d8-45ba-80f0-7a019a83cb92",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing resources in multiple languages for accessibility?",
+    "example_ids": [
+      "PIAAC-5250",
+      "PIAAC-4593"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "406a6ca2-72d8-45ba-80f0-7a019a83cb92"
+  },
+  {
+    "id": "629395a0-3d61-40da-816a-ead6bd2787d6",
+    "name": "Targeted Training",
+    "prompt": "Does the text example advocate for implementing targeted training initiatives for specific groups?",
+    "example_ids": [
+      "PIAAC-8742",
+      "PIAAC-4602"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "629395a0-3d61-40da-816a-ead6bd2787d6"
+  },
+  {
+    "id": "d9a290aa-5fc7-4553-9cea-cf588a0712c2",
+    "name": "Community Support",
+    "prompt": "Does the text example emphasize creating community support networks or platforms?",
+    "example_ids": [
+      "PIAAC-4558",
+      "PIAAC-11324"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "d9a290aa-5fc7-4553-9cea-cf588a0712c2"
+  },
+  {
+    "id": "553e2233-ac63-4151-97dd-c6b2c0e699ef",
+    "name": "Accessible Funding",
+    "prompt": "Does the text example suggest creating accessible funding opportunities for underrepresented groups?",
+    "example_ids": [
+      "PIAAC-11350",
+      "PIAAC-7928"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "553e2233-ac63-4151-97dd-c6b2c0e699ef"
+  },
+  {
+    "id": "a569ceb1-e12f-4b03-b66d-8b8ce5298b6e",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text recommend establishing or creating mentorship programs related to AI?",
+    "example_ids": [
+      "PIAAC-5663-2",
+      "PIAAC-11270"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "a569ceb1-e12f-4b03-b66d-8b8ce5298b6e"
+  },
+  {
+    "id": "79163413-cee3-41d8-95ca-10a55f7a306e",
+    "name": "AI Adoption Support",
+    "prompt": "Does the text suggest providing support or guidance for AI adoption?",
+    "example_ids": [
+      "PIAAC-6491",
+      "PIAAC-2778-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "79163413-cee3-41d8-95ca-10a55f7a306e"
+  },
+  {
+    "id": "2710b4f8-b47c-4956-a2be-77cf90cf086b",
+    "name": "Funding and Grants",
+    "prompt": "Does the text propose providing financial support, funding, or grants for AI initiatives?",
+    "example_ids": [
+      "PIAAC-4808",
+      "PIAAC-7647"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "2710b4f8-b47c-4956-a2be-77cf90cf086b"
+  },
+  {
+    "id": "c7220f64-9923-435d-a993-4bff42a0e000",
+    "name": "Address AI Challenges",
+    "prompt": "Does the text address challenges or concerns related to AI adoption or implementation?",
+    "example_ids": [
+      "PIAAC-167",
+      "PIAAC-5225"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "c7220f64-9923-435d-a993-4bff42a0e000"
+  },
+  {
+    "id": "c9b75195-0300-43f3-bfc3-aa2df9bcda6d",
+    "name": "Support Networks",
+    "prompt": "Does the text recommend establishing support networks for AI-related activities?",
+    "example_ids": [
+      "PIAAC-9155",
+      "PIAAC-11492"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "c9b75195-0300-43f3-bfc3-aa2df9bcda6d"
+  },
+  {
+    "id": "e24d2647-5069-4637-ba8d-5581856d7efc",
+    "name": "Hands-on AI Workshops",
+    "prompt": "Does the text example recommend implementing hands-on workshops for AI training or tools?",
+    "example_ids": [
+      "PIAAC-7903",
+      "PIAAC-521-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "e24d2647-5069-4637-ba8d-5581856d7efc"
+  },
+  {
+    "id": "24f9cfd0-f079-45f8-8e97-66846f0b94be",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example suggest developing or implementing AI literacy programs?",
+    "example_ids": [
+      "PIAAC-9088",
+      "PIAAC-11633"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "24f9cfd0-f079-45f8-8e97-66846f0b94be"
+  },
+  {
+    "id": "db7cc736-84be-4480-b0df-c2a19cb382a3",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text example propose establishing guidelines or frameworks for ethical AI use?",
+    "example_ids": [
+      "PIAAC-7941",
+      "PIAAC-10533"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "db7cc736-84be-4480-b0df-c2a19cb382a3"
+  },
+  {
+    "id": "6a0b9243-d291-4318-9e50-faebb10074cb",
+    "name": "Targeted AI Training",
+    "prompt": "Does the text example recommend implementing targeted AI training programs for specific groups or purposes?",
+    "example_ids": [
+      "PIAAC-1632-5",
+      "PIAAC-6782"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "6a0b9243-d291-4318-9e50-faebb10074cb"
+  },
+  {
+    "id": "5163a8e7-065d-4529-a473-78b21698e770",
+    "name": "Community AI Engagement",
+    "prompt": "Does the text example focus on engaging communities through AI workshops or training?",
+    "example_ids": [
+      "PIAAC-5285",
+      "PIAAC-3453"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "5163a8e7-065d-4529-a473-78b21698e770"
+  },
+  {
+    "id": "df5c70fb-af1b-420a-8a54-97ed7e631a6a",
+    "name": "AI Risk and Ethics Resources",
+    "prompt": "Does the text example suggest providing resources or training on AI risks and ethics?",
+    "example_ids": [
+      "PIAAC-11081",
+      "PIAAC-6227"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI support for Canadian creator",
+    "field": "Suggestions",
+    "concept_id": "df5c70fb-af1b-420a-8a54-97ed7e631a6a"
+  }
+]

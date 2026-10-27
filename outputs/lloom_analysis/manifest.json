@@ -1,0 +1,290 @@
+{
+  "input": "/Users/diptodas/Library/Mobile Documents/com~apple~CloudDocs/Computer/Toronto/sidegig/HCDS_PIAAC/project/outputs/parsed_responses.xlsx",
+  "mode": "discover",
+  "sample_size": 250,
+  "max_concepts": 6,
+  "batch_size": 10,
+  "random_state": 42,
+  "analyses": [
+    {
+      "policy": "Consumer privacy reform",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Consumer privacy reform",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Online safety legislation",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "Online safety legislation",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI safety evaluation and certif",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI safety evaluation and certif",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Identifying AI systems and gene",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Identifying AI systems and gene",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 30,
+      "mode": "discover"
+    },
+    {
+      "policy": "Free introductory AI education",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Free introductory AI education",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI tools for postsecondary stud",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 17,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI tools for postsecondary stud",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI-related employment and train",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 12,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI-related employment and train",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Indigenous leadership in AI",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "Indigenous leadership in AI",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 36,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI support for Canadian creator",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI support for Canadian creator",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 23,
+      "mode": "discover"
+    },
+    {
+      "policy": "English and French in governmen",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 30,
+      "mode": "discover"
+    },
+    {
+      "policy": "English and French in governmen",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Accessibility and inclusion in ",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Accessibility and inclusion in ",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "Support for small-business AI a",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Support for small-business AI a",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 12,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI mission focused on healthcar",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI mission focused on healthcar",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "Health-data platforms for resea",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "Health-data platforms for resea",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI adoption in federal public s",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 6,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI adoption in federal public s",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 14,
+      "mode": "discover"
+    },
+    {
+      "policy": "Canadian-controlled AI infrastr",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "Canadian-controlled AI infrastr",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 30,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI research and talent recruitm",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "AI research and talent recruitm",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 30,
+      "mode": "discover"
+    },
+    {
+      "policy": "Financing and commercialization",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 12,
+      "mode": "discover"
+    },
+    {
+      "policy": "Financing and commercialization",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "International cooperation on so",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 24,
+      "mode": "discover"
+    },
+    {
+      "policy": "International cooperation on so",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 30,
+      "mode": "discover"
+    },
+    {
+      "policy": "Support for open-source AI",
+      "field": "Rationale",
+      "induction_documents": 250,
+      "concepts_generated": 18,
+      "mode": "discover"
+    },
+    {
+      "policy": "Support for open-source AI",
+      "field": "Suggestions",
+      "induction_documents": 250,
+      "concepts_generated": 29,
+      "mode": "discover"
+    }
+  ]
+}

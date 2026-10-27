@@ -1,0 +1,272 @@
+[
+  {
+    "id": "6310afb0-eec5-45ec-a539-0f7473ac2f1e",
+    "name": "Policy Effectiveness",
+    "prompt": "Does the text suggest that the policy is effective in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3422",
+      "PIAAC-5858-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "6310afb0-eec5-45ec-a539-0f7473ac2f1e"
+  },
+  {
+    "id": "3cc63f48-4c77-42a9-af1c-a47457265521",
+    "name": "Moderate Impact",
+    "prompt": "Does the text indicate a moderate impact on AI literacy improvement?",
+    "example_ids": [
+      "PIAAC-9586",
+      "PIAAC-8002-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "3cc63f48-4c77-42a9-af1c-a47457265521"
+  },
+  {
+    "id": "ffc01ac7-48e1-4845-81eb-40cadeae7c86",
+    "name": "Potential for Improvement",
+    "prompt": "Does the text highlight the potential to enhance AI literacy?",
+    "example_ids": [
+      "PIAAC-6815",
+      "PIAAC-1505"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "ffc01ac7-48e1-4845-81eb-40cadeae7c86"
+  },
+  {
+    "id": "07e67c8c-9691-451f-a7f3-b1199020edae",
+    "name": "Need for Training",
+    "prompt": "Does the text emphasize the need for training to improve AI literacy?",
+    "example_ids": [
+      "PIAAC-279",
+      "PIAAC-4281"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "07e67c8c-9691-451f-a7f3-b1199020edae"
+  },
+  {
+    "id": "4c9354b4-e575-4116-b761-793d38e37f39",
+    "name": "Geographical Focus",
+    "prompt": "Does the text mention a focus on improving AI literacy in a specific geographical area?",
+    "example_ids": [
+      "PIAAC-692",
+      "PIAAC-1050"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "4c9354b4-e575-4116-b761-793d38e37f39"
+  },
+  {
+    "id": "01afbd22-1180-4a32-9aeb-62bdb911b017",
+    "name": "Skepticism",
+    "prompt": "Does the text express doubt or skepticism about the effectiveness of improving AI literacy?",
+    "example_ids": [
+      "PIAAC-10013",
+      "PIAAC-7163"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "01afbd22-1180-4a32-9aeb-62bdb911b017"
+  },
+  {
+    "id": "6fa2afbd-c070-42a1-9b64-c500259d030c",
+    "name": "Data Accessibility",
+    "prompt": "Does the text example discuss how improving access to health datasets will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2511",
+      "PIAAC-10533"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "6fa2afbd-c070-42a1-9b64-c500259d030c"
+  },
+  {
+    "id": "34f0123a-aa1e-4096-8534-f3ad512373ca",
+    "name": "Standardization Benefits",
+    "prompt": "Does the text example mention the role of standardized datasets in improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9641",
+      "PIAAC-11301"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "34f0123a-aa1e-4096-8534-f3ad512373ca"
+  },
+  {
+    "id": "2a4e6b32-0860-4209-9fb0-2728d48a10b1",
+    "name": "Investment Impact",
+    "prompt": "Does the text example highlight how investment in health data spaces will improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8907-4",
+      "PIAAC-11301"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "2a4e6b32-0860-4209-9fb0-2728d48a10b1"
+  },
+  {
+    "id": "fa063d72-4616-4fd7-86fd-574fa7eee7d7",
+    "name": "Infrastructure Development",
+    "prompt": "Does the text example discuss how developing data infrastructure supports AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-4840",
+      "PIAAC-3017"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "fa063d72-4616-4fd7-86fd-574fa7eee7d7"
+  },
+  {
+    "id": "e8d0151b-d876-4e5a-8182-0eb633005309",
+    "name": "Privacy and Security",
+    "prompt": "Does the text example address how secure datasets contribute to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3067",
+      "PIAAC-540"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "e8d0151b-d876-4e5a-8182-0eb633005309"
+  },
+  {
+    "id": "f986f5b7-a63e-453f-a389-7f92a95ff524",
+    "name": "Research and Innovation",
+    "prompt": "Does the text example describe how fostering research and innovation through data access will enhance AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-6697",
+      "PIAAC-5635"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "f986f5b7-a63e-453f-a389-7f92a95ff524"
+  },
+  {
+    "id": "fc3fe08f-7427-4c00-a07f-b5e2adc3fd12",
+    "name": "Privacy Concerns",
+    "prompt": "Does the text mention concerns about privacy or data security as a barrier to AI adoption?",
+    "example_ids": [
+      "PIAAC-9873",
+      "PIAAC-855"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "fc3fe08f-7427-4c00-a07f-b5e2adc3fd12"
+  },
+  {
+    "id": "b59b616d-1568-4134-8082-cafc9d1261aa",
+    "name": "Need for Training",
+    "prompt": "Does the text highlight a lack of training or educational resources as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-5981",
+      "PIAAC-2867"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "b59b616d-1568-4134-8082-cafc9d1261aa"
+  },
+  {
+    "id": "135fa850-774e-4c39-a94a-335f8f21f463",
+    "name": "Trust Issues",
+    "prompt": "Does the text indicate that trust issues are a significant barrier to AI adoption?",
+    "example_ids": [
+      "PIAAC-2091",
+      "PIAAC-11320"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "135fa850-774e-4c39-a94a-335f8f21f463"
+  },
+  {
+    "id": "20b72e4a-b28c-4d6d-8353-e73d89db4c56",
+    "name": "Complexity Barriers",
+    "prompt": "Does the text describe the complexity of AI technologies as a barrier to adoption?",
+    "example_ids": [
+      "PIAAC-6082",
+      "PIAAC-118"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "20b72e4a-b28c-4d6d-8353-e73d89db4c56"
+  },
+  {
+    "id": "a8470021-7386-4c3b-9c23-aeff35e9b24f",
+    "name": "Need for Transparency",
+    "prompt": "Does the text emphasize the need for transparency in data usage or AI processes to improve adoption?",
+    "example_ids": [
+      "PIAAC-94",
+      "PIAAC-305-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "a8470021-7386-4c3b-9c23-aeff35e9b24f"
+  },
+  {
+    "id": "068c4863-6b4f-45ba-8347-a01a5ae66516",
+    "name": "Accessibility Issues",
+    "prompt": "Does the text mention accessibility issues as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-9619",
+      "PIAAC-7892-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "Health-data platforms for resea",
+    "field": "Rationale",
+    "concept_id": "068c4863-6b4f-45ba-8347-a01a5ae66516"
+  }
+]

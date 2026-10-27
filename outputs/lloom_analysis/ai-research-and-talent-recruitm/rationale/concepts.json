@@ -1,0 +1,362 @@
+[
+  {
+    "id": "4947c4cd-46fc-4f4d-bb14-821c2d7a30d1",
+    "name": "Barriers Unaddressed",
+    "prompt": "Does the text mention that barriers to AI adoption remain unaddressed or ignored?",
+    "example_ids": [
+      "PIAAC-7927",
+      "PIAAC-4809"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "4947c4cd-46fc-4f4d-bb14-821c2d7a30d1"
+  },
+  {
+    "id": "e2477b7f-b650-41a5-b80b-ab1076c36ba1",
+    "name": "Need for Practical Solutions",
+    "prompt": "Does the text highlight a gap between research and practical application or the need for practical frameworks?",
+    "example_ids": [
+      "PIAAC-1832",
+      "PIAAC-3304-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "e2477b7f-b650-41a5-b80b-ab1076c36ba1"
+  },
+  {
+    "id": "295f3960-7363-42da-be75-73ab01ce4b47",
+    "name": "Focus on High-Level Talent",
+    "prompt": "Does the text suggest that the policy focuses on attracting high-level talent but neglects broader community needs?",
+    "example_ids": [
+      "PIAAC-1742",
+      "PIAAC-10565"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "295f3960-7363-42da-be75-73ab01ce4b47"
+  },
+  {
+    "id": "dc931966-00db-467f-a9a8-6986c7523f03",
+    "name": "Limited Impact on Literacy",
+    "prompt": "Does the text indicate that increasing researchers or talent alone won't significantly improve AI literacy?",
+    "example_ids": [
+      "PIAAC-6091",
+      "PIAAC-10368"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "dc931966-00db-467f-a9a8-6986c7523f03"
+  },
+  {
+    "id": "f34625f2-f60b-43f4-9eab-2ae780d74bb0",
+    "name": "Ethical and Security Concerns",
+    "prompt": "Does the text mention ethical, security, or privacy concerns as barriers to AI adoption?",
+    "example_ids": [
+      "PIAAC-3708",
+      "PIAAC-6503"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "f34625f2-f60b-43f4-9eab-2ae780d74bb0"
+  },
+  {
+    "id": "5a14fe7c-eb37-4c72-a199-a95af1651776",
+    "name": "Need for Broader Accessibility",
+    "prompt": "Does the text emphasize the need for broader accessibility or support for diverse demographics in AI literacy?",
+    "example_ids": [
+      "PIAAC-7048",
+      "PIAAC-5631"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "5a14fe7c-eb37-4c72-a199-a95af1651776"
+  },
+  {
+    "id": "54dffa3f-66ac-406c-ad47-38546e1ace73",
+    "name": "Increased Researchers",
+    "prompt": "Does the text suggest that increasing the number of researchers will improve AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-9470",
+      "PIAAC-7571"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "54dffa3f-66ac-406c-ad47-38546e1ace73"
+  },
+  {
+    "id": "0bed6762-0e87-4383-a94d-63fc6d6b1d30",
+    "name": "Program Expansion",
+    "prompt": "Does the text indicate that expanding programs will enhance AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-7391-2",
+      "PIAAC-2951-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "0bed6762-0e87-4383-a94d-63fc6d6b1d30"
+  },
+  {
+    "id": "bba688d1-3268-4f11-b01b-afdcd6fe8c0e",
+    "name": "Attracting Talent",
+    "prompt": "Does the text mention attracting skilled workers or talent as a means to improve AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-44",
+      "PIAAC-2713-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "bba688d1-3268-4f11-b01b-afdcd6fe8c0e"
+  },
+  {
+    "id": "06caa373-cb16-4d2f-83ec-cf14ac2f23d5",
+    "name": "Diverse Expertise",
+    "prompt": "Does the text highlight the role of diverse expertise in enhancing AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-7960-2",
+      "PIAAC-6142"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "06caa373-cb16-4d2f-83ec-cf14ac2f23d5"
+  },
+  {
+    "id": "a4cd93d4-ffdd-4f59-a4b1-2068660ee56c",
+    "name": "Research Capacity",
+    "prompt": "Does the text suggest that enhancing research capacity will improve AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-5207",
+      "PIAAC-6016"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "a4cd93d4-ffdd-4f59-a4b1-2068660ee56c"
+  },
+  {
+    "id": "1a235d43-8c70-4d8f-aeea-8fdd2d811bc2",
+    "name": "Positive Policy Steps",
+    "prompt": "Does the text describe policy steps as positive for improving AI literacy or adoption?",
+    "example_ids": [
+      "PIAAC-1066-2",
+      "PIAAC-2521"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "1a235d43-8c70-4d8f-aeea-8fdd2d811bc2"
+  },
+  {
+    "id": "3a7477fa-6fb6-47fa-a18d-0190b066aeb6",
+    "name": "Resource Limitations",
+    "prompt": "Does the text mention resource limitations as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-785",
+      "PIAAC-4424"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "3a7477fa-6fb6-47fa-a18d-0190b066aeb6"
+  },
+  {
+    "id": "91faeb1d-087c-4a35-aa10-bf5c18d9d041",
+    "name": "Complexity Challenges",
+    "prompt": "Does the text highlight the complexity of AI as a challenge to its adoption?",
+    "example_ids": [
+      "PIAAC-351",
+      "PIAAC-7023"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "91faeb1d-087c-4a35-aa10-bf5c18d9d041"
+  },
+  {
+    "id": "0c9a917b-2cee-45ec-b805-5c2637ef12eb",
+    "name": "Integration Barriers",
+    "prompt": "Does the text discuss barriers related to integrating AI into existing systems?",
+    "example_ids": [
+      "PIAAC-2817",
+      "PIAAC-3235"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "0c9a917b-2cee-45ec-b805-5c2637ef12eb"
+  },
+  {
+    "id": "a1a0cb96-80ab-4844-90a3-e9ebe40da19f",
+    "name": "Understanding and Misunderstanding",
+    "prompt": "Does the text mention understanding or misunderstanding of AI as a barrier?",
+    "example_ids": [
+      "PIAAC-148-3",
+      "PIAAC-6995"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "a1a0cb96-80ab-4844-90a3-e9ebe40da19f"
+  },
+  {
+    "id": "1f5e1dcf-0354-415d-9c37-f92a46001929",
+    "name": "Support and Infrastructure",
+    "prompt": "Does the text refer to a lack of support or infrastructure as a hindrance to AI adoption?",
+    "example_ids": [
+      "PIAAC-9535",
+      "PIAAC-2118"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "1f5e1dcf-0354-415d-9c37-f92a46001929"
+  },
+  {
+    "id": "12cdeba4-e55d-4c0e-89f9-5701ff5d93cf",
+    "name": "Policy and Regulation",
+    "prompt": "Does the text indicate that policy or regulatory issues limit AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10116",
+      "PIAAC-1360-3"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "12cdeba4-e55d-4c0e-89f9-5701ff5d93cf"
+  },
+  {
+    "id": "a87a87fd-09f6-42fd-84d3-4e15f6207c99",
+    "name": "Lack of Training",
+    "prompt": "Does the text example highlight a lack of training opportunities as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-3748",
+      "PIAAC-1066-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "a87a87fd-09f6-42fd-84d3-4e15f6207c99"
+  },
+  {
+    "id": "9e2ccd25-c65b-4778-b242-709b2530cd78",
+    "name": "Need for Support",
+    "prompt": "Does the text example emphasize the need for support structures to improve AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1393",
+      "PIAAC-904"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "9e2ccd25-c65b-4778-b242-709b2530cd78"
+  },
+  {
+    "id": "e1c0fa05-94ba-4965-bf30-821d03b86e5d",
+    "name": "Accessibility Issues",
+    "prompt": "Does the text example mention accessibility issues as a reason for hindering AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-10137-3",
+      "PIAAC-8278"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "e1c0fa05-94ba-4965-bf30-821d03b86e5d"
+  },
+  {
+    "id": "4f89291c-1103-4c98-b8db-30bd78873de6",
+    "name": "Targeted Education",
+    "prompt": "Does the text example suggest that targeted education programs are necessary for improving AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-1106",
+      "PIAAC-9484"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "4f89291c-1103-4c98-b8db-30bd78873de6"
+  },
+  {
+    "id": "dedb6690-464f-41bd-b245-9665f07ef39f",
+    "name": "Resource Limitations",
+    "prompt": "Does the text example point out resource limitations as a challenge to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-8280",
+      "PIAAC-9088"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "dedb6690-464f-41bd-b245-9665f07ef39f"
+  },
+  {
+    "id": "aab742eb-462d-4af0-b76d-89a9fb2ce27f",
+    "name": "Integration Challenges",
+    "prompt": "Does the text example discuss integration challenges as a barrier to AI literacy and adoption?",
+    "example_ids": [
+      "PIAAC-2950",
+      "PIAAC-10138-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "reasons the respondent believes the policy will or will not improve AI literacy and adoption",
+    "policy": "AI research and talent recruitm",
+    "field": "Rationale",
+    "concept_id": "aab742eb-462d-4af0-b76d-89a9fb2ce27f"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "6b10b551-8357-4717-ba9f-86f19235f3ca",
+    "name": "Community Workshops",
+    "prompt": "Does the text example suggest organizing workshops or programs for community education?",
+    "example_ids": [
+      "PIAAC-7692",
+      "PIAAC-10081"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "6b10b551-8357-4717-ba9f-86f19235f3ca"
+  },
+  {
+    "id": "6b97aac9-11e9-4215-81ad-9bf81bf85fff",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing resources in multiple languages for better accessibility?",
+    "example_ids": [
+      "PIAAC-9741",
+      "PIAAC-9298"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "6b97aac9-11e9-4215-81ad-9bf81bf85fff"
+  },
+  {
+    "id": "654a2cb2-36c2-4c4c-a946-2793e067fc60",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example propose implementing AI literacy programs within communities?",
+    "example_ids": [
+      "PIAAC-9088",
+      "PIAAC-4726-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "654a2cb2-36c2-4c4c-a946-2793e067fc60"
+  },
+  {
+    "id": "dde3484a-7c9b-4290-b828-ccdacc12faae",
+    "name": "Local Organization Collaboration",
+    "prompt": "Does the text example involve partnering with local organizations for outreach or support?",
+    "example_ids": [
+      "PIAAC-8391",
+      "PIAAC-11268-6"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "dde3484a-7c9b-4290-b828-ccdacc12faae"
+  },
+  {
+    "id": "c11b6230-84c6-439c-ae4d-f50d7058f437",
+    "name": "Online Educational Platforms",
+    "prompt": "Does the text example suggest creating or enhancing online platforms for educational resources?",
+    "example_ids": [
+      "PIAAC-7829",
+      "PIAAC-7130"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "c11b6230-84c6-439c-ae4d-f50d7058f437"
+  },
+  {
+    "id": "335900ae-ce6a-4751-b5bc-8f6cac440e99",
+    "name": "Support Networks",
+    "prompt": "Does the text example recommend establishing support networks or systems for shared experiences or reporting?",
+    "example_ids": [
+      "PIAAC-162-2",
+      "PIAAC-9256"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "335900ae-ce6a-4751-b5bc-8f6cac440e99"
+  },
+  {
+    "id": "52fc32c4-a10e-4aeb-9e85-8fb38f2f7d34",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text recommend implementing AI literacy programs for various groups or demographics?",
+    "example_ids": [
+      "PIAAC-7619",
+      "PIAAC-6685-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "52fc32c4-a10e-4aeb-9e85-8fb38f2f7d34"
+  },
+  {
+    "id": "c44f2a30-8ad7-4fa8-8fd1-9f7732338f25",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text suggest launching public awareness campaigns to enhance understanding of AI?",
+    "example_ids": [
+      "PIAAC-9182-3",
+      "PIAAC-2102"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "c44f2a30-8ad7-4fa8-8fd1-9f7732338f25"
+  },
+  {
+    "id": "22cf4417-7f32-4a61-b79e-11dc4006c651",
+    "name": "Targeted Education Initiatives",
+    "prompt": "Does the text propose targeted educational initiatives to improve AI literacy for specific communities or age groups?",
+    "example_ids": [
+      "PIAAC-6170",
+      "PIAAC-545"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "22cf4417-7f32-4a61-b79e-11dc4006c651"
+  },
+  {
+    "id": "12d5ae3e-0959-48e7-8c22-fc91af9c40b6",
+    "name": "Integration into Policy",
+    "prompt": "Does the text recommend integrating AI literacy education into existing policies or regulations?",
+    "example_ids": [
+      "PIAAC-8008",
+      "PIAAC-11361"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "12d5ae3e-0959-48e7-8c22-fc91af9c40b6"
+  },
+  {
+    "id": "3ed6d923-614b-4cd8-84e1-4f57bf0120e2",
+    "name": "Digital Literacy Enhancement",
+    "prompt": "Does the text advocate for enhancing digital literacy alongside AI education?",
+    "example_ids": [
+      "PIAAC-8619-2",
+      "PIAAC-10440"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "3ed6d923-614b-4cd8-84e1-4f57bf0120e2"
+  },
+  {
+    "id": "0a5df6de-742f-44da-b803-c3cf7ad48ce8",
+    "name": "Employer-led Training",
+    "prompt": "Does the text support employer-led initiatives for AI training?",
+    "example_ids": [
+      "PIAAC-1860-2",
+      "PIAAC-1572"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "0a5df6de-742f-44da-b803-c3cf7ad48ce8"
+  },
+  {
+    "id": "438208f3-66e7-4615-a32e-ffd7f09c555e",
+    "name": "Guidelines Establishment",
+    "prompt": "Does the text example propose establishing guidelines or frameworks for AI use or adoption?",
+    "example_ids": [
+      "PIAAC-3332",
+      "PIAAC-3916"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "438208f3-66e7-4615-a32e-ffd7f09c555e"
+  },
+  {
+    "id": "e579957f-6450-4978-b77c-b89af8736c36",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest implementing feedback mechanisms for AI-related policies or practices?",
+    "example_ids": [
+      "PIAAC-6228",
+      "PIAAC-10250"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "e579957f-6450-4978-b77c-b89af8736c36"
+  },
+  {
+    "id": "6093b3e4-f1b3-45cb-99fd-398026dab285",
+    "name": "Community Support",
+    "prompt": "Does the text example recommend creating community support networks or platforms for AI engagement?",
+    "example_ids": [
+      "PIAAC-8338",
+      "PIAAC-2111"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "6093b3e4-f1b3-45cb-99fd-398026dab285"
+  },
+  {
+    "id": "d9347936-a3c4-4738-8562-bdce8f108e88",
+    "name": "Incentives for Adoption",
+    "prompt": "Does the text example propose providing incentives for businesses or individuals to adopt AI technologies?",
+    "example_ids": [
+      "PIAAC-7391-2",
+      "PIAAC-245"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "d9347936-a3c4-4738-8562-bdce8f108e88"
+  },
+  {
+    "id": "54e0ada7-20d7-4ab5-a792-1af56e7d5aeb",
+    "name": "Partnerships and Collaboration",
+    "prompt": "Does the text example advocate for creating partnerships or collaborative platforms for AI development or understanding?",
+    "example_ids": [
+      "PIAAC-3834",
+      "PIAAC-3325-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "54e0ada7-20d7-4ab5-a792-1af56e7d5aeb"
+  },
+  {
+    "id": "b9bdab6a-c4dd-4fed-af42-30d84c6a70d2",
+    "name": "Ethics and Safety Training",
+    "prompt": "Does the text example emphasize the importance of ethics and safety training in AI adoption?",
+    "example_ids": [
+      "PIAAC-7655",
+      "PIAAC-7213"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "b9bdab6a-c4dd-4fed-af42-30d84c6a70d2"
+  },
+  {
+    "id": "545af7d7-d561-4a87-84fa-9afc983cb084",
+    "name": "Community-Based Programs",
+    "prompt": "Does the text example suggest implementing or investing in community-based digital literacy programs?",
+    "example_ids": [
+      "PIAAC-11572-2",
+      "PIAAC-9298"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "545af7d7-d561-4a87-84fa-9afc983cb084"
+  },
+  {
+    "id": "4076dd0d-98ab-4e64-b9ff-7d13877c71e9",
+    "name": "Digital Literacy Initiatives",
+    "prompt": "Does the text example propose implementing digital literacy educational initiatives or programs?",
+    "example_ids": [
+      "PIAAC-11171",
+      "PIAAC-9461"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "4076dd0d-98ab-4e64-b9ff-7d13877c71e9"
+  },
+  {
+    "id": "4d3787eb-3e83-4bcf-aa81-0bbc89d37153",
+    "name": "Workforce and Adult Training",
+    "prompt": "Does the text example focus on enhancing digital skills or literacy for workforce adults or specific adult groups?",
+    "example_ids": [
+      "PIAAC-8653",
+      "PIAAC-10898"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "4d3787eb-3e83-4bcf-aa81-0bbc89d37153"
+  },
+  {
+    "id": "647f186f-9261-4e9e-b169-ce3ebce06f6c",
+    "name": "Workshops and Training",
+    "prompt": "Does the text example recommend offering workshops or training programs to improve digital literacy?",
+    "example_ids": [
+      "PIAAC-8195",
+      "PIAAC-471"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "647f186f-9261-4e9e-b169-ce3ebce06f6c"
+  },
+  {
+    "id": "6dd6fa39-b4fd-4700-b414-297a0f9b2374",
+    "name": "Targeted Demographic Programs",
+    "prompt": "Does the text example suggest implementing programs targeted at specific demographics, such as older adults or underserved communities?",
+    "example_ids": [
+      "PIAAC-8280",
+      "PIAAC-9626"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "6dd6fa39-b4fd-4700-b414-297a0f9b2374"
+  },
+  {
+    "id": "815b34b6-5c6e-450b-afb6-510e360ec62f",
+    "name": "Policy and Access Enhancement",
+    "prompt": "Does the text example emphasize enhancing policy or access to digital skills and literacy?",
+    "example_ids": [
+      "PIAAC-1243",
+      "PIAAC-11335-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Online safety legislation",
+    "field": "Suggestions",
+    "concept_id": "815b34b6-5c6e-450b-afb6-510e360ec62f"
+  }
+]

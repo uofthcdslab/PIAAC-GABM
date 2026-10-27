@@ -1,0 +1,362 @@
+[
+  {
+    "id": "eceaabfa-3d4e-452a-8e2d-0761f9b0f7e0",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example suggest launching or implementing public awareness campaigns related to certification?",
+    "example_ids": [
+      "PIAAC-6922",
+      "PIAAC-2086"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "eceaabfa-3d4e-452a-8e2d-0761f9b0f7e0"
+  },
+  {
+    "id": "56688e35-bfc9-45b5-9bf6-49c0148a3ac2",
+    "name": "User-Friendly Resources",
+    "prompt": "Does the text example recommend creating user-friendly resources or materials for better understanding of certification?",
+    "example_ids": [
+      "PIAAC-2118",
+      "PIAAC-7647"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "56688e35-bfc9-45b5-9bf6-49c0148a3ac2"
+  },
+  {
+    "id": "e47c9f42-a7b3-4115-b0e4-95de42f4acdd",
+    "name": "Educational Initiatives",
+    "prompt": "Does the text example propose integrating educational initiatives or components with certification programs?",
+    "example_ids": [
+      "PIAAC-6325",
+      "PIAAC-10997"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "e47c9f42-a7b3-4115-b0e4-95de42f4acdd"
+  },
+  {
+    "id": "fd913aa1-80eb-44c7-96ce-82afdc534260",
+    "name": "Partnerships with Organizations",
+    "prompt": "Does the text example suggest forming partnerships with local organizations or institutions for outreach or support?",
+    "example_ids": [
+      "PIAAC-4315",
+      "PIAAC-6895"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "fd913aa1-80eb-44c7-96ce-82afdc534260"
+  },
+  {
+    "id": "b359bf73-1238-401a-9f85-fcc6c11f1c3c",
+    "name": "User Feedback Mechanisms",
+    "prompt": "Does the text example recommend establishing user feedback mechanisms for AI products or certification processes?",
+    "example_ids": [
+      "PIAAC-6557",
+      "PIAAC-6041"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "b359bf73-1238-401a-9f85-fcc6c11f1c3c"
+  },
+  {
+    "id": "736cacea-4046-45ea-9ea4-d1e35bf5e0d5",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example advocate for providing resources or information in multiple languages for accessibility?",
+    "example_ids": [
+      "PIAAC-6125",
+      "PIAAC-3409"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "736cacea-4046-45ea-9ea4-d1e35bf5e0d5"
+  },
+  {
+    "id": "0cba21e7-c822-4f87-8c20-4c98fc06e146",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example propose implementing educational programs to enhance AI literacy?",
+    "example_ids": [
+      "PIAAC-2992",
+      "PIAAC-3017"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "0cba21e7-c822-4f87-8c20-4c98fc06e146"
+  },
+  {
+    "id": "b3b72b09-ec9e-48a8-97c0-fccbdbb28221",
+    "name": "Community Outreach",
+    "prompt": "Does the text example suggest implementing community outreach initiatives for AI education?",
+    "example_ids": [
+      "PIAAC-6222",
+      "PIAAC-2118"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "b3b72b09-ec9e-48a8-97c0-fccbdbb28221"
+  },
+  {
+    "id": "646a73b4-4683-450d-a9b0-a3964def0e0f",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example recommend launching public awareness campaigns about AI?",
+    "example_ids": [
+      "PIAAC-3099",
+      "PIAAC-11516-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "646a73b4-4683-450d-a9b0-a3964def0e0f"
+  },
+  {
+    "id": "3e28a3f0-cf05-4e5f-ae91-fd515237c601",
+    "name": "Workshops and Training",
+    "prompt": "Does the text example involve organizing workshops or training sessions related to AI?",
+    "example_ids": [
+      "PIAAC-2072",
+      "PIAAC-2414-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "3e28a3f0-cf05-4e5f-ae91-fd515237c601"
+  },
+  {
+    "id": "b728c27c-6262-46ee-89d6-50b0250b72bf",
+    "name": "Online Platforms",
+    "prompt": "Does the text example propose creating online platforms for AI resources or education?",
+    "example_ids": [
+      "PIAAC-9543-2",
+      "PIAAC-1066"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "b728c27c-6262-46ee-89d6-50b0250b72bf"
+  },
+  {
+    "id": "6549ed81-92b6-4c9f-a091-e2809d6aa44d",
+    "name": "Support Networks",
+    "prompt": "Does the text example suggest establishing support networks or systems for AI users?",
+    "example_ids": [
+      "PIAAC-11167",
+      "PIAAC-6295"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "6549ed81-92b6-4c9f-a091-e2809d6aa44d"
+  },
+  {
+    "id": "ff369f8c-3c58-4614-8566-94ea6e29545b",
+    "name": "User Feedback Mechanisms",
+    "prompt": "Does the text example suggest establishing or enhancing mechanisms for user feedback?",
+    "example_ids": [
+      "PIAAC-6325",
+      "PIAAC-11525-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "ff369f8c-3c58-4614-8566-94ea6e29545b"
+  },
+  {
+    "id": "0b5991e0-e8c1-4c92-a83c-aa5b222dd8ea",
+    "name": "Certification Process Clarity",
+    "prompt": "Does the text example propose creating or improving clear guidelines for the certification process?",
+    "example_ids": [
+      "PIAAC-2833-2",
+      "PIAAC-9450"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "0b5991e0-e8c1-4c92-a83c-aa5b222dd8ea"
+  },
+  {
+    "id": "1b3a8ebe-ee5d-4197-b744-85d8d4ea8cf7",
+    "name": "Stakeholder Engagement",
+    "prompt": "Does the text example emphasize involving diverse stakeholders in the development or refinement of policies?",
+    "example_ids": [
+      "PIAAC-1786",
+      "PIAAC-2665"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "1b3a8ebe-ee5d-4197-b744-85d8d4ea8cf7"
+  },
+  {
+    "id": "a8ab2fcf-e78f-4d13-91f0-72fdff9ad2a9",
+    "name": "Transparency and Accessibility",
+    "prompt": "Does the text example focus on making the certification process more transparent and accessible?",
+    "example_ids": [
+      "PIAAC-10214",
+      "PIAAC-2201"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "a8ab2fcf-e78f-4d13-91f0-72fdff9ad2a9"
+  },
+  {
+    "id": "1966b905-010d-42b8-aff8-eb52df83a4e4",
+    "name": "Ongoing Assessments",
+    "prompt": "Does the text example recommend regular assessments or evaluations to ensure continuous improvement?",
+    "example_ids": [
+      "PIAAC-5166",
+      "PIAAC-4394"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "1966b905-010d-42b8-aff8-eb52df83a4e4"
+  },
+  {
+    "id": "b0be3c8e-ac53-439c-a55e-8c6fc4cf0fea",
+    "name": "Workshops and Education",
+    "prompt": "Does the text example suggest offering workshops or educational resources to improve understanding of the certification process?",
+    "example_ids": [
+      "PIAAC-3315",
+      "PIAAC-9427"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "b0be3c8e-ac53-439c-a55e-8c6fc4cf0fea"
+  },
+  {
+    "id": "5bc877b7-a92b-4e5e-b082-ad3b1f329351",
+    "name": "Community Workshops",
+    "prompt": "Does the text example suggest implementing workshops or training sessions for community engagement or education?",
+    "example_ids": [
+      "PIAAC-4375-2",
+      "PIAAC-9234"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "5bc877b7-a92b-4e5e-b082-ad3b1f329351"
+  },
+  {
+    "id": "b85ba6cc-d152-45d9-b147-9528cbd1f26a",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example recommend providing resources or workshops in multiple languages to cater to diverse populations?",
+    "example_ids": [
+      "PIAAC-9012-2",
+      "PIAAC-2711"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "b85ba6cc-d152-45d9-b147-9528cbd1f26a"
+  },
+  {
+    "id": "0845e352-0004-45bd-9ba5-b51c792b1afc",
+    "name": "Targeted Outreach",
+    "prompt": "Does the text example propose targeted outreach efforts for specific demographics or underrepresented groups?",
+    "example_ids": [
+      "PIAAC-5166",
+      "PIAAC-7387"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "0845e352-0004-45bd-9ba5-b51c792b1afc"
+  },
+  {
+    "id": "a1713726-faf8-4b71-bd13-a7a6d284589d",
+    "name": "Digital Literacy",
+    "prompt": "Does the text example focus on improving digital literacy through educational programs or resources?",
+    "example_ids": [
+      "PIAAC-11516-2",
+      "PIAAC-6815"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "a1713726-faf8-4b71-bd13-a7a6d284589d"
+  },
+  {
+    "id": "91498305-cf37-4ea3-8389-9082d663dd2f",
+    "name": "Public Awareness Campaigns",
+    "prompt": "Does the text example suggest launching public awareness campaigns to enhance education or understanding?",
+    "example_ids": [
+      "PIAAC-9944",
+      "PIAAC-9450"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "91498305-cf37-4ea3-8389-9082d663dd2f"
+  },
+  {
+    "id": "2f655c4b-5930-426f-8331-01d74256022f",
+    "name": "Accessible Resources",
+    "prompt": "Does the text example emphasize creating accessible resources or partnerships to improve public understanding?",
+    "example_ids": [
+      "PIAAC-6002",
+      "PIAAC-3784"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "AI safety evaluation and certif",
+    "field": "Suggestions",
+    "concept_id": "2f655c4b-5930-426f-8331-01d74256022f"
+  }
+]

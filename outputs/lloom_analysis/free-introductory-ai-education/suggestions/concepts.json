@@ -1,0 +1,362 @@
+[
+  {
+    "id": "bbe0358d-9db7-4725-83ec-970cbd866f06",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example suggest providing resources or materials in multiple languages for inclusivity or accessibility?",
+    "example_ids": [
+      "PIAAC-10146",
+      "PIAAC-983"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "bbe0358d-9db7-4725-83ec-970cbd866f06"
+  },
+  {
+    "id": "b7a47259-c3e7-4350-8e45-613b9e0b4697",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example recommend establishing feedback mechanisms or loops for program or curriculum improvement?",
+    "example_ids": [
+      "PIAAC-5790",
+      "PIAAC-3814-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "b7a47259-c3e7-4350-8e45-613b9e0b4697"
+  },
+  {
+    "id": "0b0d2ccf-5992-485e-a979-b3e94256a8b6",
+    "name": "Targeted Outreach",
+    "prompt": "Does the text example propose implementing targeted outreach programs for specific communities or sectors?",
+    "example_ids": [
+      "PIAAC-6935",
+      "PIAAC-1049"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "0b0d2ccf-5992-485e-a979-b3e94256a8b6"
+  },
+  {
+    "id": "bd5fec8c-eb77-4c7f-adaf-b55c7cf7a6b9",
+    "name": "Case Studies",
+    "prompt": "Does the text example suggest incorporating case studies for practical insights or relevance?",
+    "example_ids": [
+      "PIAAC-9641",
+      "PIAAC-6580"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "bd5fec8c-eb77-4c7f-adaf-b55c7cf7a6b9"
+  },
+  {
+    "id": "023e54a3-6178-4acd-ba2f-aa8d24b3134a",
+    "name": "Community Engagement",
+    "prompt": "Does the text example emphasize engaging communities in curriculum development or program design?",
+    "example_ids": [
+      "PIAAC-9256",
+      "PIAAC-5599"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "023e54a3-6178-4acd-ba2f-aa8d24b3134a"
+  },
+  {
+    "id": "82d95fe0-4496-47e4-a8b3-39c9b336c217",
+    "name": "Culturally Relevant Content",
+    "prompt": "Does the text example recommend providing culturally relevant educational content or resources?",
+    "example_ids": [
+      "PIAAC-1935-2",
+      "PIAAC-4397"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "82d95fe0-4496-47e4-a8b3-39c9b336c217"
+  },
+  {
+    "id": "0f6d56bb-dd10-41a9-bb7c-de8d03dac8e9",
+    "name": "Hands-on AI Workshops",
+    "prompt": "Does the text example suggest implementing hands-on AI workshops for participants or communities?",
+    "example_ids": [
+      "PIAAC-7968",
+      "PIAAC-7001"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "0f6d56bb-dd10-41a9-bb7c-de8d03dac8e9"
+  },
+  {
+    "id": "24195f02-18ea-4d61-97ab-cba12078f5b3",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example propose establishing mentorship programs for AI learners or users?",
+    "example_ids": [
+      "PIAAC-5503",
+      "PIAAC-6276"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "24195f02-18ea-4d61-97ab-cba12078f5b3"
+  },
+  {
+    "id": "20116565-cf47-43a3-9850-d70d1fd34d8b",
+    "name": "AI Ethics and Privacy",
+    "prompt": "Does the text example address the need for guidelines or discussions on AI ethics, privacy, or bias?",
+    "example_ids": [
+      "PIAAC-10459-2",
+      "PIAAC-7683"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "20116565-cf47-43a3-9850-d70d1fd34d8b"
+  },
+  {
+    "id": "15d2ef6b-c121-4ca0-b114-3b1722c8ca79",
+    "name": "Community Engagement",
+    "prompt": "Does the text example emphasize engaging communities or local organizations in AI discussions or programs?",
+    "example_ids": [
+      "PIAAC-10400",
+      "PIAAC-1935-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "15d2ef6b-c121-4ca0-b114-3b1722c8ca79"
+  },
+  {
+    "id": "0494d44d-8c09-417f-bfe7-29c22d8291cb",
+    "name": "AI Risk Awareness",
+    "prompt": "Does the text example focus on raising awareness or providing resources about AI-related risks and challenges?",
+    "example_ids": [
+      "PIAAC-2072",
+      "PIAAC-172"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "0494d44d-8c09-417f-bfe7-29c22d8291cb"
+  },
+  {
+    "id": "6b303e39-5c44-4868-a135-509e6b7cd00a",
+    "name": "Case Studies and Applications",
+    "prompt": "Does the text example include the use of real-world AI case studies or applications in training?",
+    "example_ids": [
+      "PIAAC-9227",
+      "PIAAC-5599"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "6b303e39-5c44-4868-a135-509e6b7cd00a"
+  },
+  {
+    "id": "f29c8757-37af-4c3c-8506-e3eec9da1a6b",
+    "name": "Hands-On Workshops",
+    "prompt": "Does the text example suggest implementing hands-on workshops as a method for engagement or learning?",
+    "example_ids": [
+      "PIAAC-10556",
+      "PIAAC-5825"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "f29c8757-37af-4c3c-8506-e3eec9da1a6b"
+  },
+  {
+    "id": "bf26d3c4-bc9f-4400-874f-500d7124d9b2",
+    "name": "Community Engagement",
+    "prompt": "Does the text example propose organizing workshops or activities specifically aimed at engaging the community?",
+    "example_ids": [
+      "PIAAC-10865",
+      "PIAAC-7066"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "bf26d3c4-bc9f-4400-874f-500d7124d9b2"
+  },
+  {
+    "id": "ab9a4309-8e10-4417-ad2b-241fc9bc38d1",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example recommend incorporating mentorship programs alongside workshops?",
+    "example_ids": [
+      "PIAAC-4227",
+      "PIAAC-10503"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "ab9a4309-8e10-4417-ad2b-241fc9bc38d1"
+  },
+  {
+    "id": "b27ae378-b5a6-41c0-9853-579cc70c2268",
+    "name": "Tailored Workshops",
+    "prompt": "Does the text example suggest offering workshops that are tailored to specific groups or needs?",
+    "example_ids": [
+      "PIAAC-11640",
+      "PIAAC-7111-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "b27ae378-b5a6-41c0-9853-579cc70c2268"
+  },
+  {
+    "id": "23650c7d-d0ec-4fa9-b7c0-8b07a6feaa93",
+    "name": "Interactive Learning",
+    "prompt": "Does the text example emphasize the use of interactive or experiential learning methods in workshops?",
+    "example_ids": [
+      "PIAAC-9114",
+      "PIAAC-4718"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "23650c7d-d0ec-4fa9-b7c0-8b07a6feaa93"
+  },
+  {
+    "id": "78dca9af-96c4-4923-b57d-c02aaa5942f8",
+    "name": "Local Collaboration",
+    "prompt": "Does the text example highlight collaboration with local organizations or experts in conducting workshops?",
+    "example_ids": [
+      "PIAAC-11526",
+      "PIAAC-167-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "78dca9af-96c4-4923-b57d-c02aaa5942f8"
+  },
+  {
+    "id": "a404ebc8-f47d-4ca0-9c62-a99361f7b161",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest implementing or enhancing mentorship programs?",
+    "example_ids": [
+      "PIAAC-9396",
+      "PIAAC-10467-3"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "a404ebc8-f47d-4ca0-9c62-a99361f7b161"
+  },
+  {
+    "id": "e7814bcd-975a-415c-8499-f684eac3904f",
+    "name": "Community Partnerships",
+    "prompt": "Does the text example recommend establishing or utilizing partnerships with local community organizations?",
+    "example_ids": [
+      "PIAAC-7962",
+      "PIAAC-1784"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "e7814bcd-975a-415c-8499-f684eac3904f"
+  },
+  {
+    "id": "3109be2d-9fc9-4020-a18c-c386d44d667d",
+    "name": "Ongoing Support",
+    "prompt": "Does the text example propose providing ongoing support or resources for learners?",
+    "example_ids": [
+      "PIAAC-8447-2",
+      "PIAAC-5203-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "3109be2d-9fc9-4020-a18c-c386d44d667d"
+  },
+  {
+    "id": "587bd600-6ccf-410d-b754-ec88d0e5e70c",
+    "name": "Digital Resources",
+    "prompt": "Does the text example involve developing or providing digital resources for learning?",
+    "example_ids": [
+      "PIAAC-10463",
+      "PIAAC-6416"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "587bd600-6ccf-410d-b754-ec88d0e5e70c"
+  },
+  {
+    "id": "1b382d35-1293-4fae-9119-562ea1542955",
+    "name": "Tailored Training",
+    "prompt": "Does the text example suggest implementing tailored training programs for specific needs or groups?",
+    "example_ids": [
+      "PIAAC-6944",
+      "PIAAC-2185"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "1b382d35-1293-4fae-9119-562ea1542955"
+  },
+  {
+    "id": "d73f69cd-81ec-43eb-8f57-2f105495e344",
+    "name": "Local Business Collaboration",
+    "prompt": "Does the text example recommend collaborating with local businesses for educational purposes?",
+    "example_ids": [
+      "PIAAC-2065",
+      "PIAAC-6772-2"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Free introductory AI education",
+    "field": "Suggestions",
+    "concept_id": "d73f69cd-81ec-43eb-8f57-2f105495e344"
+  }
+]

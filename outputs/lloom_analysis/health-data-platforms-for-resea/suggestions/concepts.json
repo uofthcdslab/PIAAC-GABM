@@ -1,0 +1,362 @@
+[
+  {
+    "id": "4bd53c03-b8fb-4ecd-a334-bd328c5467f9",
+    "name": "AI Literacy Training",
+    "prompt": "Does the text example propose implementing AI literacy training programs for any group?",
+    "example_ids": [
+      "PIAAC-1409",
+      "PIAAC-7811-2"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "4bd53c03-b8fb-4ecd-a334-bd328c5467f9"
+  },
+  {
+    "id": "8c8df323-89a8-4526-883a-c4352eb7d5ec",
+    "name": "Mentorship Programs",
+    "prompt": "Does the text example suggest establishing mentorship programs for AI or technology guidance?",
+    "example_ids": [
+      "PIAAC-7816",
+      "PIAAC-4282"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "8c8df323-89a8-4526-883a-c4352eb7d5ec"
+  },
+  {
+    "id": "26e9c34d-2197-4dc3-8fcd-3fde08c97dbf",
+    "name": "Healthcare AI Training",
+    "prompt": "Does the text example recommend implementing AI training specifically for healthcare professionals?",
+    "example_ids": [
+      "PIAAC-9873",
+      "PIAAC-9641"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "26e9c34d-2197-4dc3-8fcd-3fde08c97dbf"
+  },
+  {
+    "id": "62fd40f6-c8c4-4a19-8062-0e86b09ff65b",
+    "name": "Community Engagement",
+    "prompt": "Does the text example emphasize community engagement or outreach programs related to AI?",
+    "example_ids": [
+      "PIAAC-2388-2",
+      "PIAAC-540"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "62fd40f6-c8c4-4a19-8062-0e86b09ff65b"
+  },
+  {
+    "id": "680d3def-579b-4632-bbf3-50f341aec1da",
+    "name": "Ethical AI Guidelines",
+    "prompt": "Does the text example propose establishing guidelines or oversight for ethical AI use?",
+    "example_ids": [
+      "PIAAC-4840",
+      "PIAAC-3358"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "680d3def-579b-4632-bbf3-50f341aec1da"
+  },
+  {
+    "id": "ed775e97-376f-481d-be8d-a288ededa567",
+    "name": "Partnerships for AI",
+    "prompt": "Does the text example suggest fostering partnerships between different sectors for AI initiatives?",
+    "example_ids": [
+      "PIAAC-7873",
+      "PIAAC-5484"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "ed775e97-376f-481d-be8d-a288ededa567"
+  },
+  {
+    "id": "570332ae-6ce6-497a-b504-0dc58d68cf00",
+    "name": "Feedback Mechanisms",
+    "prompt": "Does the text example suggest establishing or improving feedback mechanisms for stakeholders or the public?",
+    "example_ids": [
+      "PIAAC-2514",
+      "PIAAC-11361"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "570332ae-6ce6-497a-b504-0dc58d68cf00"
+  },
+  {
+    "id": "ebf15e4b-b732-4c7e-90c2-9d4728826ddf",
+    "name": "Transparency Enhancement",
+    "prompt": "Does the text example propose measures to enhance transparency in data usage or governance?",
+    "example_ids": [
+      "PIAAC-2333",
+      "PIAAC-4138"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "ebf15e4b-b732-4c7e-90c2-9d4728826ddf"
+  },
+  {
+    "id": "062c7bdd-e4d1-40c2-a108-36c9e451824c",
+    "name": "Public Engagement",
+    "prompt": "Does the text example recommend strategies for increasing public engagement or awareness?",
+    "example_ids": [
+      "PIAAC-9344",
+      "PIAAC-2503"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "062c7bdd-e4d1-40c2-a108-36c9e451824c"
+  },
+  {
+    "id": "d31460b3-c4be-457e-8e04-c5ce2db66742",
+    "name": "Data Security Guidelines",
+    "prompt": "Does the text example involve establishing or clarifying guidelines for data security or privacy?",
+    "example_ids": [
+      "PIAAC-1049",
+      "PIAAC-11335"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "d31460b3-c4be-457e-8e04-c5ce2db66742"
+  },
+  {
+    "id": "9f4c9d50-2df6-4901-ba14-b9578ba77b80",
+    "name": "Stakeholder Involvement",
+    "prompt": "Does the text example emphasize involving diverse stakeholders in decision-making or policy design?",
+    "example_ids": [
+      "PIAAC-4972",
+      "PIAAC-6181"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "9f4c9d50-2df6-4901-ba14-b9578ba77b80"
+  },
+  {
+    "id": "7d23427b-42fb-48b1-afa8-5f887cf9ccb5",
+    "name": "Oversight and Monitoring",
+    "prompt": "Does the text example suggest forming oversight bodies or monitoring frameworks for data practices?",
+    "example_ids": [
+      "PIAAC-8002-2",
+      "PIAAC-3058"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "7d23427b-42fb-48b1-afa8-5f887cf9ccb5"
+  },
+  {
+    "id": "2d0d5c18-b0fe-4745-8dcc-3b19526dd2ac",
+    "name": "Community Outreach",
+    "prompt": "Does the text example suggest implementing or enhancing community outreach programs related to AI?",
+    "example_ids": [
+      "PIAAC-3332",
+      "PIAAC-746"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "2d0d5c18-b0fe-4745-8dcc-3b19526dd2ac"
+  },
+  {
+    "id": "b5cf436e-aacc-483b-8131-ba9cf4a24dcc",
+    "name": "AI Literacy Programs",
+    "prompt": "Does the text example propose the development or implementation of AI literacy programs?",
+    "example_ids": [
+      "PIAAC-8447-2",
+      "PIAAC-2091"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "b5cf436e-aacc-483b-8131-ba9cf4a24dcc"
+  },
+  {
+    "id": "4db83c14-e5ed-4825-a8fb-354a069af24d",
+    "name": "Public Education Campaigns",
+    "prompt": "Does the text example recommend launching public education campaigns to raise awareness about AI?",
+    "example_ids": [
+      "PIAAC-7864",
+      "PIAAC-7682"
+    ],
+    "active": true,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "4db83c14-e5ed-4825-a8fb-354a069af24d"
+  },
+  {
+    "id": "aae48ad6-bdf0-4223-824f-99f006292413",
+    "name": "Engagement with Underserved Communities",
+    "prompt": "Does the text example focus on increasing AI education or engagement in underserved or underrepresented communities?",
+    "example_ids": [
+      "PIAAC-11100",
+      "PIAAC-7873"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "aae48ad6-bdf0-4223-824f-99f006292413"
+  },
+  {
+    "id": "c38da14b-6801-4b56-99bb-419bdefcddfc",
+    "name": "Community Feedback",
+    "prompt": "Does the text example emphasize incorporating community feedback in AI development or rollout?",
+    "example_ids": [
+      "PIAAC-11639",
+      "PIAAC-118"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "c38da14b-6801-4b56-99bb-419bdefcddfc"
+  },
+  {
+    "id": "6cb88ac6-310c-4a63-991a-a6ef3424fb68",
+    "name": "AI Ethics Education",
+    "prompt": "Does the text example suggest developing educational programs focused on AI ethics?",
+    "example_ids": [
+      "PIAAC-1352",
+      "PIAAC-9267"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "6cb88ac6-310c-4a63-991a-a6ef3424fb68"
+  },
+  {
+    "id": "d86303b5-d1dd-43f6-9c30-ade19742d839",
+    "name": "Multilingual Resources",
+    "prompt": "Does the text example suggest providing resources or workshops in multiple languages to improve accessibility?",
+    "example_ids": [
+      "PIAAC-7864",
+      "PIAAC-5691"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "d86303b5-d1dd-43f6-9c30-ade19742d839"
+  },
+  {
+    "id": "c4144d49-2f6f-41bf-b3ed-45acd49ebeee",
+    "name": "Community Partnerships",
+    "prompt": "Does the text example recommend partnering with local organizations or communities to enhance outreach and accessibility?",
+    "example_ids": [
+      "PIAAC-10127-2",
+      "PIAAC-2341"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "c4144d49-2f6f-41bf-b3ed-45acd49ebeee"
+  },
+  {
+    "id": "f60263ab-e98e-4a13-96a5-3780e0700f1d",
+    "name": "Workshops for Skills",
+    "prompt": "Does the text example propose conducting workshops to improve specific skills such as digital literacy or AI knowledge?",
+    "example_ids": [
+      "PIAAC-10013",
+      "PIAAC-2198"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "f60263ab-e98e-4a13-96a5-3780e0700f1d"
+  },
+  {
+    "id": "c87f0ffd-525f-48f6-9c8b-c844e0ef091b",
+    "name": "Digital Literacy",
+    "prompt": "Does the text example focus on enhancing digital literacy, particularly for older adults or marginalized groups?",
+    "example_ids": [
+      "PIAAC-5316-2",
+      "PIAAC-11385"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "c87f0ffd-525f-48f6-9c8b-c844e0ef091b"
+  },
+  {
+    "id": "69d948d1-0ab5-4403-844d-825559d656c4",
+    "name": "Educational Programs",
+    "prompt": "Does the text example suggest developing educational programs tailored for diverse communities or groups?",
+    "example_ids": [
+      "PIAAC-11605",
+      "PIAAC-8967"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "69d948d1-0ab5-4403-844d-825559d656c4"
+  },
+  {
+    "id": "d1b70b11-9e72-49de-b8a5-a96b68f9e91a",
+    "name": "Collaborative Platforms",
+    "prompt": "Does the text example recommend creating platforms for resource sharing and collaboration among diverse groups?",
+    "example_ids": [
+      "PIAAC-3350",
+      "PIAAC-8882"
+    ],
+    "active": false,
+    "summary": null,
+    "seed": "concrete recommendations for improving the policy",
+    "policy": "Health-data platforms for resea",
+    "field": "Suggestions",
+    "concept_id": "d1b70b11-9e72-49de-b8a5-a96b68f9e91a"
+  }
+]
